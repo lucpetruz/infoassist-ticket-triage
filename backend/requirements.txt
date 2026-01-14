@@ -1,0 +1,5 @@
+flask==3.0.3
+sqlalchemy==2.0.32
+pg8000==1.31.2
+python-dotenv==1.0.1
+werkzeug==3.0.3
