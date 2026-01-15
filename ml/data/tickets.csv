@@ -1,0 +1,525 @@
+subject,body
+Fattura non ricevuta,"Buongiorno, non abbiamo ancora ricevuto la fattura relativa al mese scorso. Potete verificarne l’invio?"
+Errore importo in fattura,Abbiamo notato che l’importo indicato in fattura non corrisponde a quanto concordato. Potete controllare?
+Richiesta copia fattura,Avrei bisogno di una copia della fattura già emessa per poterla archiviare correttamente.
+Fattura con IVA errata,La fattura ricevuta riporta un’aliquota IVA non corretta. Potete emetterne una corretta?
+Chiarimenti su scadenza pagamento,Vorrei avere conferma sulla data di scadenza del pagamento indicata in fattura.
+Nota di credito richiesta,È necessario emettere una nota di credito a seguito di un errore di fatturazione.
+Pagamento già effettuato,"Vi segnalo che il pagamento relativo alla fattura risulta già effettuato, ma risulta ancora come insoluto."
+Ritardo nel pagamento,Il pagamento subirà un lieve ritardo rispetto alla scadenza prevista.
+Richiesta coordinate bancarie,Potete confermarci le vostre coordinate bancarie per procedere al pagamento?
+Fattura duplicata,Abbiamo ricevuto due volte la stessa fattura. Potete verificare?
+Errore intestazione fattura,La fattura è intestata a una società errata. È possibile correggerla?
+Richiesta dettaglio voci fattura,Avremmo bisogno di un dettaglio più preciso delle voci presenti in fattura.
+Pagamento parziale effettuato,È stato effettuato un pagamento parziale della fattura. Seguirà saldo.
+Fattura non registrata,La fattura inviata non risulta ancora registrata nel nostro sistema.
+Chiarimenti su ritenuta d’acconto,Vorrei chiarimenti sull’applicazione della ritenuta d’acconto indicata in fattura.
+Scadenza pagamento superata,"La fattura risulta scaduta, potete indicarci come procedere?"
+Richiesta estratto conto,Avremmo bisogno di un estratto conto aggiornato delle fatture aperte.
+Errore valuta in fattura,La fattura è stata emessa con una valuta diversa da quella concordata.
+Fattura proforma richiesta,Potreste inviarci una fattura proforma prima dell’emissione definitiva?
+Problema riconciliazione pagamento,Stiamo avendo difficoltà a riconciliare un pagamento con la relativa fattura.
+Richiesta dilazione pagamento,È possibile concordare una dilazione sui termini di pagamento?
+Fattura mancante,Risulta mancante una fattura relativa a un servizio già erogato.
+Errore data fattura,La data indicata in fattura non è corretta.
+Richiesta storno fattura,Chiediamo lo storno della fattura emessa per errore.
+Pagamento non riscontrato,Il pagamento effettuato non risulta ancora riscontrato nei vostri sistemi.
+Chiarimenti su bollo,Vorrei chiarimenti sull’applicazione dell’imposta di bollo in fattura.
+Fattura elettronica scartata,La fattura elettronica risulta scartata dal sistema. Potete reinviarla?
+Richiesta aggiornamento anagrafica,È necessario aggiornare i dati anagrafici per la corretta fatturazione.
+Errore codice destinatario,Il codice destinatario indicato in fattura non è corretto.
+Fattura con importo negativo,La fattura presenta un importo negativo. Potete verificare?
+Pagamento in eccesso,Abbiamo effettuato un pagamento superiore all’importo dovuto. Come possiamo procedere?
+Richiesta rimborso,Chiediamo il rimborso di un importo pagato in eccesso.
+Fattura per servizio non ricevuto,È stata emessa una fattura per un servizio che non risulta erogato.
+Errore descrizione servizio,La descrizione del servizio in fattura non è corretta.
+Richiesta conferma ricezione pagamento,Potete confermare la ricezione del pagamento effettuato?
+Scadenze multiple,"Sono presenti più scadenze per la stessa fattura, potete chiarire?"
+Fattura annullata,La fattura risulta annullata. Potete fornire spiegazioni?
+Richiesta copia nota di credito,Avrei bisogno di una copia della nota di credito emessa.
+Errore imponibile,L’imponibile indicato in fattura non è corretto.
+Pagamento respinto,Il pagamento effettuato è stato respinto dalla banca.
+Fattura di anticipo,"È stata emessa una fattura di anticipo, potete confermare la corretta imputazione?"
+Chiarimenti su saldo finale,Vorrei chiarimenti sul calcolo del saldo finale della fattura.
+Fattura con dati incompleti,La fattura ricevuta presenta dati incompleti.
+Richiesta riepilogo fatture,Avrei bisogno di un riepilogo delle fatture emesse nell’ultimo trimestre.
+Errore arrotondamento,Abbiamo riscontrato un errore di arrotondamento negli importi.
+Pagamento programmato,Il pagamento è stato programmato per la prossima settimana.
+Richiesta conferma contabilizzazione,Potete confermare che la fattura è stata correttamente contabilizzata?
+Fattura stornata,La fattura risulta stornata nei vostri sistemi.
+Fattura non conforme al contratto,La fattura ricevuta non rispecchia le condizioni previste dal contratto sottoscritto.
+Richiesta chiarimenti su fatturazione estera,Avremmo bisogno di chiarimenti sulla fatturazione verso clienti esteri.
+Pagamento non riconciliato,Il pagamento effettuato non risulta riconciliato con le fatture aperte.
+Errore aliquota IVA,L’aliquota IVA applicata in fattura non è corretta.
+Richiesta riemissione fattura elettronica,"La fattura elettronica non è andata a buon fine, potete reinviarla?"
+Fattura contabilizzata due volte,La fattura risulta contabilizzata due volte nei nostri sistemi.
+Chiarimenti su termini di pagamento,Vorrei chiarimenti sui termini di pagamento applicati.
+Pagamento con riferimento errato,Il pagamento è stato effettuato con un riferimento errato.
+Errore ritenuta previdenziale,La ritenuta previdenziale indicata in fattura non è corretta.
+Richiesta storno totale,È necessario procedere con lo storno totale della fattura.
+Fattura con scadenza mancante,La fattura non riporta alcuna data di scadenza.
+Pagamento sospeso,Il pagamento risulta sospeso per verifiche interne.
+Richiesta estratto conto fornitori,Avremmo bisogno dell’estratto conto fornitori aggiornato.
+Errore nella descrizione prestazione,La descrizione della prestazione in fattura non è corretta.
+Fattura emessa in anticipo,La fattura risulta emessa prima dell’erogazione del servizio.
+Richiesta compensazione contabile,Chiediamo la compensazione contabile dell’importo.
+Pagamento con importo errato,Il pagamento è stato effettuato con un importo errato.
+Errore imponibile,L’imponibile indicato non risulta corretto.
+Fattura non trovata,Non riusciamo a trovare la fattura nei nostri archivi.
+Richiesta chiarimenti su fattura di acconto,Vorrei chiarimenti sulla fattura di acconto ricevuta.
+Pagamento contabilizzato in modo errato,Il pagamento risulta contabilizzato in modo errato.
+Errore data competenza,La data di competenza indicata non è corretta.
+Richiesta invio fattura aggiornata,Potete inviarci la versione aggiornata della fattura?
+Fattura con importo zero,La fattura presenta un importo pari a zero.
+Pagamento parziale non registrato,Il pagamento parziale non risulta registrato.
+Errore calcolo IVA,L’IVA è stata calcolata in modo errato.
+Richiesta chiarimenti su autofattura,Avrei bisogno di chiarimenti sull’autofattura emessa.
+Fattura con riferimenti mancanti,In fattura mancano alcuni riferimenti obbligatori.
+Pagamento associato a cliente errato,Il pagamento è stato associato a un cliente errato.
+Errore arrotondamento IVA,È presente un errore di arrotondamento sull’IVA.
+Richiesta invio riepilogo contabile,Avremmo bisogno di un riepilogo contabile aggiornato.
+Fattura con valuta non corretta,La valuta indicata in fattura non è corretta.
+Pagamento respinto per fondi insufficienti,Il pagamento è stato respinto per fondi insufficienti.
+Errore riferimento contratto,Il riferimento al contratto in fattura non è corretto.
+Richiesta chiarimenti su fattura di saldo,Vorrei chiarimenti sulla fattura di saldo ricevuta.
+Fattura con descrizione incompleta,La descrizione in fattura risulta incompleta.
+Pagamento non contabilizzato,Il pagamento non risulta contabilizzato.
+Errore applicazione ritenuta,La ritenuta applicata non è corretta.
+Richiesta conferma chiusura contabile,Potete confermare la chiusura contabile del periodo?
+Fattura con scadenza errata,La scadenza indicata in fattura non è corretta.
+Pagamento in compensazione,Il pagamento è stato effettuato in compensazione.
+Errore riferimento cliente,Il riferimento al cliente indicato non è corretto.
+Richiesta supporto per riconciliazione,Avremmo bisogno di supporto per la riconciliazione contabile.
+Fattura emessa per importo errato,La fattura è stata emessa per un importo errato.
+Pagamento non autorizzato,Il pagamento risulta non autorizzato.
+Errore descrizione costo,La descrizione del costo in fattura non è corretta.
+Richiesta conferma saldo cliente,Potete confermare il saldo attuale del cliente?
+Arresto imprevisto della piattaforma di analisi dati,"La piattaforma di analisi dei dati si è arrestata improvvisamente durante l’elaborazione di un set di dati di grandi dimensioni, causando l’interruzione del flusso di lavoro e la perdita delle analisi non salvate."
+Richiesta di assistenza clienti,"Gentile Assistenza Clienti, vi contatto per ottenere informazioni sulle strategie digitali che possono migliorare l’esperienza dei clienti e ottimizzare i processi interni."
+Analisi dei dati per investimenti,Vi scrivo per richiedere informazioni sui vostri servizi di analisi dei dati applicati alle decisioni di investimento e alla gestione del rischio.
+Problema nei servizi ospedalieri,"Si è verificato un problema nei servizi ospedalieri legato al blocco dei dati multimediali, che ha causato ritardi nelle operazioni cliniche."
+Sicurezza,"Gentile Assistenza Clienti, vi scrivo per segnalare una potenziale vulnerabilità di sicurezza riscontrata nei vostri sistemi informativi."
+Errore di accesso al sistema,Durante il tentativo di accesso al sistema aziendale si è verificato un errore che ha impedito l’autenticazione dell’utente.
+Richiesta informazioni su soluzioni cloud,Sono interessato a ricevere maggiori dettagli sulle vostre soluzioni cloud per la gestione e l’archiviazione dei dati aziendali.
+Malfunzionamento dell’applicazione,"L’applicazione ha smesso di funzionare correttamente dopo l’ultimo aggiornamento software, causando frequenti arresti."
+Supporto tecnico per infrastruttura IT,Vi contatto per richiedere supporto tecnico relativo alla configurazione della nostra infrastruttura IT.
+Problema di integrazione dei dati,Abbiamo riscontrato difficoltà nell’integrare i dati provenienti da più sistemi all’interno della piattaforma centrale.
+Richiesta di consulenza analitica,Desidero ricevere una consulenza sui metodi di analisi avanzata dei dati per migliorare le performance aziendali.
+Interruzione del servizio,"Il servizio è stato interrotto senza preavviso, causando disservizi alle operazioni quotidiane."
+Segnalazione bug software,Vorrei segnalare un bug nel software che genera risultati incoerenti durante l’elaborazione dei dati.
+Richiesta demo prodotto,Sono interessato a programmare una demo del vostro prodotto per valutarne le funzionalità.
+Problema di sicurezza dei dati,È stato rilevato un potenziale problema di sicurezza che potrebbe compromettere la riservatezza dei dati sensibili.
+Lentezza del sistema,Il sistema risulta particolarmente lento durante l’esecuzione di operazioni complesse sui dati.
+Richiesta di aggiornamento software,Vi scrivo per sapere quando sarà disponibile il prossimo aggiornamento del software.
+Errore nella reportistica,I report generati dal sistema presentano incongruenze rispetto ai dati di origine.
+Supporto per migrazione dati,Abbiamo bisogno di supporto per la migrazione dei dati da un sistema legacy a una nuova piattaforma.
+Problema di compatibilità,Sono emersi problemi di compatibilità tra il vostro software e alcuni dei nostri sistemi esistenti.
+Richiesta informazioni su pricing,Potete fornirmi maggiori dettagli sui costi e sui piani tariffari disponibili?
+Accesso non autorizzato,È stato rilevato un tentativo di accesso non autorizzato all’interno del sistema.
+Errore di sincronizzazione,I dati non risultano correttamente sincronizzati tra i vari moduli dell’applicazione.
+Richiesta supporto API,Desidero ricevere supporto tecnico per l’utilizzo e l’integrazione delle vostre API.
+Problema di backup,Il processo di backup automatico non viene completato correttamente.
+Richiesta formazione,Siamo interessati a sessioni di formazione sull’utilizzo avanzato della piattaforma.
+Errore durante l’aggiornamento,Si è verificato un errore critico durante l’aggiornamento del sistema.
+Problema di visualizzazione dati,Alcuni dati non vengono visualizzati correttamente all’interno delle dashboard.
+Supporto per analisi predittiva,Vi contatto per ricevere supporto sull’implementazione di modelli di analisi predittiva.
+Richiesta documentazione tecnica,Avrei bisogno della documentazione tecnica aggiornata del prodotto.
+Problema di autorizzazioni,Gli utenti non riescono ad accedere a determinate funzionalità a causa di problemi di autorizzazione.
+Segnalazione anomalia di sistema,È stata rilevata un’anomalia di sistema che richiede verifica immediata.
+Richiesta informazioni su integrazioni,Vorrei sapere quali integrazioni con sistemi di terze parti sono disponibili.
+Errore nei log di sistema,I log di sistema mostrano errori ricorrenti durante l’elaborazione.
+Problema di scalabilità,La piattaforma mostra limiti di scalabilità con volumi di dati elevati.
+Richiesta supporto urgente,Necessitiamo di supporto urgente per risolvere un problema critico.
+Errore di configurazione,È stato individuato un errore nella configurazione iniziale del sistema.
+Problema di latenza,Si riscontrano problemi di latenza nelle comunicazioni tra i servizi.
+Richiesta audit di sicurezza,Siamo interessati a un audit di sicurezza dei nostri sistemi.
+Errore nei permessi,Alcuni permessi non vengono applicati correttamente agli utenti.
+Problema di esportazione dati,L’esportazione dei dati in formato CSV non va a buon fine.
+Richiesta consulenza IT,Desideriamo una consulenza IT per ottimizzare l’architettura esistente.
+Errore di connessione,Il sistema perde frequentemente la connessione al database.
+Problema di aggiornamento dati,I dati non vengono aggiornati in tempo reale come previsto.
+Richiesta supporto avanzato,Abbiamo bisogno di supporto avanzato per una configurazione personalizzata.
+Errore di validazione,Il sistema segnala errori di validazione anche con dati corretti.
+Problema di performance,Le performance complessive del sistema risultano inferiori alle aspettative.
+Richiesta informazioni generali,Vi contatto per ricevere informazioni generali sui vostri servizi.
+Richiesta supporto per reportistica avanzata,Vi contatto per ricevere assistenza sulla creazione di report avanzati e personalizzati a partire dai dati disponibili in piattaforma.
+Errore nel caricamento dei dati,Durante il caricamento dei dati si verifica un errore che impedisce il completamento dell’operazione.
+Problema di accesso multiutente,Più utenti riscontrano difficoltà ad accedere contemporaneamente al sistema.
+Richiesta informazioni su sicurezza cloud,Desidero ricevere maggiori informazioni sulle misure di sicurezza adottate per i servizi cloud.
+Errore di calcolo nei risultati,I risultati dell’analisi mostrano errori di calcolo rispetto ai dati di input.
+Problema di integrazione API,L’integrazione tramite API non restituisce i dati attesi.
+Richiesta supporto per dashboard,Abbiamo bisogno di supporto per configurare correttamente le dashboard di monitoraggio.
+Interruzione programmata del servizio,Vorrei ricevere conferma sulle tempistiche dell’interruzione programmata del servizio.
+Errore di esportazione PDF,L’esportazione dei report in formato PDF non viene completata correttamente.
+Problema di autenticazione,Il sistema di autenticazione non riconosce correttamente le credenziali degli utenti.
+Richiesta ottimizzazione performance,Desideriamo suggerimenti per migliorare le performance complessive della piattaforma.
+Errore nella gestione utenti,Si riscontrano anomalie nella creazione e modifica degli utenti.
+Problema di duplicazione dati,Alcuni record risultano duplicati dopo l’importazione dei dati.
+Richiesta informazioni su compliance,Vorrei informazioni sulla conformità della piattaforma alle normative vigenti.
+Errore di timeout,Le operazioni di elaborazione superano frequentemente il tempo massimo consentito.
+Problema di aggiornamento automatico,L’aggiornamento automatico dei dati non avviene con la frequenza prevista.
+Richiesta supporto per configurazione iniziale,Abbiamo bisogno di assistenza nella fase di configurazione iniziale del sistema.
+Errore nella visualizzazione grafici,Alcuni grafici non vengono visualizzati correttamente nelle dashboard.
+Problema di compatibilità browser,La piattaforma presenta problemi di funzionamento con alcuni browser.
+Richiesta accesso a funzionalità avanzate,Vorrei sapere come abilitare le funzionalità avanzate per il nostro account.
+Errore nei processi batch,I processi batch notturni terminano con errori non previsti.
+Problema di gestione permessi,I permessi assegnati agli utenti non vengono applicati correttamente.
+Richiesta informazioni su SLA,Potete fornire dettagli sugli accordi di livello di servizio disponibili?
+Errore di connessione ai servizi esterni,La piattaforma non riesce a collegarsi correttamente a servizi esterni.
+Problema di sincronizzazione in tempo reale,I dati non risultano sincronizzati in tempo reale tra i sistemi.
+Richiesta supporto per analisi statistiche,Desideriamo supporto per l’implementazione di analisi statistiche avanzate.
+Errore nel salvataggio delle modifiche,Le modifiche apportate non vengono salvate correttamente.
+Problema di gestione notifiche,Le notifiche di sistema non vengono inviate come previsto.
+Richiesta informazioni su roadmap prodotto,Vorrei conoscere le prossime evoluzioni previste per il prodotto.
+Errore di parsing dei dati,Il sistema segnala errori durante il parsing dei dati in ingresso.
+Problema di carico del sistema,Il sistema va in sovraccarico durante i picchi di utilizzo.
+Richiesta supporto per esportazione dati,Abbiamo bisogno di assistenza per esportare grandi volumi di dati.
+Errore nella pianificazione processi,La pianificazione automatica dei processi non funziona correttamente.
+Problema di latenza API,Le chiamate API presentano latenze elevate.
+Richiesta informazioni su backup e recovery,Vorrei dettagli sulle procedure di backup e ripristino dei dati.
+Errore di autorizzazione,Il sistema restituisce errori di autorizzazione anche per utenti abilitati.
+Problema di configurazione rete,Sono presenti problemi legati alla configurazione di rete.
+Richiesta supporto per sicurezza applicativa,Desideriamo supporto per migliorare la sicurezza applicativa.
+Errore nei dati aggregati,I dati aggregati non risultano coerenti con i dati di dettaglio.
+Problema di gestione sessioni,Le sessioni utente scadono in modo anomalo.
+Richiesta consulenza su architettura dati,Avremmo bisogno di una consulenza sull’architettura dei dati.
+Errore di importazione CSV,L’importazione di file CSV genera errori non previsti.
+Problema di monitoraggio,Il sistema di monitoraggio non rileva correttamente alcune anomalie.
+Richiesta supporto per personalizzazioni,Desideriamo assistenza per personalizzare alcune funzionalità.
+Errore di aggiornamento configurazioni,Le configurazioni aggiornate non vengono applicate correttamente.
+Problema di gestione log,I log di sistema non vengono registrati in modo completo.
+Richiesta informazioni su licenze,Potete fornire dettagli sulle tipologie di licenze disponibili?
+Errore di avvio del servizio,Il servizio non si avvia correttamente dopo il riavvio.
+Problema di consistenza dei dati,Sono state rilevate incongruenze nella consistenza dei dati.
+Richiesta supporto per gestione incidenti,Vi contatto per ricevere supporto nella gestione strutturata degli incidenti di sistema.
+Errore nella pianificazione backup,La pianificazione dei backup automatici presenta errori ricorrenti.
+Problema di accesso ai report,Alcuni utenti non riescono ad accedere ai report disponibili.
+Richiesta informazioni su crittografia dati,Vorrei maggiori informazioni sulle tecniche di crittografia utilizzate per la protezione dei dati.
+Errore nella gestione transazioni,Si verificano errori nella gestione delle transazioni di sistema.
+Problema di aggiornamento modelli analitici,I modelli analitici non vengono aggiornati correttamente.
+Richiesta supporto per orchestrazione servizi,Abbiamo bisogno di assistenza per l’orchestrazione dei servizi applicativi.
+Errore di validazione configurazioni,Le configurazioni inserite non superano i controlli di validazione.
+Problema di isolamento ambienti,Gli ambienti di test e produzione non risultano correttamente isolati.
+Richiesta informazioni su audit interni,Vorrei informazioni sulle procedure di audit interno disponibili.
+Errore nella gestione dei workflow,I workflow configurati non vengono eseguiti correttamente.
+Problema di archiviazione documentale,Si riscontrano problemi nell’archiviazione dei documenti.
+Richiesta supporto per data quality,Desideriamo supporto per migliorare la qualità dei dati.
+Errore di replica servizi,La replica dei servizi non funziona come previsto.
+Problema di compatibilità hardware,La piattaforma presenta problemi con alcune configurazioni hardware.
+Richiesta informazioni su disaster recovery,Vorrei ricevere dettagli sulle soluzioni di disaster recovery.
+Errore di gestione configurazioni dinamiche,Le configurazioni dinamiche non vengono applicate correttamente.
+Problema di bilanciamento del carico,Il bilanciamento del carico non distribuisce correttamente le richieste.
+Richiesta supporto per controllo accessi,Abbiamo bisogno di assistenza per il controllo degli accessi.
+Errore nei processi di validazione dati,I processi di validazione dei dati producono risultati errati.
+Problema di aggiornamento metadati,I metadati non vengono aggiornati correttamente.
+Richiesta informazioni su conformità normativa,Vorrei informazioni sulla conformità normativa della piattaforma.
+Errore di sincronizzazione configurazioni,Le configurazioni non risultano sincronizzate tra gli ambienti.
+Problema di gestione dipendenze,La gestione delle dipendenze software presenta criticità.
+Richiesta supporto per ottimizzazione costi,Desideriamo supporto per ottimizzare i costi infrastrutturali.
+Errore nella gestione code messaggi,Le code di messaggi non vengono elaborate correttamente.
+Problema di disponibilità servizio,Il servizio non è sempre disponibile durante l’orario operativo.
+Richiesta consulenza su scalabilità,Avremmo bisogno di una consulenza sulle strategie di scalabilità.
+Errore di aggiornamento policy,Le policy di sicurezza non vengono aggiornate correttamente.
+Problema di tracciamento eventi,Il tracciamento degli eventi non risulta completo.
+Richiesta supporto per sicurezza perimetrale,Desideriamo migliorare la sicurezza perimetrale dei sistemi.
+Errore di configurazione storage,La configurazione dello storage presenta errori.
+Problema di gestione snapshot,La gestione delle snapshot non funziona correttamente.
+Richiesta informazioni su standard di sicurezza,Vorrei informazioni sugli standard di sicurezza adottati.
+Errore nella gestione delle notifiche critiche,Le notifiche critiche non vengono inviate correttamente.
+Problema di consistenza configurazioni,Sono presenti incongruenze nelle configurazioni.
+Richiesta supporto per migrazione cloud,Abbiamo bisogno di supporto per la migrazione verso il cloud.
+Errore di allocazione spazio disco,Si verificano errori nell’allocazione dello spazio disco.
+Problema di monitoraggio prestazioni,Il monitoraggio delle prestazioni non fornisce dati accurati.
+Richiesta informazioni su supporto h24,Vorrei informazioni sulle opzioni di supporto attivo 24/7.
+Errore di gestione credenziali,Il sistema non gestisce correttamente le credenziali.
+Problema di sicurezza infrastrutturale,Sono state individuate criticità nella sicurezza infrastrutturale.
+Richiesta consulenza su continuità operativa,Desideriamo una consulenza sulla continuità operativa.
+Errore di sincronizzazione log,I log non vengono sincronizzati correttamente.
+Problema di gestione configurazioni centralizzate,La gestione centralizzata delle configurazioni presenta problemi.
+Richiesta informazioni su piani di servizio,Vorrei informazioni sui diversi piani di servizio disponibili.
+Errore di arresto anomalo del servizio,Il servizio si arresta in modo anomalo senza preavviso.
+Richiesta supporto per gestione capacità,Vi contatto per ricevere supporto nella gestione della capacità infrastrutturale.
+Errore nella configurazione dei servizi,Alcuni servizi risultano configurati in modo errato.
+Problema di accesso ai dati storici,Non è possibile accedere correttamente ai dati storici archiviati.
+Richiesta informazioni su continuità del servizio,Vorrei ricevere dettagli sulle misure adottate per garantire la continuità del servizio.
+Errore nella gestione dei certificati SSL,I certificati SSL non vengono gestiti correttamente dal sistema.
+Problema di aggiornamento sistemi legacy,I sistemi legacy non vengono aggiornati correttamente.
+Richiesta supporto per segmentazione rete,Abbiamo bisogno di assistenza per la segmentazione della rete.
+Errore di sincronizzazione database,La sincronizzazione del database presenta errori ricorrenti.
+Problema di disponibilità risorse,Le risorse di sistema non risultano sempre disponibili.
+Richiesta informazioni su policy di retention,Vorrei informazioni sulle policy di conservazione dei dati.
+Errore nella gestione delle dipendenze applicative,Le dipendenze applicative non vengono risolte correttamente.
+Problema di configurazione DNS,Sono presenti errori nella configurazione DNS.
+Richiesta supporto per sicurezza dei container,Desideriamo supporto per migliorare la sicurezza dei container.
+Errore di aggiornamento sistemi distribuiti,L’aggiornamento dei sistemi distribuiti non va a buon fine.
+Problema di orchestrazione container,L’orchestrazione dei container non funziona correttamente.
+Richiesta informazioni su standard di compliance,Vorrei informazioni sugli standard di compliance supportati.
+Errore nella gestione delle chiavi crittografiche,Le chiavi crittografiche non vengono gestite correttamente.
+Problema di accesso ai servizi interni,Alcuni servizi interni non sono raggiungibili.
+Richiesta supporto per logging centralizzato,Abbiamo bisogno di assistenza per implementare un logging centralizzato.
+Errore di configurazione load balancer,Il load balancer non è configurato correttamente.
+Problema di gestione patch di sicurezza,Le patch di sicurezza non vengono applicate correttamente.
+Richiesta informazioni su certificazioni ISO,Vorrei informazioni sulle certificazioni ISO possedute.
+Errore di sincronizzazione ambienti,Gli ambienti non risultano sincronizzati correttamente.
+Problema di gestione backup incrementali,I backup incrementali non vengono eseguiti correttamente.
+Richiesta supporto per ottimizzazione database,Desideriamo supporto per ottimizzare le prestazioni del database.
+Errore nella gestione delle configurazioni di rete,Le configurazioni di rete presentano errori.
+Problema di disponibilità applicativa,L’applicazione non è sempre disponibile.
+Richiesta consulenza su resilienza sistemi,Avremmo bisogno di una consulenza sulla resilienza dei sistemi.
+Errore di gestione dei token di accesso,I token di accesso non vengono gestiti correttamente.
+Problema di monitoraggio sicurezza,Il monitoraggio della sicurezza non rileva tutte le anomalie.
+Richiesta supporto per gestione vulnerabilità,Abbiamo bisogno di supporto per la gestione delle vulnerabilità.
+Errore di configurazione proxy,La configurazione del proxy presenta errori.
+Problema di integrazione sistemi esterni,L’integrazione con sistemi esterni presenta criticità.
+Richiesta informazioni su supporto dedicato,Vorrei informazioni sulle opzioni di supporto dedicato.
+Errore nella gestione delle code asincrone,Le code asincrone non vengono gestite correttamente.
+Problema di aggiornamento policy di accesso,Le policy di accesso non vengono aggiornate correttamente.
+Richiesta supporto per gestione SLA,Desideriamo assistenza per la gestione degli SLA.
+Errore di sincronizzazione dati in cloud,I dati in cloud non risultano sincronizzati correttamente.
+Problema di controllo versioni,Il controllo delle versioni non funziona come previsto.
+Richiesta consulenza su architetture cloud,Avremmo bisogno di una consulenza sulle architetture cloud.
+Errore nella gestione delle risorse condivise,Le risorse condivise non vengono gestite correttamente.
+Problema di disponibilità dei servizi critici,Alcuni servizi critici non risultano disponibili.
+Richiesta informazioni su livelli di servizio,Vorrei informazioni sui livelli di servizio garantiti.
+Errore di configurazione sicurezza applicativa,La sicurezza applicativa non è configurata correttamente.
+Problema di gestione aggiornamenti automatici,Gli aggiornamenti automatici non funzionano come previsto.
+Richiesta supporto per audit di sicurezza,Abbiamo bisogno di supporto per effettuare un audit di sicurezza.
+Errore di avvio servizi secondari,I servizi secondari non si avviano correttamente.
+Problema di affidabilità del sistema,Il sistema non garantisce un livello adeguato di affidabilità.
+La piattaforma si è bloccata all’improvviso,La piattaforma di analisi dei dati si è bloccata all’improvviso mentre stavo lavorando su un progetto importante e ho perso tutte le modifiche non salvate.
+Richiesta informazioni al supporto clienti,"Buongiorno, vi scrivo per avere maggiori informazioni su come migliorare le strategie digitali e rendere più efficienti i nostri processi."
+Analisi dati per decisioni di investimento,Vi contatto perché sono interessato a capire come i vostri servizi di analisi dei dati possano supportare le decisioni di investimento.
+Problemi nei servizi ospedalieri,"Si è verificato un problema nei servizi dell’ospedale legato al blocco dei dati multimediali, causando ritardi nelle attività quotidiane."
+Segnalazione problema di sicurezza,"Buongiorno, vi segnalo una possibile criticità di sicurezza che ho notato nei vostri sistemi."
+Non riesco ad accedere al sistema,Sto riscontrando problemi di accesso al sistema aziendale e non riesco ad autenticarmi correttamente.
+Informazioni sulle soluzioni cloud,Vorrei ricevere qualche dettaglio in più sulle vostre soluzioni cloud per la gestione dei dati.
+L’app continua a bloccarsi,Dopo l’ultimo aggiornamento l’applicazione si blocca spesso e diventa difficile lavorare.
+Richiesta di supporto tecnico IT,Avrei bisogno di supporto tecnico per sistemare alcuni aspetti della nostra infrastruttura IT.
+Difficoltà nell’integrare i dati,Stiamo avendo problemi nell’integrare dati provenienti da sistemi diversi all’interno della piattaforma.
+Consulenza per analisi avanzate,Saremmo interessati a una consulenza su come utilizzare al meglio le analisi avanzate dei dati.
+Servizio non disponibile,Il servizio risulta non disponibile senza alcun preavviso e questo sta creando disagi operativi.
+Bug nel software,Ho notato un bug nel software che produce risultati incoerenti durante l’elaborazione dei dati.
+Richiesta di una demo del prodotto,Sarei interessato a vedere una demo del vostro prodotto per capirne meglio le funzionalità.
+Possibile problema di sicurezza dei dati,Credo ci sia un problema di sicurezza che potrebbe mettere a rischio alcuni dati sensibili.
+Il sistema è molto lento,"Negli ultimi giorni il sistema è diventato molto lento, soprattutto con operazioni complesse."
+Quando arriva il prossimo aggiornamento?,Vorrei sapere quando sarà disponibile il prossimo aggiornamento del software.
+Report con dati errati,I report generati dal sistema non sembrano coerenti con i dati originali.
+Aiuto per la migrazione dei dati,Avremmo bisogno di supporto per spostare i dati da un vecchio sistema a uno nuovo.
+Problemi di compatibilità,Stiamo riscontrando problemi di compatibilità tra il vostro software e i nostri sistemi.
+Chiarimenti sui costi,Potreste darmi qualche informazione in più sui costi e sui piani disponibili?
+Tentativo di accesso sospetto,Abbiamo rilevato un tentativo di accesso sospetto al sistema.
+Dati non sincronizzati,I dati non risultano sincronizzati correttamente tra i vari moduli.
+Supporto per utilizzo API,Avrei bisogno di aiuto per integrare correttamente le vostre API.
+Backup non completato,Il backup automatico non viene completato e non capiamo il motivo.
+Richiesta di formazione,Saremmo interessati a fare formazione per utilizzare meglio la piattaforma.
+Errore durante l’aggiornamento,Durante l’aggiornamento del sistema si è verificato un errore critico.
+Dati visualizzati in modo errato,Alcuni dati non vengono mostrati correttamente nelle dashboard.
+Aiuto per analisi predittive,Vorrei supporto per implementare modelli di analisi predittiva.
+Richiesta documentazione,Avrei bisogno della documentazione tecnica più aggiornata.
+Problemi con i permessi utente,Alcuni utenti non riescono ad accedere a determinate funzionalità.
+Anomalia nel sistema,Abbiamo rilevato un comportamento anomalo del sistema che va verificato.
+Integrazioni disponibili,Vorrei sapere con quali sistemi esterni la piattaforma può integrarsi.
+Errori nei log,Nei log di sistema compaiono spesso errori durante l’elaborazione.
+Limiti di scalabilità,Con grandi volumi di dati la piattaforma sembra andare in difficoltà.
+Supporto urgente necessario,Abbiamo un problema critico e avremmo bisogno di supporto urgente.
+Errore di configurazione iniziale,Credo ci sia un errore nella configurazione iniziale del sistema.
+Problemi di latenza,Stiamo riscontrando forti ritardi nella comunicazione tra i servizi.
+Audit di sicurezza,Saremmo interessati a fare un audit di sicurezza sui nostri sistemi.
+Permessi non applicati correttamente,Alcuni permessi non vengono applicati come dovrebbero.
+Errore nell’esportazione dei dati,Non riusciamo a esportare correttamente i dati in formato CSV.
+Consulenza IT,Vorremmo una consulenza IT per migliorare l’architettura attuale.
+Problemi di connessione al database,Il sistema perde spesso la connessione con il database.
+Dati non aggiornati,I dati non si aggiornano in tempo reale come ci aspettavamo.
+Supporto avanzato richiesto,Abbiamo bisogno di un supporto più avanzato per una configurazione personalizzata.
+Errore di validazione,Il sistema segnala errori di validazione anche quando i dati sono corretti.
+Prestazioni del sistema insufficienti,Le prestazioni generali del sistema sono inferiori alle nostre aspettative.
+Aggiornamenti di sicurezza disponibili,Vi scrivo per sapere se sono disponibili nuovi aggiornamenti di sicurezza per la piattaforma.
+Problemi nella gestione delle code,Stiamo riscontrando problemi nella gestione delle code di elaborazione e alcuni processi restano bloccati.
+Difficoltà di accesso da remoto,Alcuni colleghi non riescono ad accedere alla piattaforma quando lavorano da remoto.
+Integrazione con sistemi ERP,Vorrei avere maggiori informazioni su come integrare la piattaforma con il nostro sistema ERP.
+Ricerche lente sui dati,"Le ricerche sui dati sono molto lente, probabilmente a causa di problemi di indicizzazione."
+Problemi su dispositivi mobili,La piattaforma non funziona correttamente quando viene usata da smartphone o tablet.
+Automazione dei processi,Vorremmo automatizzare alcuni processi operativi e avremmo bisogno di supporto.
+Ruoli utente non assegnati,I ruoli degli utenti non vengono assegnati correttamente all’interno del sistema.
+Dashboard non aggiornate,Le dashboard non si aggiornano in tempo reale come dovrebbero.
+Funzionalità di intelligenza artificiale,Mi piacerebbe capire meglio quali funzionalità di intelligenza artificiale offre il sistema.
+Errori nei dati inseriti,Il sistema segnala errori anche quando i dati inseriti sembrano corretti.
+Consumo eccessivo di risorse,L’applicazione utilizza troppe risorse e rallenta il lavoro.
+Ambienti di test separati,Avremmo bisogno di configurare ambienti di test separati da quelli di produzione.
+Replica del database non funzionante,La replica del database non sembra funzionare correttamente.
+Gestione delle versioni,Abbiamo difficoltà a gestire le diverse versioni del software.
+Prossimi aggiornamenti del prodotto,Vorrei sapere quali aggiornamenti sono previsti per il prodotto.
+Problemi di archiviazione dati,Stiamo riscontrando errori durante i processi di archiviazione dei dati.
+Compatibilità con sistemi operativi,La piattaforma non funziona bene su alcuni sistemi operativi.
+Sicurezza dei dati archiviati,Vorremmo migliorare la sicurezza dei dati che archiviamo nel sistema.
+Gestione delle eccezioni,Il sistema non gestisce correttamente alcune situazioni di errore.
+Lentezza del database,Il database risponde molto lentamente alle query.
+Consulenza sulla data governance,Avremmo bisogno di una consulenza sulle politiche di gestione dei dati.
+Aggiornamento firmware fallito,L’aggiornamento del firmware non va a buon fine.
+Problemi di logging,Il sistema di logging non registra tutte le informazioni necessarie.
+Interoperabilità con altri sistemi,Vorrei capire come rendere il sistema interoperabile con altre piattaforme.
+Cluster configurato male,Il cluster sembra non essere configurato correttamente.
+Failover non funzionante,Il sistema di failover non entra in funzione quando dovrebbe.
+Alta disponibilità del sistema,Avremmo bisogno di aiuto per configurare una soluzione di alta disponibilità.
+Sincronizzazione utenti,La sincronizzazione degli utenti tra i sistemi non funziona correttamente.
+Criticità di sicurezza,Sono state individuate alcune criticità di sicurezza nell’applicazione.
+Certificazioni di sicurezza,Vorrei informazioni sulle certificazioni di sicurezza possedute.
+Interfaccia non caricata,L’interfaccia utente non si carica correttamente.
+Problemi di cache,La cache causa la visualizzazione di dati non aggiornati.
+Analisi big data,Avremmo bisogno di supporto per progetti di analisi big data.
+Errori nella normalizzazione dei dati,I processi di normalizzazione dei dati producono errori.
+Configurazione firewall,Ci sono problemi nella configurazione del firewall.
+Funzionalità di machine learning,Vorrei maggiori dettagli sulle funzionalità di machine learning disponibili.
+Accesso ai log negato,Non riusciamo ad accedere correttamente ai log di sistema.
+Gestione delle patch,Le patch di sistema non vengono applicate correttamente.
+Integrazione continua,Avremmo bisogno di aiuto per implementare pipeline di integrazione continua.
+Errori di allocazione risorse,Si verificano errori nell’allocazione delle risorse.
+Servizio instabile,Il servizio non è stabile e presenta frequenti interruzioni.
+Consulenza sulla sicurezza IT,Vorremmo una consulenza approfondita sulla sicurezza IT.
+Problemi con i certificati digitali,Il sistema non gestisce correttamente i certificati digitali.
+Tracciabilità dei dati,Non riusciamo a garantire una corretta tracciabilità dei dati.
+Supporto premium,Vorrei informazioni sulle opzioni di supporto premium.
+Applicazione non si avvia,Dopo l’installazione l’applicazione non si avvia correttamente.
+Aiuto per gestire gli incidenti,Vi contatto perché avremmo bisogno di supporto per gestire in modo più efficace gli incidenti di sistema.
+Backup programmati non funzionano,I backup automatici non vengono eseguiti correttamente secondo la pianificazione.
+Impossibile accedere ai report,Alcuni colleghi non riescono ad aprire i report disponibili sulla piattaforma.
+Crittografia dei dati,Vorrei qualche informazione in più su come vengono crittografati e protetti i dati.
+Errori nelle transazioni,Stiamo riscontrando errori nella gestione delle transazioni del sistema.
+Modelli analitici non aggiornati,I modelli di analisi non si aggiornano correttamente con i nuovi dati.
+Orchestrazione dei servizi,Avremmo bisogno di supporto per gestire meglio l’orchestrazione dei servizi.
+Configurazioni non valide,Alcune configurazioni non vengono accettate dal sistema.
+Ambienti non isolati correttamente,Gli ambienti di test e produzione non sembrano essere isolati come dovrebbero.
+Audit interni,Vorrei informazioni sulle procedure di audit interno disponibili.
+Workflow che non partono,I workflow configurati non vengono eseguiti correttamente.
+Problemi nell’archiviazione documenti,Stiamo avendo difficoltà nell’archiviazione dei documenti.
+Migliorare la qualità dei dati,Vorremmo supporto per migliorare la qualità dei dati che utilizziamo.
+Replica dei servizi non funzionante,La replica dei servizi non funziona come previsto.
+Problemi con l’hardware,La piattaforma presenta problemi con alcune configurazioni hardware.
+Soluzioni di disaster recovery,Vorrei maggiori dettagli sulle soluzioni di disaster recovery disponibili.
+Configurazioni dinamiche non applicate,Le configurazioni dinamiche non vengono applicate correttamente.
+Bilanciamento del carico inefficace,Il bilanciamento del carico non distribuisce bene le richieste.
+Controllo degli accessi,Avremmo bisogno di supporto per migliorare il controllo degli accessi.
+Errori nella validazione dei dati,I processi di validazione dei dati restituiscono risultati errati.
+Metadati non aggiornati,I metadati non vengono aggiornati correttamente.
+Conformità alle normative,Vorrei informazioni sulla conformità della piattaforma alle normative.
+Configurazioni non sincronizzate,Le configurazioni non sono sincronizzate tra i vari ambienti.
+Problemi con le dipendenze software,Stiamo riscontrando problemi nella gestione delle dipendenze software.
+Ottimizzazione dei costi,Vorremmo supporto per ottimizzare i costi dell’infrastruttura.
+Code di messaggi bloccate,Le code di messaggi non vengono elaborate correttamente.
+Servizio non sempre disponibile,Il servizio non è sempre disponibile durante l’orario di lavoro.
+Scalabilità del sistema,Avremmo bisogno di una consulenza per migliorare la scalabilità del sistema.
+Policy di sicurezza non aggiornate,Le policy di sicurezza non vengono aggiornate correttamente.
+Eventi non tracciati,Il sistema non traccia correttamente tutti gli eventi.
+Sicurezza perimetrale,Vorremmo migliorare la sicurezza perimetrale dei nostri sistemi.
+Problemi di storage,Stiamo riscontrando errori nella configurazione dello storage.
+Snapshot non funzionanti,La gestione delle snapshot non funziona correttamente.
+Standard di sicurezza adottati,Vorrei informazioni sugli standard di sicurezza che adottate.
+Notifiche critiche mancanti,Le notifiche critiche non vengono inviate correttamente.
+Incongruenze nelle configurazioni,Abbiamo notato alcune incongruenze nelle configurazioni.
+Migrazione verso il cloud,Avremmo bisogno di supporto per la migrazione dei sistemi verso il cloud.
+Spazio disco insufficiente,Si verificano errori legati all’allocazione dello spazio disco.
+Monitoraggio delle prestazioni,Il monitoraggio delle prestazioni non sembra fornire dati affidabili.
+Supporto attivo 24/7,Vorrei informazioni sulle opzioni di supporto attivo 24 ore su 24.
+Gestione delle credenziali,Il sistema non gestisce correttamente le credenziali di accesso.
+Sicurezza dell’infrastruttura,Sono emerse alcune criticità nella sicurezza dell’infrastruttura.
+Continuità operativa,Avremmo bisogno di una consulenza sulla continuità operativa.
+Log non sincronizzati,I log non vengono sincronizzati correttamente tra i sistemi.
+Configurazioni centralizzate,La gestione centralizzata delle configurazioni presenta problemi.
+Piani di servizio disponibili,Vorrei informazioni sui diversi piani di servizio disponibili.
+Arresto anomalo del servizio,Il servizio si arresta improvvisamente senza preavviso.
+Richiesta aggiornamento preventivo,Avremmo bisogno di un aggiornamento del preventivo inviato in precedenza.
+Offerta scaduta,"L’offerta ricevuta risulta scaduta, è possibile rinnovarla?"
+Chiarimenti su tempi di risposta,Vorrei sapere quali sono i tempi di risposta previsti dopo l’invio di un preventivo.
+Richiesta confronto offerte,Vorremmo confrontare diverse opzioni di offerta disponibili.
+Problema con codice sconto,Il codice sconto ricevuto non sembra funzionare correttamente.
+Richiesta condizioni per grandi volumi,Potete applicare condizioni particolari per grandi volumi di acquisto?
+Errore quantità in ordine,La quantità indicata nell’ordine non è corretta.
+Modifica indirizzo di consegna,Avremmo bisogno di modificare l’indirizzo di consegna dell’ordine.
+Richiesta conferma prezzi,Potete confermare che i prezzi indicati siano definitivi?
+Chiarimenti su validità offerta,Fino a quando resta valida l’offerta commerciale?
+Problema con ordine online,Abbiamo riscontrato un problema durante l’invio di un ordine online.
+Richiesta contatto post-vendita,Avrei bisogno di parlare con un referente commerciale post-vendita.
+Errore nel riepilogo ordine,Il riepilogo dell’ordine presenta informazioni errate.
+Richiesta upgrade contratto,Vorremmo effettuare un upgrade del contratto attuale.
+Informazioni su nuovi prodotti,Siamo interessati a conoscere i nuovi prodotti disponibili.
+Problema con sconto applicato,Lo sconto applicato non corrisponde a quanto concordato.
+Richiesta modifica condizioni,Vorremmo modificare alcune condizioni commerciali.
+Ordine bloccato,L’ordine risulta bloccato e non sappiamo come procedere.
+Chiarimenti su penali di recesso,Vorrei maggiori dettagli sulle penali in caso di recesso anticipato.
+Richiesta consulenza commerciale,Avremmo bisogno di una consulenza commerciale dedicata.
+Errore prezzo unitario,Il prezzo unitario indicato non è corretto.
+Richiesta proroga offerta,È possibile prorogare la validità dell’offerta?
+Problema con rinnovo automatico,Il rinnovo automatico del servizio non è avvenuto come previsto.
+Richiesta adeguamento prezzi,Vorremmo discutere un adeguamento dei prezzi.
+Chiarimenti su servizi opzionali,Vorrei informazioni sui servizi opzionali disponibili.
+Errore descrizione prodotto,La descrizione del prodotto in offerta non è corretta.
+Richiesta nuova proposta,Potete inviarci una nuova proposta commerciale?
+Ordine parzialmente evaso,L’ordine risulta solo parzialmente evaso.
+Problema con conferma ordine,Non abbiamo ricevuto la conferma dell’ordine.
+Richiesta variazione quantità,Vorremmo variare le quantità ordinate.
+Chiarimenti su costi aggiuntivi,Sono previsti costi aggiuntivi rispetto a quanto indicato?
+Errore totale ordine,Il totale dell’ordine non è corretto.
+Richiesta assistenza commerciale urgente,Avremmo bisogno di assistenza commerciale urgente.
+Problema con contratto attivo,Stiamo riscontrando un problema con un contratto attivo.
+Richiesta estensione servizi,Vorremmo estendere i servizi inclusi nel contratto.
+Chiarimenti su modalità di fatturazione,Vorrei chiarimenti sulle modalità di fatturazione commerciale.
+Errore configurazione ordine,L’ordine risulta configurato in modo errato.
+Richiesta nuovo listino,Potete inviarci il nuovo listino prezzi?
+Problema con offerte multiple,Abbiamo ricevuto più offerte e non sappiamo quale sia valida.
+Richiesta revisione condizioni,Vorremmo rivedere alcune condizioni dell’accordo.
+Errore applicazione promozione,La promozione non è stata applicata correttamente.
+Richiesta informazioni su bundle,Vorrei informazioni su eventuali bundle disponibili.
+Problema con upgrade servizio,L’upgrade richiesto non è stato applicato.
+Richiesta verifica stato trattativa,Potete aggiornarmi sullo stato della trattativa commerciale?
+Chiarimenti su clausole contrattuali,Avrei bisogno di chiarimenti su alcune clausole del contratto.
+Errore canone mensile,Il canone mensile indicato non è corretto.
+Richiesta supporto pre-vendita,Avrei bisogno di supporto pre-vendita per valutare l’offerta.
+Problema con condizioni concordate,Le condizioni applicate non corrispondono a quelle concordate.
+Candidatura spontanea,"Buongiorno, vi invio il mio curriculum per una possibile opportunità lavorativa."
+Invio CV per posizione aperta,Ho visto una posizione aperta sul vostro sito e vi mando il mio CV in allegato.
+Richiesta colloquio conoscitivo,Sarei interessato a un colloquio conoscitivo per valutare possibili collaborazioni.
+Contatto diretto con CEO,È possibile parlare direttamente con il CEO per una proposta importante?
+Richiesta stage,Sono uno studente universitario e vorrei sapere se offrite opportunità di stage.
+Domanda su ambiente di lavoro,Vorrei avere informazioni sull’ambiente di lavoro e sulla cultura aziendale.
+Richiesta sponsorizzazione evento,Stiamo organizzando un evento e vorremmo sapere se siete interessati a sponsorizzarlo.
+Proposta di partnership non commerciale,Vi scrivo per proporre una collaborazione a livello istituzionale.
+Invio candidatura per ufficio HR,Invio il mio curriculum per il reparto risorse umane.
+Richiesta informazioni su carriera,Vorrei sapere quali sono le opportunità di carriera nella vostra azienda.
+Segnalazione generica,Volevo solo segnalare che seguo con interesse le vostre attività.
+Richiesta contatto stampa,Sono un giornalista e vorrei mettermi in contatto con il vostro ufficio stampa.
+Invito a conferenza,Siete invitati come ospiti a una conferenza di settore.
+Proposta di collaborazione accademica,Vi scrivo per proporre una collaborazione accademica con la nostra università.
+Richiesta testimonial,Sareste disponibili a partecipare come testimonial a un nostro progetto?
+Domanda su politica aziendale,Vorrei informazioni sulla vostra politica aziendale interna.
+Segnalazione candidatura già inviata,Vi scrivo per confermare l’invio della mia candidatura.
+Richiesta incontro istituzionale,Vorrei richiedere un incontro istituzionale con un vostro rappresentante.
+Proposta editoriale,Vi contatto per proporvi una collaborazione editoriale.
+Invio progetto personale,Vi mando un mio progetto personale per una vostra valutazione.
+Richiesta mentoring,Sarei interessato a un percorso di mentoring professionale.
+Domanda su smart working,Vorrei sapere se adottate politiche di smart working.
+Richiesta lettera di referenze,È possibile ottenere una lettera di referenze?
+Proposta pubblicitaria,Vi scrivo per proporvi una campagna pubblicitaria.
+Domanda su selezioni in corso,Vorrei sapere se sono in corso selezioni aperte.
+Richiesta supporto non specifico,Ho un problema ma non so a chi rivolgermi.
+Invio candidatura per posizione non specificata,Invio il mio CV per future opportunità.
+Richiesta partecipazione a evento aziendale,È possibile partecipare a un vostro evento aziendale?
+Domanda su sede aziendale,Vorrei sapere dove si trova la vostra sede principale.
+Richiesta visita aziendale,Sarebbe possibile organizzare una visita presso la vostra azienda?
+Proposta di volontariato,Vi contatto per proporre attività di volontariato aziendale.
+Domanda su valori aziendali,Vorrei maggiori informazioni sui vostri valori aziendali.
+Richiesta intervista,Sarebbe possibile organizzare un’intervista con un vostro dirigente?
+Segnalazione generica senza dettagli,Vi scrivo per una segnalazione generica.
+Proposta di evento culturale,Vorremmo invitarvi a partecipare a un evento culturale.
+Richiesta contatto generico,Chiedo di essere ricontattato.
+Invio candidatura fuori profilo,Invio il mio CV anche se non ho trovato posizioni adatte.
+Domanda su organigramma,Vorrei informazioni sull’organigramma aziendale.
+Proposta di collaborazione artistica,Vi scrivo per proporre una collaborazione artistica.
+Richiesta patrocinio,Chiediamo il patrocinio per una nostra iniziativa.
+Domanda su fondazione aziendale,Avete una fondazione o attività di responsabilità sociale?
+Invio presentazione personale,Vi mando una presentazione personale per conoscenza.
+Richiesta supporto personale,Ho una richiesta personale non legata ai vostri servizi.
+Proposta di intervista podcast,Vorremmo intervistare un vostro rappresentante per un podcast.
+Richiesta informazioni generiche,Vorrei semplici informazioni generali sulla vostra azienda.
+Invio candidatura tardiva,Invio la mia candidatura anche se la selezione è chiusa.
+Proposta di networking,Vi scrivo per una proposta di networking professionale.
+Richiesta contatto HR,Vorrei essere messo in contatto con il reparto HR.

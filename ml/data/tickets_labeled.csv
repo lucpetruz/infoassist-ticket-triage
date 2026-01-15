@@ -1,0 +1,525 @@
+id,title,body,category,priority
+1,Fattura non ricevuta,"Buongiorno, non abbiamo ancora ricevuto la fattura relativa al mese scorso. Potete verificarne l’invio?",Amministrazione,media
+2,Errore importo in fattura,Abbiamo notato che l’importo indicato in fattura non corrisponde a quanto concordato. Potete controllare?,Amministrazione,media
+3,Richiesta copia fattura,Avrei bisogno di una copia della fattura già emessa per poterla archiviare correttamente.,Amministrazione,bassa
+4,Fattura con IVA errata,La fattura ricevuta riporta un’aliquota IVA non corretta. Potete emetterne una corretta?,Amministrazione,media
+5,Chiarimenti su scadenza pagamento,Vorrei avere conferma sulla data di scadenza del pagamento indicata in fattura.,Amministrazione,media
+6,Nota di credito richiesta,È necessario emettere una nota di credito a seguito di un errore di fatturazione.,Amministrazione,bassa
+7,Pagamento già effettuato,"Vi segnalo che il pagamento relativo alla fattura risulta già effettuato, ma risulta ancora come insoluto.",Amministrazione,media
+8,Ritardo nel pagamento,Il pagamento subirà un lieve ritardo rispetto alla scadenza prevista.,Amministrazione,media
+9,Richiesta coordinate bancarie,Potete confermarci le vostre coordinate bancarie per procedere al pagamento?,Amministrazione,bassa
+10,Fattura duplicata,Abbiamo ricevuto due volte la stessa fattura. Potete verificare?,Amministrazione,media
+11,Errore intestazione fattura,La fattura è intestata a una società errata. È possibile correggerla?,Amministrazione,media
+12,Richiesta dettaglio voci fattura,Avremmo bisogno di un dettaglio più preciso delle voci presenti in fattura.,Amministrazione,bassa
+13,Pagamento parziale effettuato,È stato effettuato un pagamento parziale della fattura. Seguirà saldo.,Amministrazione,media
+14,Fattura non registrata,La fattura inviata non risulta ancora registrata nel nostro sistema.,Amministrazione,media
+15,Chiarimenti su ritenuta d’acconto,Vorrei chiarimenti sull’applicazione della ritenuta d’acconto indicata in fattura.,Amministrazione,media
+16,Scadenza pagamento superata,"La fattura risulta scaduta, potete indicarci come procedere?",Amministrazione,media
+17,Richiesta estratto conto,Avremmo bisogno di un estratto conto aggiornato delle fatture aperte.,Tecnico,bassa
+18,Errore valuta in fattura,La fattura è stata emessa con una valuta diversa da quella concordata.,Amministrazione,media
+19,Fattura proforma richiesta,Potreste inviarci una fattura proforma prima dell’emissione definitiva?,Amministrazione,bassa
+20,Problema riconciliazione pagamento,Stiamo avendo difficoltà a riconciliare un pagamento con la relativa fattura.,Amministrazione,media
+21,Richiesta dilazione pagamento,È possibile concordare una dilazione sui termini di pagamento?,Amministrazione,bassa
+22,Fattura mancante,Risulta mancante una fattura relativa a un servizio già erogato.,Amministrazione,media
+23,Errore data fattura,La data indicata in fattura non è corretta.,Amministrazione,media
+24,Richiesta storno fattura,Chiediamo lo storno della fattura emessa per errore.,Amministrazione,bassa
+25,Pagamento non riscontrato,Il pagamento effettuato non risulta ancora riscontrato nei vostri sistemi.,Amministrazione,media
+26,Chiarimenti su bollo,Vorrei chiarimenti sull’applicazione dell’imposta di bollo in fattura.,Amministrazione,media
+27,Fattura elettronica scartata,La fattura elettronica risulta scartata dal sistema. Potete reinviarla?,Amministrazione,media
+28,Richiesta aggiornamento anagrafica,È necessario aggiornare i dati anagrafici per la corretta fatturazione.,Amministrazione,bassa
+29,Errore codice destinatario,Il codice destinatario indicato in fattura non è corretto.,Amministrazione,media
+30,Fattura con importo negativo,La fattura presenta un importo negativo. Potete verificare?,Amministrazione,media
+31,Pagamento in eccesso,Abbiamo effettuato un pagamento superiore all’importo dovuto. Come possiamo procedere?,Amministrazione,media
+32,Richiesta rimborso,Chiediamo il rimborso di un importo pagato in eccesso.,Tecnico,bassa
+33,Fattura per servizio non ricevuto,È stata emessa una fattura per un servizio che non risulta erogato.,Amministrazione,media
+34,Errore descrizione servizio,La descrizione del servizio in fattura non è corretta.,Amministrazione,media
+35,Richiesta conferma ricezione pagamento,Potete confermare la ricezione del pagamento effettuato?,Amministrazione,bassa
+36,Scadenze multiple,"Sono presenti più scadenze per la stessa fattura, potete chiarire?",Amministrazione,media
+37,Fattura annullata,La fattura risulta annullata. Potete fornire spiegazioni?,Amministrazione,media
+38,Richiesta copia nota di credito,Avrei bisogno di una copia della nota di credito emessa.,Amministrazione,bassa
+39,Errore imponibile,L’imponibile indicato in fattura non è corretto.,Amministrazione,media
+40,Pagamento respinto,Il pagamento effettuato è stato respinto dalla banca.,Amministrazione,media
+41,Fattura di anticipo,"È stata emessa una fattura di anticipo, potete confermare la corretta imputazione?",Amministrazione,media
+42,Chiarimenti su saldo finale,Vorrei chiarimenti sul calcolo del saldo finale della fattura.,Amministrazione,media
+43,Fattura con dati incompleti,La fattura ricevuta presenta dati incompleti.,Amministrazione,media
+44,Richiesta riepilogo fatture,Avrei bisogno di un riepilogo delle fatture emesse nell’ultimo trimestre.,Tecnico,bassa
+45,Errore arrotondamento,Abbiamo riscontrato un errore di arrotondamento negli importi.,Tecnico,media
+46,Pagamento programmato,Il pagamento è stato programmato per la prossima settimana.,Amministrazione,media
+47,Richiesta conferma contabilizzazione,Potete confermare che la fattura è stata correttamente contabilizzata?,Amministrazione,bassa
+48,Fattura stornata,La fattura risulta stornata nei vostri sistemi.,Amministrazione,media
+49,Fattura non conforme al contratto,La fattura ricevuta non rispecchia le condizioni previste dal contratto sottoscritto.,Amministrazione,media
+50,Richiesta chiarimenti su fatturazione estera,Avremmo bisogno di chiarimenti sulla fatturazione verso clienti esteri.,Amministrazione,bassa
+51,Pagamento non riconciliato,Il pagamento effettuato non risulta riconciliato con le fatture aperte.,Amministrazione,media
+52,Errore aliquota IVA,L’aliquota IVA applicata in fattura non è corretta.,Amministrazione,media
+53,Richiesta riemissione fattura elettronica,"La fattura elettronica non è andata a buon fine, potete reinviarla?",Amministrazione,bassa
+54,Fattura contabilizzata due volte,La fattura risulta contabilizzata due volte nei nostri sistemi.,Amministrazione,media
+55,Chiarimenti su termini di pagamento,Vorrei chiarimenti sui termini di pagamento applicati.,Amministrazione,media
+56,Pagamento con riferimento errato,Il pagamento è stato effettuato con un riferimento errato.,Amministrazione,media
+57,Errore ritenuta previdenziale,La ritenuta previdenziale indicata in fattura non è corretta.,Amministrazione,media
+58,Richiesta storno totale,È necessario procedere con lo storno totale della fattura.,Amministrazione,bassa
+59,Fattura con scadenza mancante,La fattura non riporta alcuna data di scadenza.,Amministrazione,media
+60,Pagamento sospeso,Il pagamento risulta sospeso per verifiche interne.,Amministrazione,media
+61,Richiesta estratto conto fornitori,Avremmo bisogno dell’estratto conto fornitori aggiornato.,Tecnico,bassa
+62,Errore nella descrizione prestazione,La descrizione della prestazione in fattura non è corretta.,Amministrazione,media
+63,Fattura emessa in anticipo,La fattura risulta emessa prima dell’erogazione del servizio.,Amministrazione,media
+64,Richiesta compensazione contabile,Chiediamo la compensazione contabile dell’importo.,Tecnico,bassa
+65,Pagamento con importo errato,Il pagamento è stato effettuato con un importo errato.,Amministrazione,media
+66,Errore imponibile,L’imponibile indicato non risulta corretto.,Tecnico,media
+67,Fattura non trovata,Non riusciamo a trovare la fattura nei nostri archivi.,Amministrazione,media
+68,Richiesta chiarimenti su fattura di acconto,Vorrei chiarimenti sulla fattura di acconto ricevuta.,Amministrazione,bassa
+69,Pagamento contabilizzato in modo errato,Il pagamento risulta contabilizzato in modo errato.,Amministrazione,media
+70,Errore data competenza,La data di competenza indicata non è corretta.,Tecnico,media
+71,Richiesta invio fattura aggiornata,Potete inviarci la versione aggiornata della fattura?,Amministrazione,bassa
+72,Fattura con importo zero,La fattura presenta un importo pari a zero.,Amministrazione,media
+73,Pagamento parziale non registrato,Il pagamento parziale non risulta registrato.,Amministrazione,media
+74,Errore calcolo IVA,L’IVA è stata calcolata in modo errato.,Amministrazione,media
+75,Richiesta chiarimenti su autofattura,Avrei bisogno di chiarimenti sull’autofattura emessa.,Amministrazione,bassa
+76,Fattura con riferimenti mancanti,In fattura mancano alcuni riferimenti obbligatori.,Amministrazione,media
+77,Pagamento associato a cliente errato,Il pagamento è stato associato a un cliente errato.,Amministrazione,media
+78,Errore arrotondamento IVA,È presente un errore di arrotondamento sull’IVA.,Amministrazione,media
+79,Richiesta invio riepilogo contabile,Avremmo bisogno di un riepilogo contabile aggiornato.,Tecnico,bassa
+80,Fattura con valuta non corretta,La valuta indicata in fattura non è corretta.,Amministrazione,media
+81,Pagamento respinto per fondi insufficienti,Il pagamento è stato respinto per fondi insufficienti.,Amministrazione,media
+82,Errore riferimento contratto,Il riferimento al contratto in fattura non è corretto.,Amministrazione,media
+83,Richiesta chiarimenti su fattura di saldo,Vorrei chiarimenti sulla fattura di saldo ricevuta.,Amministrazione,bassa
+84,Fattura con descrizione incompleta,La descrizione in fattura risulta incompleta.,Amministrazione,media
+85,Pagamento non contabilizzato,Il pagamento non risulta contabilizzato.,Amministrazione,media
+86,Errore applicazione ritenuta,La ritenuta applicata non è corretta.,Tecnico,media
+87,Richiesta conferma chiusura contabile,Potete confermare la chiusura contabile del periodo?,Tecnico,bassa
+88,Fattura con scadenza errata,La scadenza indicata in fattura non è corretta.,Amministrazione,media
+89,Pagamento in compensazione,Il pagamento è stato effettuato in compensazione.,Amministrazione,media
+90,Errore riferimento cliente,Il riferimento al cliente indicato non è corretto.,Tecnico,media
+91,Richiesta supporto per riconciliazione,Avremmo bisogno di supporto per la riconciliazione contabile.,Tecnico,bassa
+92,Fattura emessa per importo errato,La fattura è stata emessa per un importo errato.,Amministrazione,media
+93,Pagamento non autorizzato,Il pagamento risulta non autorizzato.,Amministrazione,media
+94,Errore descrizione costo,La descrizione del costo in fattura non è corretta.,Amministrazione,media
+95,Richiesta conferma saldo cliente,Potete confermare il saldo attuale del cliente?,Tecnico,bassa
+96,Arresto imprevisto della piattaforma di analisi dati,"La piattaforma di analisi dei dati si è arrestata improvvisamente durante l’elaborazione di un set di dati di grandi dimensioni, causando l’interruzione del flusso di lavoro e la perdita delle analisi non salvate.",Tecnico,media
+97,Richiesta di assistenza clienti,"Gentile Assistenza Clienti, vi contatto per ottenere informazioni sulle strategie digitali che possono migliorare l’esperienza dei clienti e ottimizzare i processi interni.",Tecnico,bassa
+98,Analisi dei dati per investimenti,Vi scrivo per richiedere informazioni sui vostri servizi di analisi dei dati applicati alle decisioni di investimento e alla gestione del rischio.,Tecnico,media
+99,Problema nei servizi ospedalieri,"Si è verificato un problema nei servizi ospedalieri legato al blocco dei dati multimediali, che ha causato ritardi nelle operazioni cliniche.",Tecnico,media
+100,Sicurezza,"Gentile Assistenza Clienti, vi scrivo per segnalare una potenziale vulnerabilità di sicurezza riscontrata nei vostri sistemi informativi.",Tecnico,media
+101,Errore di accesso al sistema,Durante il tentativo di accesso al sistema aziendale si è verificato un errore che ha impedito l’autenticazione dell’utente.,Tecnico,media
+102,Richiesta informazioni su soluzioni cloud,Sono interessato a ricevere maggiori dettagli sulle vostre soluzioni cloud per la gestione e l’archiviazione dei dati aziendali.,Tecnico,bassa
+103,Malfunzionamento dell’applicazione,"L’applicazione ha smesso di funzionare correttamente dopo l’ultimo aggiornamento software, causando frequenti arresti.",Tecnico,media
+104,Supporto tecnico per infrastruttura IT,Vi contatto per richiedere supporto tecnico relativo alla configurazione della nostra infrastruttura IT.,Tecnico,media
+105,Problema di integrazione dei dati,Abbiamo riscontrato difficoltà nell’integrare i dati provenienti da più sistemi all’interno della piattaforma centrale.,Tecnico,media
+106,Richiesta di consulenza analitica,Desidero ricevere una consulenza sui metodi di analisi avanzata dei dati per migliorare le performance aziendali.,Tecnico,bassa
+107,Interruzione del servizio,"Il servizio è stato interrotto senza preavviso, causando disservizi alle operazioni quotidiane.",Tecnico,media
+108,Segnalazione bug software,Vorrei segnalare un bug nel software che genera risultati incoerenti durante l’elaborazione dei dati.,Tecnico,media
+109,Richiesta demo prodotto,Sono interessato a programmare una demo del vostro prodotto per valutarne le funzionalità.,Tecnico,bassa
+110,Problema di sicurezza dei dati,È stato rilevato un potenziale problema di sicurezza che potrebbe compromettere la riservatezza dei dati sensibili.,Tecnico,media
+111,Lentezza del sistema,Il sistema risulta particolarmente lento durante l’esecuzione di operazioni complesse sui dati.,Tecnico,media
+112,Richiesta di aggiornamento software,Vi scrivo per sapere quando sarà disponibile il prossimo aggiornamento del software.,Tecnico,bassa
+113,Errore nella reportistica,I report generati dal sistema presentano incongruenze rispetto ai dati di origine.,Tecnico,media
+114,Supporto per migrazione dati,Abbiamo bisogno di supporto per la migrazione dei dati da un sistema legacy a una nuova piattaforma.,Tecnico,media
+115,Problema di compatibilità,Sono emersi problemi di compatibilità tra il vostro software e alcuni dei nostri sistemi esistenti.,Tecnico,media
+116,Richiesta informazioni su pricing,Potete fornirmi maggiori dettagli sui costi e sui piani tariffari disponibili?,Tecnico,bassa
+117,Accesso non autorizzato,È stato rilevato un tentativo di accesso non autorizzato all’interno del sistema.,Tecnico,media
+118,Errore di sincronizzazione,I dati non risultano correttamente sincronizzati tra i vari moduli dell’applicazione.,Tecnico,media
+119,Richiesta supporto API,Desidero ricevere supporto tecnico per l’utilizzo e l’integrazione delle vostre API.,Tecnico,bassa
+120,Problema di backup,Il processo di backup automatico non viene completato correttamente.,Tecnico,media
+121,Richiesta formazione,Siamo interessati a sessioni di formazione sull’utilizzo avanzato della piattaforma.,Tecnico,bassa
+122,Errore durante l’aggiornamento,Si è verificato un errore critico durante l’aggiornamento del sistema.,Tecnico,media
+123,Problema di visualizzazione dati,Alcuni dati non vengono visualizzati correttamente all’interno delle dashboard.,Tecnico,media
+124,Supporto per analisi predittiva,Vi contatto per ricevere supporto sull’implementazione di modelli di analisi predittiva.,Amministrazione,media
+125,Richiesta documentazione tecnica,Avrei bisogno della documentazione tecnica aggiornata del prodotto.,Tecnico,bassa
+126,Problema di autorizzazioni,Gli utenti non riescono ad accedere a determinate funzionalità a causa di problemi di autorizzazione.,Tecnico,media
+127,Segnalazione anomalia di sistema,È stata rilevata un’anomalia di sistema che richiede verifica immediata.,Tecnico,media
+128,Richiesta informazioni su integrazioni,Vorrei sapere quali integrazioni con sistemi di terze parti sono disponibili.,Tecnico,bassa
+129,Errore nei log di sistema,I log di sistema mostrano errori ricorrenti durante l’elaborazione.,Tecnico,media
+130,Problema di scalabilità,La piattaforma mostra limiti di scalabilità con volumi di dati elevati.,Tecnico,media
+131,Richiesta supporto urgente,Necessitiamo di supporto urgente per risolvere un problema critico.,Tecnico,alta
+132,Errore di configurazione,È stato individuato un errore nella configurazione iniziale del sistema.,Tecnico,media
+133,Problema di latenza,Si riscontrano problemi di latenza nelle comunicazioni tra i servizi.,Tecnico,media
+134,Richiesta audit di sicurezza,Siamo interessati a un audit di sicurezza dei nostri sistemi.,Tecnico,bassa
+135,Errore nei permessi,Alcuni permessi non vengono applicati correttamente agli utenti.,Tecnico,media
+136,Problema di esportazione dati,L’esportazione dei dati in formato CSV non va a buon fine.,Tecnico,media
+137,Richiesta consulenza IT,Desideriamo una consulenza IT per ottimizzare l’architettura esistente.,Tecnico,bassa
+138,Errore di connessione,Il sistema perde frequentemente la connessione al database.,Tecnico,media
+139,Problema di aggiornamento dati,I dati non vengono aggiornati in tempo reale come previsto.,Tecnico,media
+140,Richiesta supporto avanzato,Abbiamo bisogno di supporto avanzato per una configurazione personalizzata.,Tecnico,bassa
+141,Errore di validazione,Il sistema segnala errori di validazione anche con dati corretti.,Tecnico,media
+142,Problema di performance,Le performance complessive del sistema risultano inferiori alle aspettative.,Tecnico,media
+143,Richiesta informazioni generali,Vi contatto per ricevere informazioni generali sui vostri servizi.,Tecnico,bassa
+144,Richiesta supporto per reportistica avanzata,Vi contatto per ricevere assistenza sulla creazione di report avanzati e personalizzati a partire dai dati disponibili in piattaforma.,Tecnico,bassa
+145,Errore nel caricamento dei dati,Durante il caricamento dei dati si verifica un errore che impedisce il completamento dell’operazione.,Tecnico,media
+146,Problema di accesso multiutente,Più utenti riscontrano difficoltà ad accedere contemporaneamente al sistema.,Tecnico,media
+147,Richiesta informazioni su sicurezza cloud,Desidero ricevere maggiori informazioni sulle misure di sicurezza adottate per i servizi cloud.,Tecnico,bassa
+148,Errore di calcolo nei risultati,I risultati dell’analisi mostrano errori di calcolo rispetto ai dati di input.,Tecnico,media
+149,Problema di integrazione API,L’integrazione tramite API non restituisce i dati attesi.,Tecnico,media
+150,Richiesta supporto per dashboard,Abbiamo bisogno di supporto per configurare correttamente le dashboard di monitoraggio.,Tecnico,bassa
+151,Interruzione programmata del servizio,Vorrei ricevere conferma sulle tempistiche dell’interruzione programmata del servizio.,Tecnico,media
+152,Errore di esportazione PDF,L’esportazione dei report in formato PDF non viene completata correttamente.,Tecnico,media
+153,Problema di autenticazione,Il sistema di autenticazione non riconosce correttamente le credenziali degli utenti.,Tecnico,media
+154,Richiesta ottimizzazione performance,Desideriamo suggerimenti per migliorare le performance complessive della piattaforma.,Tecnico,bassa
+155,Errore nella gestione utenti,Si riscontrano anomalie nella creazione e modifica degli utenti.,Tecnico,media
+156,Problema di duplicazione dati,Alcuni record risultano duplicati dopo l’importazione dei dati.,Tecnico,media
+157,Richiesta informazioni su compliance,Vorrei informazioni sulla conformità della piattaforma alle normative vigenti.,Tecnico,bassa
+158,Errore di timeout,Le operazioni di elaborazione superano frequentemente il tempo massimo consentito.,Tecnico,media
+159,Problema di aggiornamento automatico,L’aggiornamento automatico dei dati non avviene con la frequenza prevista.,Tecnico,media
+160,Richiesta supporto per configurazione iniziale,Abbiamo bisogno di assistenza nella fase di configurazione iniziale del sistema.,Tecnico,bassa
+161,Errore nella visualizzazione grafici,Alcuni grafici non vengono visualizzati correttamente nelle dashboard.,Tecnico,media
+162,Problema di compatibilità browser,La piattaforma presenta problemi di funzionamento con alcuni browser.,Tecnico,media
+163,Richiesta accesso a funzionalità avanzate,Vorrei sapere come abilitare le funzionalità avanzate per il nostro account.,Tecnico,bassa
+164,Errore nei processi batch,I processi batch notturni terminano con errori non previsti.,Tecnico,media
+165,Problema di gestione permessi,I permessi assegnati agli utenti non vengono applicati correttamente.,Tecnico,media
+166,Richiesta informazioni su SLA,Potete fornire dettagli sugli accordi di livello di servizio disponibili?,Tecnico,bassa
+167,Errore di connessione ai servizi esterni,La piattaforma non riesce a collegarsi correttamente a servizi esterni.,Tecnico,media
+168,Problema di sincronizzazione in tempo reale,I dati non risultano sincronizzati in tempo reale tra i sistemi.,Tecnico,media
+169,Richiesta supporto per analisi statistiche,Desideriamo supporto per l’implementazione di analisi statistiche avanzate.,Tecnico,bassa
+170,Errore nel salvataggio delle modifiche,Le modifiche apportate non vengono salvate correttamente.,Tecnico,media
+171,Problema di gestione notifiche,Le notifiche di sistema non vengono inviate come previsto.,Tecnico,media
+172,Richiesta informazioni su roadmap prodotto,Vorrei conoscere le prossime evoluzioni previste per il prodotto.,Tecnico,bassa
+173,Errore di parsing dei dati,Il sistema segnala errori durante il parsing dei dati in ingresso.,Tecnico,media
+174,Problema di carico del sistema,Il sistema va in sovraccarico durante i picchi di utilizzo.,Tecnico,media
+175,Richiesta supporto per esportazione dati,Abbiamo bisogno di assistenza per esportare grandi volumi di dati.,Tecnico,bassa
+176,Errore nella pianificazione processi,La pianificazione automatica dei processi non funziona correttamente.,Tecnico,alta
+177,Problema di latenza API,Le chiamate API presentano latenze elevate.,Tecnico,media
+178,Richiesta informazioni su backup e recovery,Vorrei dettagli sulle procedure di backup e ripristino dei dati.,Tecnico,bassa
+179,Errore di autorizzazione,Il sistema restituisce errori di autorizzazione anche per utenti abilitati.,Tecnico,media
+180,Problema di configurazione rete,Sono presenti problemi legati alla configurazione di rete.,Tecnico,media
+181,Richiesta supporto per sicurezza applicativa,Desideriamo supporto per migliorare la sicurezza applicativa.,Amministrazione,bassa
+182,Errore nei dati aggregati,I dati aggregati non risultano coerenti con i dati di dettaglio.,Tecnico,media
+183,Problema di gestione sessioni,Le sessioni utente scadono in modo anomalo.,Tecnico,media
+184,Richiesta consulenza su architettura dati,Avremmo bisogno di una consulenza sull’architettura dei dati.,Tecnico,bassa
+185,Errore di importazione CSV,L’importazione di file CSV genera errori non previsti.,Tecnico,media
+186,Problema di monitoraggio,Il sistema di monitoraggio non rileva correttamente alcune anomalie.,Tecnico,media
+187,Richiesta supporto per personalizzazioni,Desideriamo assistenza per personalizzare alcune funzionalità.,Tecnico,bassa
+188,Errore di aggiornamento configurazioni,Le configurazioni aggiornate non vengono applicate correttamente.,Tecnico,media
+189,Problema di gestione log,I log di sistema non vengono registrati in modo completo.,Tecnico,media
+190,Richiesta informazioni su licenze,Potete fornire dettagli sulle tipologie di licenze disponibili?,Tecnico,bassa
+191,Errore di avvio del servizio,Il servizio non si avvia correttamente dopo il riavvio.,Tecnico,media
+192,Problema di consistenza dei dati,Sono state rilevate incongruenze nella consistenza dei dati.,Tecnico,media
+193,Richiesta supporto per gestione incidenti,Vi contatto per ricevere supporto nella gestione strutturata degli incidenti di sistema.,Tecnico,bassa
+194,Errore nella pianificazione backup,La pianificazione dei backup automatici presenta errori ricorrenti.,Tecnico,media
+195,Problema di accesso ai report,Alcuni utenti non riescono ad accedere ai report disponibili.,Tecnico,media
+196,Richiesta informazioni su crittografia dati,Vorrei maggiori informazioni sulle tecniche di crittografia utilizzate per la protezione dei dati.,Tecnico,bassa
+197,Errore nella gestione transazioni,Si verificano errori nella gestione delle transazioni di sistema.,Tecnico,media
+198,Problema di aggiornamento modelli analitici,I modelli analitici non vengono aggiornati correttamente.,Tecnico,media
+199,Richiesta supporto per orchestrazione servizi,Abbiamo bisogno di assistenza per l’orchestrazione dei servizi applicativi.,Tecnico,bassa
+200,Errore di validazione configurazioni,Le configurazioni inserite non superano i controlli di validazione.,Tecnico,media
+201,Problema di isolamento ambienti,Gli ambienti di test e produzione non risultano correttamente isolati.,Tecnico,media
+202,Richiesta informazioni su audit interni,Vorrei informazioni sulle procedure di audit interno disponibili.,Tecnico,bassa
+203,Errore nella gestione dei workflow,I workflow configurati non vengono eseguiti correttamente.,Tecnico,media
+204,Problema di archiviazione documentale,Si riscontrano problemi nell’archiviazione dei documenti.,Tecnico,media
+205,Richiesta supporto per data quality,Desideriamo supporto per migliorare la qualità dei dati.,Tecnico,bassa
+206,Errore di replica servizi,La replica dei servizi non funziona come previsto.,Tecnico,alta
+207,Problema di compatibilità hardware,La piattaforma presenta problemi con alcune configurazioni hardware.,Tecnico,media
+208,Richiesta informazioni su disaster recovery,Vorrei ricevere dettagli sulle soluzioni di disaster recovery.,Tecnico,bassa
+209,Errore di gestione configurazioni dinamiche,Le configurazioni dinamiche non vengono applicate correttamente.,Tecnico,media
+210,Problema di bilanciamento del carico,Il bilanciamento del carico non distribuisce correttamente le richieste.,Tecnico,media
+211,Richiesta supporto per controllo accessi,Abbiamo bisogno di assistenza per il controllo degli accessi.,Tecnico,bassa
+212,Errore nei processi di validazione dati,I processi di validazione dei dati producono risultati errati.,Tecnico,media
+213,Problema di aggiornamento metadati,I metadati non vengono aggiornati correttamente.,Tecnico,media
+214,Richiesta informazioni su conformità normativa,Vorrei informazioni sulla conformità normativa della piattaforma.,Amministrazione,bassa
+215,Errore di sincronizzazione configurazioni,Le configurazioni non risultano sincronizzate tra gli ambienti.,Tecnico,media
+216,Problema di gestione dipendenze,La gestione delle dipendenze software presenta criticità.,Tecnico,media
+217,Richiesta supporto per ottimizzazione costi,Desideriamo supporto per ottimizzare i costi infrastrutturali.,Tecnico,bassa
+218,Errore nella gestione code messaggi,Le code di messaggi non vengono elaborate correttamente.,Tecnico,media
+219,Problema di disponibilità servizio,Il servizio non è sempre disponibile durante l’orario operativo.,Tecnico,media
+220,Richiesta consulenza su scalabilità,Avremmo bisogno di una consulenza sulle strategie di scalabilità.,Tecnico,bassa
+221,Errore di aggiornamento policy,Le policy di sicurezza non vengono aggiornate correttamente.,Tecnico,media
+222,Problema di tracciamento eventi,Il tracciamento degli eventi non risulta completo.,Tecnico,media
+223,Richiesta supporto per sicurezza perimetrale,Desideriamo migliorare la sicurezza perimetrale dei sistemi.,Tecnico,bassa
+224,Errore di configurazione storage,La configurazione dello storage presenta errori.,Tecnico,media
+225,Problema di gestione snapshot,La gestione delle snapshot non funziona correttamente.,Tecnico,alta
+226,Richiesta informazioni su standard di sicurezza,Vorrei informazioni sugli standard di sicurezza adottati.,Tecnico,bassa
+227,Errore nella gestione delle notifiche critiche,Le notifiche critiche non vengono inviate correttamente.,Tecnico,media
+228,Problema di consistenza configurazioni,Sono presenti incongruenze nelle configurazioni.,Tecnico,media
+229,Richiesta supporto per migrazione cloud,Abbiamo bisogno di supporto per la migrazione verso il cloud.,Tecnico,bassa
+230,Errore di allocazione spazio disco,Si verificano errori nell’allocazione dello spazio disco.,Tecnico,media
+231,Problema di monitoraggio prestazioni,Il monitoraggio delle prestazioni non fornisce dati accurati.,Tecnico,media
+232,Richiesta informazioni su supporto h24,Vorrei informazioni sulle opzioni di supporto attivo 24/7.,Tecnico,bassa
+233,Errore di gestione credenziali,Il sistema non gestisce correttamente le credenziali.,Tecnico,media
+234,Problema di sicurezza infrastrutturale,Sono state individuate criticità nella sicurezza infrastrutturale.,Tecnico,media
+235,Richiesta consulenza su continuità operativa,Desideriamo una consulenza sulla continuità operativa.,Amministrazione,bassa
+236,Errore di sincronizzazione log,I log non vengono sincronizzati correttamente.,Tecnico,media
+237,Problema di gestione configurazioni centralizzate,La gestione centralizzata delle configurazioni presenta problemi.,Tecnico,media
+238,Richiesta informazioni su piani di servizio,Vorrei informazioni sui diversi piani di servizio disponibili.,Tecnico,bassa
+239,Errore di arresto anomalo del servizio,Il servizio si arresta in modo anomalo senza preavviso.,Tecnico,media
+240,Richiesta supporto per gestione capacità,Vi contatto per ricevere supporto nella gestione della capacità infrastrutturale.,Tecnico,bassa
+241,Errore nella configurazione dei servizi,Alcuni servizi risultano configurati in modo errato.,Tecnico,media
+242,Problema di accesso ai dati storici,Non è possibile accedere correttamente ai dati storici archiviati.,Tecnico,media
+243,Richiesta informazioni su continuità del servizio,Vorrei ricevere dettagli sulle misure adottate per garantire la continuità del servizio.,Tecnico,bassa
+244,Errore nella gestione dei certificati SSL,I certificati SSL non vengono gestiti correttamente dal sistema.,Tecnico,media
+245,Problema di aggiornamento sistemi legacy,I sistemi legacy non vengono aggiornati correttamente.,Tecnico,media
+246,Richiesta supporto per segmentazione rete,Abbiamo bisogno di assistenza per la segmentazione della rete.,Tecnico,bassa
+247,Errore di sincronizzazione database,La sincronizzazione del database presenta errori ricorrenti.,Tecnico,media
+248,Problema di disponibilità risorse,Le risorse di sistema non risultano sempre disponibili.,Tecnico,media
+249,Richiesta informazioni su policy di retention,Vorrei informazioni sulle policy di conservazione dei dati.,Tecnico,bassa
+250,Errore nella gestione delle dipendenze applicative,Le dipendenze applicative non vengono risolte correttamente.,Tecnico,media
+251,Problema di configurazione DNS,Sono presenti errori nella configurazione DNS.,Tecnico,media
+252,Richiesta supporto per sicurezza dei container,Desideriamo supporto per migliorare la sicurezza dei container.,Tecnico,bassa
+253,Errore di aggiornamento sistemi distribuiti,L’aggiornamento dei sistemi distribuiti non va a buon fine.,Tecnico,media
+254,Problema di orchestrazione container,L’orchestrazione dei container non funziona correttamente.,Tecnico,alta
+255,Richiesta informazioni su standard di compliance,Vorrei informazioni sugli standard di compliance supportati.,Tecnico,bassa
+256,Errore nella gestione delle chiavi crittografiche,Le chiavi crittografiche non vengono gestite correttamente.,Tecnico,media
+257,Problema di accesso ai servizi interni,Alcuni servizi interni non sono raggiungibili.,Tecnico,media
+258,Richiesta supporto per logging centralizzato,Abbiamo bisogno di assistenza per implementare un logging centralizzato.,Tecnico,bassa
+259,Errore di configurazione load balancer,Il load balancer non è configurato correttamente.,Tecnico,media
+260,Problema di gestione patch di sicurezza,Le patch di sicurezza non vengono applicate correttamente.,Tecnico,media
+261,Richiesta informazioni su certificazioni ISO,Vorrei informazioni sulle certificazioni ISO possedute.,Tecnico,bassa
+262,Errore di sincronizzazione ambienti,Gli ambienti non risultano sincronizzati correttamente.,Tecnico,media
+263,Problema di gestione backup incrementali,I backup incrementali non vengono eseguiti correttamente.,Tecnico,media
+264,Richiesta supporto per ottimizzazione database,Desideriamo supporto per ottimizzare le prestazioni del database.,Tecnico,bassa
+265,Errore nella gestione delle configurazioni di rete,Le configurazioni di rete presentano errori.,Tecnico,media
+266,Problema di disponibilità applicativa,L’applicazione non è sempre disponibile.,Amministrazione,media
+267,Richiesta consulenza su resilienza sistemi,Avremmo bisogno di una consulenza sulla resilienza dei sistemi.,Tecnico,bassa
+268,Errore di gestione dei token di accesso,I token di accesso non vengono gestiti correttamente.,Tecnico,media
+269,Problema di monitoraggio sicurezza,Il monitoraggio della sicurezza non rileva tutte le anomalie.,Tecnico,media
+270,Richiesta supporto per gestione vulnerabilità,Abbiamo bisogno di supporto per la gestione delle vulnerabilità.,Tecnico,bassa
+271,Errore di configurazione proxy,La configurazione del proxy presenta errori.,Tecnico,media
+272,Problema di integrazione sistemi esterni,L’integrazione con sistemi esterni presenta criticità.,Tecnico,media
+273,Richiesta informazioni su supporto dedicato,Vorrei informazioni sulle opzioni di supporto dedicato.,Tecnico,bassa
+274,Errore nella gestione delle code asincrone,Le code asincrone non vengono gestite correttamente.,Tecnico,media
+275,Problema di aggiornamento policy di accesso,Le policy di accesso non vengono aggiornate correttamente.,Tecnico,media
+276,Richiesta supporto per gestione SLA,Desideriamo assistenza per la gestione degli SLA.,Tecnico,bassa
+277,Errore di sincronizzazione dati in cloud,I dati in cloud non risultano sincronizzati correttamente.,Tecnico,media
+278,Problema di controllo versioni,Il controllo delle versioni non funziona come previsto.,Tecnico,alta
+279,Richiesta consulenza su architetture cloud,Avremmo bisogno di una consulenza sulle architetture cloud.,Tecnico,bassa
+280,Errore nella gestione delle risorse condivise,Le risorse condivise non vengono gestite correttamente.,Tecnico,media
+281,Problema di disponibilità dei servizi critici,Alcuni servizi critici non risultano disponibili.,Tecnico,media
+282,Richiesta informazioni su livelli di servizio,Vorrei informazioni sui livelli di servizio garantiti.,Tecnico,bassa
+283,Errore di configurazione sicurezza applicativa,La sicurezza applicativa non è configurata correttamente.,Amministrazione,media
+284,Problema di gestione aggiornamenti automatici,Gli aggiornamenti automatici non funzionano come previsto.,Tecnico,alta
+285,Richiesta supporto per audit di sicurezza,Abbiamo bisogno di supporto per effettuare un audit di sicurezza.,Tecnico,bassa
+286,Errore di avvio servizi secondari,I servizi secondari non si avviano correttamente.,Tecnico,media
+287,Problema di affidabilità del sistema,Il sistema non garantisce un livello adeguato di affidabilità.,Tecnico,media
+288,La piattaforma si è bloccata all’improvviso,La piattaforma di analisi dei dati si è bloccata all’improvviso mentre stavo lavorando su un progetto importante e ho perso tutte le modifiche non salvate.,Tecnico,media
+289,Richiesta informazioni al supporto clienti,"Buongiorno, vi scrivo per avere maggiori informazioni su come migliorare le strategie digitali e rendere più efficienti i nostri processi.",Tecnico,bassa
+290,Analisi dati per decisioni di investimento,Vi contatto perché sono interessato a capire come i vostri servizi di analisi dei dati possano supportare le decisioni di investimento.,Tecnico,media
+291,Problemi nei servizi ospedalieri,"Si è verificato un problema nei servizi dell’ospedale legato al blocco dei dati multimediali, causando ritardi nelle attività quotidiane.",Tecnico,media
+292,Segnalazione problema di sicurezza,"Buongiorno, vi segnalo una possibile criticità di sicurezza che ho notato nei vostri sistemi.",Tecnico,media
+293,Non riesco ad accedere al sistema,Sto riscontrando problemi di accesso al sistema aziendale e non riesco ad autenticarmi correttamente.,Tecnico,media
+294,Informazioni sulle soluzioni cloud,Vorrei ricevere qualche dettaglio in più sulle vostre soluzioni cloud per la gestione dei dati.,Tecnico,media
+295,L’app continua a bloccarsi,Dopo l’ultimo aggiornamento l’applicazione si blocca spesso e diventa difficile lavorare.,Tecnico,media
+296,Richiesta di supporto tecnico IT,Avrei bisogno di supporto tecnico per sistemare alcuni aspetti della nostra infrastruttura IT.,Tecnico,bassa
+297,Difficoltà nell’integrare i dati,Stiamo avendo problemi nell’integrare dati provenienti da sistemi diversi all’interno della piattaforma.,Tecnico,media
+298,Consulenza per analisi avanzate,Saremmo interessati a una consulenza su come utilizzare al meglio le analisi avanzate dei dati.,Tecnico,media
+299,Servizio non disponibile,Il servizio risulta non disponibile senza alcun preavviso e questo sta creando disagi operativi.,Tecnico,media
+300,Bug nel software,Ho notato un bug nel software che produce risultati incoerenti durante l’elaborazione dei dati.,Tecnico,media
+301,Richiesta di una demo del prodotto,Sarei interessato a vedere una demo del vostro prodotto per capirne meglio le funzionalità.,Tecnico,bassa
+302,Possibile problema di sicurezza dei dati,Credo ci sia un problema di sicurezza che potrebbe mettere a rischio alcuni dati sensibili.,Tecnico,media
+303,Il sistema è molto lento,"Negli ultimi giorni il sistema è diventato molto lento, soprattutto con operazioni complesse.",Tecnico,media
+304,Quando arriva il prossimo aggiornamento?,Vorrei sapere quando sarà disponibile il prossimo aggiornamento del software.,Amministrazione,media
+305,Report con dati errati,I report generati dal sistema non sembrano coerenti con i dati originali.,Tecnico,media
+306,Aiuto per la migrazione dei dati,Avremmo bisogno di supporto per spostare i dati da un vecchio sistema a uno nuovo.,Tecnico,media
+307,Problemi di compatibilità,Stiamo riscontrando problemi di compatibilità tra il vostro software e i nostri sistemi.,Tecnico,media
+308,Chiarimenti sui costi,Potreste darmi qualche informazione in più sui costi e sui piani disponibili?,Tecnico,bassa
+309,Tentativo di accesso sospetto,Abbiamo rilevato un tentativo di accesso sospetto al sistema.,Tecnico,media
+310,Dati non sincronizzati,I dati non risultano sincronizzati correttamente tra i vari moduli.,Tecnico,media
+311,Supporto per utilizzo API,Avrei bisogno di aiuto per integrare correttamente le vostre API.,Tecnico,media
+312,Backup non completato,Il backup automatico non viene completato e non capiamo il motivo.,Tecnico,media
+313,Richiesta di formazione,Saremmo interessati a fare formazione per utilizzare meglio la piattaforma.,Tecnico,bassa
+314,Errore durante l’aggiornamento,Durante l’aggiornamento del sistema si è verificato un errore critico.,Tecnico,media
+315,Dati visualizzati in modo errato,Alcuni dati non vengono mostrati correttamente nelle dashboard.,Tecnico,media
+316,Aiuto per analisi predittive,Vorrei supporto per implementare modelli di analisi predittiva.,Amministrazione,media
+317,Richiesta documentazione,Avrei bisogno della documentazione tecnica più aggiornata.,Tecnico,bassa
+318,Problemi con i permessi utente,Alcuni utenti non riescono ad accedere a determinate funzionalità.,Tecnico,media
+319,Anomalia nel sistema,Abbiamo rilevato un comportamento anomalo del sistema che va verificato.,Tecnico,media
+320,Integrazioni disponibili,Vorrei sapere con quali sistemi esterni la piattaforma può integrarsi.,Tecnico,media
+321,Errori nei log,Nei log di sistema compaiono spesso errori durante l’elaborazione.,Tecnico,media
+322,Limiti di scalabilità,Con grandi volumi di dati la piattaforma sembra andare in difficoltà.,Tecnico,media
+323,Supporto urgente necessario,Abbiamo un problema critico e avremmo bisogno di supporto urgente.,Tecnico,alta
+324,Errore di configurazione iniziale,Credo ci sia un errore nella configurazione iniziale del sistema.,Tecnico,media
+325,Problemi di latenza,Stiamo riscontrando forti ritardi nella comunicazione tra i servizi.,Tecnico,media
+326,Audit di sicurezza,Saremmo interessati a fare un audit di sicurezza sui nostri sistemi.,Tecnico,media
+327,Permessi non applicati correttamente,Alcuni permessi non vengono applicati come dovrebbero.,Tecnico,media
+328,Errore nell’esportazione dei dati,Non riusciamo a esportare correttamente i dati in formato CSV.,Tecnico,media
+329,Consulenza IT,Vorremmo una consulenza IT per migliorare l’architettura attuale.,Tecnico,media
+330,Problemi di connessione al database,Il sistema perde spesso la connessione con il database.,Tecnico,media
+331,Dati non aggiornati,I dati non si aggiornano in tempo reale come ci aspettavamo.,Tecnico,media
+332,Supporto avanzato richiesto,Abbiamo bisogno di un supporto più avanzato per una configurazione personalizzata.,Tecnico,media
+333,Errore di validazione,Il sistema segnala errori di validazione anche quando i dati sono corretti.,Tecnico,media
+334,Prestazioni del sistema insufficienti,Le prestazioni generali del sistema sono inferiori alle nostre aspettative.,Tecnico,media
+335,Aggiornamenti di sicurezza disponibili,Vi scrivo per sapere se sono disponibili nuovi aggiornamenti di sicurezza per la piattaforma.,Tecnico,media
+336,Problemi nella gestione delle code,Stiamo riscontrando problemi nella gestione delle code di elaborazione e alcuni processi restano bloccati.,Tecnico,media
+337,Difficoltà di accesso da remoto,Alcuni colleghi non riescono ad accedere alla piattaforma quando lavorano da remoto.,Tecnico,media
+338,Integrazione con sistemi ERP,Vorrei avere maggiori informazioni su come integrare la piattaforma con il nostro sistema ERP.,Tecnico,media
+339,Ricerche lente sui dati,"Le ricerche sui dati sono molto lente, probabilmente a causa di problemi di indicizzazione.",Tecnico,media
+340,Problemi su dispositivi mobili,La piattaforma non funziona correttamente quando viene usata da smartphone o tablet.,Tecnico,alta
+341,Automazione dei processi,Vorremmo automatizzare alcuni processi operativi e avremmo bisogno di supporto.,Tecnico,media
+342,Ruoli utente non assegnati,I ruoli degli utenti non vengono assegnati correttamente all’interno del sistema.,Tecnico,media
+343,Dashboard non aggiornate,Le dashboard non si aggiornano in tempo reale come dovrebbero.,Tecnico,media
+344,Funzionalità di intelligenza artificiale,Mi piacerebbe capire meglio quali funzionalità di intelligenza artificiale offre il sistema.,Tecnico,media
+345,Errori nei dati inseriti,Il sistema segnala errori anche quando i dati inseriti sembrano corretti.,Tecnico,media
+346,Consumo eccessivo di risorse,L’applicazione utilizza troppe risorse e rallenta il lavoro.,Tecnico,media
+347,Ambienti di test separati,Avremmo bisogno di configurare ambienti di test separati da quelli di produzione.,Tecnico,media
+348,Replica del database non funzionante,La replica del database non sembra funzionare correttamente.,Tecnico,alta
+349,Gestione delle versioni,Abbiamo difficoltà a gestire le diverse versioni del software.,Tecnico,media
+350,Prossimi aggiornamenti del prodotto,Vorrei sapere quali aggiornamenti sono previsti per il prodotto.,Tecnico,media
+351,Problemi di archiviazione dati,Stiamo riscontrando errori durante i processi di archiviazione dei dati.,Tecnico,media
+352,Compatibilità con sistemi operativi,La piattaforma non funziona bene su alcuni sistemi operativi.,Tecnico,alta
+353,Sicurezza dei dati archiviati,Vorremmo migliorare la sicurezza dei dati che archiviamo nel sistema.,Tecnico,media
+354,Gestione delle eccezioni,Il sistema non gestisce correttamente alcune situazioni di errore.,Tecnico,media
+355,Lentezza del database,Il database risponde molto lentamente alle query.,Tecnico,media
+356,Consulenza sulla data governance,Avremmo bisogno di una consulenza sulle politiche di gestione dei dati.,Tecnico,media
+357,Aggiornamento firmware fallito,L’aggiornamento del firmware non va a buon fine.,Tecnico,media
+358,Problemi di logging,Il sistema di logging non registra tutte le informazioni necessarie.,Tecnico,media
+359,Interoperabilità con altri sistemi,Vorrei capire come rendere il sistema interoperabile con altre piattaforme.,Tecnico,media
+360,Cluster configurato male,Il cluster sembra non essere configurato correttamente.,Tecnico,media
+361,Failover non funzionante,Il sistema di failover non entra in funzione quando dovrebbe.,Tecnico,alta
+362,Alta disponibilità del sistema,Avremmo bisogno di aiuto per configurare una soluzione di alta disponibilità.,Tecnico,media
+363,Sincronizzazione utenti,La sincronizzazione degli utenti tra i sistemi non funziona correttamente.,Tecnico,alta
+364,Criticità di sicurezza,Sono state individuate alcune criticità di sicurezza nell’applicazione.,Tecnico,media
+365,Certificazioni di sicurezza,Vorrei informazioni sulle certificazioni di sicurezza possedute.,Tecnico,media
+366,Interfaccia non caricata,L’interfaccia utente non si carica correttamente.,Tecnico,media
+367,Problemi di cache,La cache causa la visualizzazione di dati non aggiornati.,Tecnico,media
+368,Analisi big data,Avremmo bisogno di supporto per progetti di analisi big data.,Tecnico,media
+369,Errori nella normalizzazione dei dati,I processi di normalizzazione dei dati producono errori.,Tecnico,media
+370,Configurazione firewall,Ci sono problemi nella configurazione del firewall.,Tecnico,media
+371,Funzionalità di machine learning,Vorrei maggiori dettagli sulle funzionalità di machine learning disponibili.,Tecnico,media
+372,Accesso ai log negato,Non riusciamo ad accedere correttamente ai log di sistema.,Tecnico,media
+373,Gestione delle patch,Le patch di sistema non vengono applicate correttamente.,Tecnico,media
+374,Integrazione continua,Avremmo bisogno di aiuto per implementare pipeline di integrazione continua.,Tecnico,media
+375,Errori di allocazione risorse,Si verificano errori nell’allocazione delle risorse.,Tecnico,media
+376,Servizio instabile,Il servizio non è stabile e presenta frequenti interruzioni.,Tecnico,media
+377,Consulenza sulla sicurezza IT,Vorremmo una consulenza approfondita sulla sicurezza IT.,Tecnico,media
+378,Problemi con i certificati digitali,Il sistema non gestisce correttamente i certificati digitali.,Tecnico,media
+379,Tracciabilità dei dati,Non riusciamo a garantire una corretta tracciabilità dei dati.,Tecnico,media
+380,Supporto premium,Vorrei informazioni sulle opzioni di supporto premium.,Tecnico,media
+381,Applicazione non si avvia,Dopo l’installazione l’applicazione non si avvia correttamente.,Tecnico,media
+382,Aiuto per gestire gli incidenti,Vi contatto perché avremmo bisogno di supporto per gestire in modo più efficace gli incidenti di sistema.,Tecnico,media
+383,Backup programmati non funzionano,I backup automatici non vengono eseguiti correttamente secondo la pianificazione.,Tecnico,alta
+384,Impossibile accedere ai report,Alcuni colleghi non riescono ad aprire i report disponibili sulla piattaforma.,Tecnico,alta
+385,Crittografia dei dati,Vorrei qualche informazione in più su come vengono crittografati e protetti i dati.,Tecnico,bassa
+386,Errori nelle transazioni,Stiamo riscontrando errori nella gestione delle transazioni del sistema.,Tecnico,media
+387,Modelli analitici non aggiornati,I modelli di analisi non si aggiornano correttamente con i nuovi dati.,Tecnico,media
+388,Orchestrazione dei servizi,Avremmo bisogno di supporto per gestire meglio l’orchestrazione dei servizi.,Tecnico,media
+389,Configurazioni non valide,Alcune configurazioni non vengono accettate dal sistema.,Tecnico,media
+390,Ambienti non isolati correttamente,Gli ambienti di test e produzione non sembrano essere isolati come dovrebbero.,Tecnico,media
+391,Audit interni,Vorrei informazioni sulle procedure di audit interno disponibili.,Tecnico,media
+392,Workflow che non partono,I workflow configurati non vengono eseguiti correttamente.,Tecnico,media
+393,Problemi nell’archiviazione documenti,Stiamo avendo difficoltà nell’archiviazione dei documenti.,Tecnico,media
+394,Migliorare la qualità dei dati,Vorremmo supporto per migliorare la qualità dei dati che utilizziamo.,Tecnico,media
+395,Replica dei servizi non funzionante,La replica dei servizi non funziona come previsto.,Tecnico,alta
+396,Problemi con l’hardware,La piattaforma presenta problemi con alcune configurazioni hardware.,Tecnico,media
+397,Soluzioni di disaster recovery,Vorrei maggiori dettagli sulle soluzioni di disaster recovery disponibili.,Tecnico,media
+398,Configurazioni dinamiche non applicate,Le configurazioni dinamiche non vengono applicate correttamente.,Tecnico,media
+399,Bilanciamento del carico inefficace,Il bilanciamento del carico non distribuisce bene le richieste.,Tecnico,media
+400,Controllo degli accessi,Avremmo bisogno di supporto per migliorare il controllo degli accessi.,Tecnico,media
+401,Errori nella validazione dei dati,I processi di validazione dei dati restituiscono risultati errati.,Tecnico,media
+402,Metadati non aggiornati,I metadati non vengono aggiornati correttamente.,Tecnico,media
+403,Conformità alle normative,Vorrei informazioni sulla conformità della piattaforma alle normative.,Tecnico,media
+404,Configurazioni non sincronizzate,Le configurazioni non sono sincronizzate tra i vari ambienti.,Tecnico,media
+405,Problemi con le dipendenze software,Stiamo riscontrando problemi nella gestione delle dipendenze software.,Tecnico,media
+406,Ottimizzazione dei costi,Vorremmo supporto per ottimizzare i costi dell’infrastruttura.,Tecnico,media
+407,Code di messaggi bloccate,Le code di messaggi non vengono elaborate correttamente.,Tecnico,media
+408,Servizio non sempre disponibile,Il servizio non è sempre disponibile durante l’orario di lavoro.,Tecnico,media
+409,Scalabilità del sistema,Avremmo bisogno di una consulenza per migliorare la scalabilità del sistema.,Tecnico,media
+410,Policy di sicurezza non aggiornate,Le policy di sicurezza non vengono aggiornate correttamente.,Tecnico,media
+411,Eventi non tracciati,Il sistema non traccia correttamente tutti gli eventi.,Tecnico,media
+412,Sicurezza perimetrale,Vorremmo migliorare la sicurezza perimetrale dei nostri sistemi.,Tecnico,media
+413,Problemi di storage,Stiamo riscontrando errori nella configurazione dello storage.,Tecnico,media
+414,Snapshot non funzionanti,La gestione delle snapshot non funziona correttamente.,Tecnico,alta
+415,Standard di sicurezza adottati,Vorrei informazioni sugli standard di sicurezza che adottate.,Tecnico,media
+416,Notifiche critiche mancanti,Le notifiche critiche non vengono inviate correttamente.,Tecnico,media
+417,Incongruenze nelle configurazioni,Abbiamo notato alcune incongruenze nelle configurazioni.,Tecnico,media
+418,Migrazione verso il cloud,Avremmo bisogno di supporto per la migrazione dei sistemi verso il cloud.,Tecnico,media
+419,Spazio disco insufficiente,Si verificano errori legati all’allocazione dello spazio disco.,Tecnico,media
+420,Monitoraggio delle prestazioni,Il monitoraggio delle prestazioni non sembra fornire dati affidabili.,Tecnico,media
+421,Supporto attivo 24/7,Vorrei informazioni sulle opzioni di supporto attivo 24 ore su 24.,Tecnico,media
+422,Gestione delle credenziali,Il sistema non gestisce correttamente le credenziali di accesso.,Tecnico,media
+423,Sicurezza dell’infrastruttura,Sono emerse alcune criticità nella sicurezza dell’infrastruttura.,Tecnico,media
+424,Continuità operativa,Avremmo bisogno di una consulenza sulla continuità operativa.,Amministrazione,media
+425,Log non sincronizzati,I log non vengono sincronizzati correttamente tra i sistemi.,Tecnico,media
+426,Configurazioni centralizzate,La gestione centralizzata delle configurazioni presenta problemi.,Tecnico,media
+427,Piani di servizio disponibili,Vorrei informazioni sui diversi piani di servizio disponibili.,Tecnico,media
+428,Arresto anomalo del servizio,Il servizio si arresta improvvisamente senza preavviso.,Tecnico,media
+429,Richiesta aggiornamento preventivo,Avremmo bisogno di un aggiornamento del preventivo inviato in precedenza.,Commerciale,bassa
+430,Offerta scaduta,"L’offerta ricevuta risulta scaduta, è possibile rinnovarla?",Commerciale,media
+431,Chiarimenti su tempi di risposta,Vorrei sapere quali sono i tempi di risposta previsti dopo l’invio di un preventivo.,Commerciale,media
+432,Richiesta confronto offerte,Vorremmo confrontare diverse opzioni di offerta disponibili.,Commerciale,bassa
+433,Problema con codice sconto,Il codice sconto ricevuto non sembra funzionare correttamente.,Tecnico,media
+434,Richiesta condizioni per grandi volumi,Potete applicare condizioni particolari per grandi volumi di acquisto?,Commerciale,bassa
+435,Errore quantità in ordine,La quantità indicata nell’ordine non è corretta.,Tecnico,media
+436,Modifica indirizzo di consegna,Avremmo bisogno di modificare l’indirizzo di consegna dell’ordine.,Commerciale,media
+437,Richiesta conferma prezzi,Potete confermare che i prezzi indicati siano definitivi?,Tecnico,bassa
+438,Chiarimenti su validità offerta,Fino a quando resta valida l’offerta commerciale?,Commerciale,media
+439,Problema con ordine online,Abbiamo riscontrato un problema durante l’invio di un ordine online.,Tecnico,media
+440,Richiesta contatto post-vendita,Avrei bisogno di parlare con un referente commerciale post-vendita.,Commerciale,bassa
+441,Errore nel riepilogo ordine,Il riepilogo dell’ordine presenta informazioni errate.,Tecnico,media
+442,Richiesta upgrade contratto,Vorremmo effettuare un upgrade del contratto attuale.,Commerciale,bassa
+443,Informazioni su nuovi prodotti,Siamo interessati a conoscere i nuovi prodotti disponibili.,Tecnico,media
+444,Problema con sconto applicato,Lo sconto applicato non corrisponde a quanto concordato.,Tecnico,media
+445,Richiesta modifica condizioni,Vorremmo modificare alcune condizioni commerciali.,Tecnico,bassa
+446,Ordine bloccato,L’ordine risulta bloccato e non sappiamo come procedere.,Commerciale,media
+447,Chiarimenti su penali di recesso,Vorrei maggiori dettagli sulle penali in caso di recesso anticipato.,Tecnico,media
+448,Richiesta consulenza commerciale,Avremmo bisogno di una consulenza commerciale dedicata.,Commerciale,bassa
+449,Errore prezzo unitario,Il prezzo unitario indicato non è corretto.,Tecnico,media
+450,Richiesta proroga offerta,È possibile prorogare la validità dell’offerta?,Commerciale,bassa
+451,Problema con rinnovo automatico,Il rinnovo automatico del servizio non è avvenuto come previsto.,Tecnico,media
+452,Richiesta adeguamento prezzi,Vorremmo discutere un adeguamento dei prezzi.,Tecnico,bassa
+453,Chiarimenti su servizi opzionali,Vorrei informazioni sui servizi opzionali disponibili.,Tecnico,media
+454,Errore descrizione prodotto,La descrizione del prodotto in offerta non è corretta.,Tecnico,media
+455,Richiesta nuova proposta,Potete inviarci una nuova proposta commerciale?,Commerciale,bassa
+456,Ordine parzialmente evaso,L’ordine risulta solo parzialmente evaso.,Commerciale,media
+457,Problema con conferma ordine,Non abbiamo ricevuto la conferma dell’ordine.,Tecnico,media
+458,Richiesta variazione quantità,Vorremmo variare le quantità ordinate.,Tecnico,bassa
+459,Chiarimenti su costi aggiuntivi,Sono previsti costi aggiuntivi rispetto a quanto indicato?,Tecnico,media
+460,Errore totale ordine,Il totale dell’ordine non è corretto.,Tecnico,media
+461,Richiesta assistenza commerciale urgente,Avremmo bisogno di assistenza commerciale urgente.,Commerciale,alta
+462,Problema con contratto attivo,Stiamo riscontrando un problema con un contratto attivo.,Tecnico,media
+463,Richiesta estensione servizi,Vorremmo estendere i servizi inclusi nel contratto.,Commerciale,bassa
+464,Chiarimenti su modalità di fatturazione,Vorrei chiarimenti sulle modalità di fatturazione commerciale.,Amministrazione,media
+465,Errore configurazione ordine,L’ordine risulta configurato in modo errato.,Tecnico,media
+466,Richiesta nuovo listino,Potete inviarci il nuovo listino prezzi?,Tecnico,bassa
+467,Problema con offerte multiple,Abbiamo ricevuto più offerte e non sappiamo quale sia valida.,Tecnico,media
+468,Richiesta revisione condizioni,Vorremmo rivedere alcune condizioni dell’accordo.,Tecnico,bassa
+469,Errore applicazione promozione,La promozione non è stata applicata correttamente.,Tecnico,media
+470,Richiesta informazioni su bundle,Vorrei informazioni su eventuali bundle disponibili.,Tecnico,bassa
+471,Problema con upgrade servizio,L’upgrade richiesto non è stato applicato.,Tecnico,media
+472,Richiesta verifica stato trattativa,Potete aggiornarmi sullo stato della trattativa commerciale?,Amministrazione,bassa
+473,Chiarimenti su clausole contrattuali,Avrei bisogno di chiarimenti su alcune clausole del contratto.,Commerciale,media
+474,Errore canone mensile,Il canone mensile indicato non è corretto.,Tecnico,media
+475,Richiesta supporto pre-vendita,Avrei bisogno di supporto pre-vendita per valutare l’offerta.,Commerciale,bassa
+476,Problema con condizioni concordate,Le condizioni applicate non corrispondono a quelle concordate.,Tecnico,media
+477,Candidatura spontanea,"Buongiorno, vi invio il mio curriculum per una possibile opportunità lavorativa.",Amministrazione,media
+478,Invio CV per posizione aperta,Ho visto una posizione aperta sul vostro sito e vi mando il mio CV in allegato.,Tecnico,media
+479,Richiesta colloquio conoscitivo,Sarei interessato a un colloquio conoscitivo per valutare possibili collaborazioni.,Tecnico,bassa
+480,Contatto diretto con CEO,È possibile parlare direttamente con il CEO per una proposta importante?,Tecnico,media
+481,Richiesta stage,Sono uno studente universitario e vorrei sapere se offrite opportunità di stage.,Tecnico,bassa
+482,Domanda su ambiente di lavoro,Vorrei avere informazioni sull’ambiente di lavoro e sulla cultura aziendale.,Tecnico,bassa
+483,Richiesta sponsorizzazione evento,Stiamo organizzando un evento e vorremmo sapere se siete interessati a sponsorizzarlo.,Tecnico,bassa
+484,Proposta di partnership non commerciale,Vi scrivo per proporre una collaborazione a livello istituzionale.,Commerciale,media
+485,Invio candidatura per ufficio HR,Invio il mio curriculum per il reparto risorse umane.,Tecnico,media
+486,Richiesta informazioni su carriera,Vorrei sapere quali sono le opportunità di carriera nella vostra azienda.,Tecnico,bassa
+487,Segnalazione generica,Volevo solo segnalare che seguo con interesse le vostre attività.,Tecnico,media
+488,Richiesta contatto stampa,Sono un giornalista e vorrei mettermi in contatto con il vostro ufficio stampa.,Tecnico,bassa
+489,Invito a conferenza,Siete invitati come ospiti a una conferenza di settore.,Tecnico,media
+490,Proposta di collaborazione accademica,Vi scrivo per proporre una collaborazione accademica con la nostra università.,Tecnico,media
+491,Richiesta testimonial,Sareste disponibili a partecipare come testimonial a un nostro progetto?,Tecnico,bassa
+492,Domanda su politica aziendale,Vorrei informazioni sulla vostra politica aziendale interna.,Tecnico,bassa
+493,Segnalazione candidatura già inviata,Vi scrivo per confermare l’invio della mia candidatura.,Tecnico,media
+494,Richiesta incontro istituzionale,Vorrei richiedere un incontro istituzionale con un vostro rappresentante.,Tecnico,bassa
+495,Proposta editoriale,Vi contatto per proporvi una collaborazione editoriale.,Tecnico,media
+496,Invio progetto personale,Vi mando un mio progetto personale per una vostra valutazione.,Tecnico,media
+497,Richiesta mentoring,Sarei interessato a un percorso di mentoring professionale.,Tecnico,bassa
+498,Domanda su smart working,Vorrei sapere se adottate politiche di smart working.,Tecnico,bassa
+499,Richiesta lettera di referenze,È possibile ottenere una lettera di referenze?,Tecnico,bassa
+500,Proposta pubblicitaria,Vi scrivo per proporvi una campagna pubblicitaria.,Tecnico,media
+501,Domanda su selezioni in corso,Vorrei sapere se sono in corso selezioni aperte.,Tecnico,bassa
+502,Richiesta supporto non specifico,Ho un problema ma non so a chi rivolgermi.,Tecnico,media
+503,Invio candidatura per posizione non specificata,Invio il mio CV per future opportunità.,Tecnico,media
+504,Richiesta partecipazione a evento aziendale,È possibile partecipare a un vostro evento aziendale?,Tecnico,bassa
+505,Domanda su sede aziendale,Vorrei sapere dove si trova la vostra sede principale.,Tecnico,bassa
+506,Richiesta visita aziendale,Sarebbe possibile organizzare una visita presso la vostra azienda?,Tecnico,bassa
+507,Proposta di volontariato,Vi contatto per proporre attività di volontariato aziendale.,Tecnico,media
+508,Domanda su valori aziendali,Vorrei maggiori informazioni sui vostri valori aziendali.,Tecnico,bassa
+509,Richiesta intervista,Sarebbe possibile organizzare un’intervista con un vostro dirigente?,Tecnico,bassa
+510,Segnalazione generica senza dettagli,Vi scrivo per una segnalazione generica.,Tecnico,media
+511,Proposta di evento culturale,Vorremmo invitarvi a partecipare a un evento culturale.,Tecnico,media
+512,Richiesta contatto generico,Chiedo di essere ricontattato.,Tecnico,bassa
+513,Invio candidatura fuori profilo,Invio il mio CV anche se non ho trovato posizioni adatte.,Tecnico,media
+514,Domanda su organigramma,Vorrei informazioni sull’organigramma aziendale.,Tecnico,bassa
+515,Proposta di collaborazione artistica,Vi scrivo per proporre una collaborazione artistica.,Tecnico,media
+516,Richiesta patrocinio,Chiediamo il patrocinio per una nostra iniziativa.,Amministrazione,bassa
+517,Domanda su fondazione aziendale,Avete una fondazione o attività di responsabilità sociale?,Tecnico,bassa
+518,Invio presentazione personale,Vi mando una presentazione personale per conoscenza.,Tecnico,media
+519,Richiesta supporto personale,Ho una richiesta personale non legata ai vostri servizi.,Tecnico,bassa
+520,Proposta di intervista podcast,Vorremmo intervistare un vostro rappresentante per un podcast.,Tecnico,media
+521,Richiesta informazioni generiche,Vorrei semplici informazioni generali sulla vostra azienda.,Tecnico,bassa
+522,Invio candidatura tardiva,Invio la mia candidatura anche se la selezione è chiusa.,Amministrazione,media
+523,Proposta di networking,Vi scrivo per una proposta di networking professionale.,Tecnico,media
+524,Richiesta contatto HR,Vorrei essere messo in contatto con il reparto HR.,Tecnico,bassa
