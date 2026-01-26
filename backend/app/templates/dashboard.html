@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<h3 class="mb-4">Dashboard – {{ role|capitalize }}</h3>
+
+<div class="card shadow">
+    <div class="card-body">
+
+        <form method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label class="form-label">Carica file CSV</label>
+                <input type="file" class="form-control" name="file" required>
+            </div>
+
+            <button class="btn btn-success">Processa ticket</button>
+        </form>
+
+        {% if message %}
+            <div class="alert alert-info mt-3">{{ message }}</div>
+        {% endif %}
+
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,32 @@
+body {
+  background-color: #f5f7fa;
+  background-image: url("../img/LOGO_AZIENDA.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 650px;   /* 🔼 più grande */
+  background-attachment: fixed;
+}
+
+/* overlay SOLO sotto la navbar */
+.main-content::before {
+  content: "";
+  position: fixed;
+  top: 56px; /* altezza navbar bootstrap */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.75);
+  z-index: 1;
+  pointer-events: none;
+}
+
+
+.container {
+  position: relative;
+  z-index: 2;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+}
