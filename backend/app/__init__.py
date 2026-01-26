@@ -1,5 +1,6 @@
 from flask import Flask
 from dotenv import load_dotenv
+from .routes_predict import predict_bp 
 import os
 
 def create_app():
@@ -12,5 +13,5 @@ def create_app():
     @app.get("/health")
     def health():
         return {"status": "ok"}
-
+    app.register_blueprint(predict_bp) 
     return app
