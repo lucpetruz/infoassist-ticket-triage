@@ -23,7 +23,7 @@ CATEGORY_KEYWORDS = {
 PRIORITY_KEYWORDS = {
     "alta": [
         "urgente", "bloccante", "errore grave", "non funziona",
-        "sistema fermo", "down", "impossibile"
+        "fermo", "down", "impossibile"
     ],
     "media": [
         "problema", "malfunzionamento", "lento", "difficoltà"

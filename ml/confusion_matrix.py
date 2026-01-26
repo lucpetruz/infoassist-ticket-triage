@@ -8,7 +8,7 @@ from nltk.tokenize import word_tokenize
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
-STOPWORDS = set(stopwords.words("italian"))
+STOPWORDS = set(stopwords.words("italian")) - {"non", "senza"}
 
 def preprocess(text: str) -> str:
     text = text.lower()

@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, f1_score
 
-STOPWORDS = set(stopwords.words("italian"))
+STOPWORDS = set(stopwords.words("italian")) - {"non", "senza"}
 
 def preprocess(text: str) -> str:
     text = text.lower()
