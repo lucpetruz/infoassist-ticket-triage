@@ -1,0 +1,20 @@
+title,body,pred_category,pred_priority,category_confidence,priority_confidence
+"Richiesta supporto per aggiornamenti di sicurezza,""Vi contatto per ricevere informazioni sugli ultimi aggiornamenti di sicurezza disponibili per la piattaforma.""",,Tecnico,bassa,0.846,0.519
+"Errore nella gestione delle code,""Il sistema presenta errori nella gestione delle code di elaborazione dei processi.""",,Tecnico,media,0.828,0.886
+"Problema di accesso da remoto,""Alcuni utenti non riescono ad accedere alla piattaforma da remoto.""",,Tecnico,media,0.816,0.892
+"Richiesta informazioni su integrazione ERP,""Vorrei ricevere dettagli sull’integrazione della piattaforma con sistemi ERP.""",,Tecnico,bassa,0.806,0.55
+"Errore di indicizzazione dati,""Si riscontrano problemi nell’indicizzazione dei dati che rallentano le ricerche.""",,Tecnico,media,0.835,0.887
+"Problema di visualizzazione mobile,""La piattaforma non viene visualizzata correttamente su dispositivi mobili.""",,Tecnico,media,0.852,0.805
+"Richiesta supporto per automazione,""Desideriamo supporto per automatizzare alcuni processi operativi.""",,Tecnico,bassa,0.769,0.639
+"Errore nella gestione dei ruoli,""I ruoli utente non vengono assegnati correttamente.""",,Tecnico,media,0.829,0.883
+"Problema di aggiornamento dashboard,""Le dashboard non si aggiornano in tempo reale.""",,Tecnico,media,0.866,0.856
+"Problema con attivazione contratto,""Il contratto risulta firmato ma non ancora attivo.""",,Tecnico,media,0.836,0.873
+"Richiesta supporto commerciale continuativo,""Avremmo bisogno di un supporto commerciale continuativo.""",,Tecnico,bassa,0.804,0.85
+"Errore applicazione condizioni speciali,""Le condizioni speciali concordate non sono state applicate.""",,Tecnico,media,0.825,0.817
+"Richiesta nuova offerta su misura,""Potete prepararci una nuova offerta su misura?""",,Tecnico,bassa,0.829,0.632
+"Problema con gestione trattativa complessa,""La trattativa commerciale risulta complessa e rallentata.""",,Tecnico,media,0.849,0.753
+"Richiesta supporto per chiusura contratto,""Avremmo bisogno di supporto per arrivare alla chiusura del contratto.""",,Tecnico,bassa,0.816,0.734
+"Richiesta verifica saldo,""Potete verificare il saldo della nostra posizione?""",,Tecnico,bassa,0.777,0.518
+"Fattura con data futura,""La fattura presenta una data futura non corretta.""",,Tecnico,media,0.827,0.897
+"Richiesta conferma chiusura fattura,""Potete confermare la chiusura della fattura?""",,Tecnico,bassa,0.807,0.628
+"Richiesta estratto scadenziario,""Avremmo bisogno dello scadenziario aggiornato.""",,Tecnico,bassa,0.84,0.768
