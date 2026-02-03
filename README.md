@@ -3,7 +3,7 @@ Applicazione per la classificazione automatica dei ticket di assistenza aziendal
 basato su tecniche di Machine Learning, integrato con front-end web.
 L'obiettivo è di automatizzare lo smistamento di ticket, che giungono in un'azienda che si occupa di IT, 
 verso il dipartimento corretto, assegnando anche una priorità operativa.
-
+URL ESTERNO PER RAGGIUNGERE IL FRONT END: https://infoassi-tk-tri.datalabcentre.com/
 **Obiettivo del progetto**
 L’obiettivo che si propone l'elaborato è realizzare un prototipo(essenziale, riproducibile e comprensibile) che:
 
