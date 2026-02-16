@@ -1,0 +1,174 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="dashboard-stats-page">
+
+  <div class="row justify-content-end">
+    <div class="col-md-7">
+
+      <h3 class="mb-4 text-end">
+        Dashboard – {{ role|capitalize }}
+      </h3>
+
+      <!-- FILTRO PERIODO -->
+      <div class="d-flex justify-content-end mb-4">
+        <div class="btn-group">
+          <a href="{{ url_for('ui.dashboard_stats', period='7') }}"
+             class="btn btn-outline-primary {% if data.period == '7' %}active{% endif %}">
+            Ultimi 7 giorni
+          </a>
+          <a href="{{ url_for('ui.dashboard_stats', period='30') }}"
+             class="btn btn-outline-primary {% if data.period == '30' %}active{% endif %}">
+            30 giorni
+          </a>
+          <a href="{{ url_for('ui.dashboard_stats', period='90') }}"
+             class="btn btn-outline-primary {% if data.period == '90' %}active{% endif %}">
+            90 giorni
+          </a>
+          <a href="{{ url_for('ui.dashboard_stats') }}"
+             class="btn btn-outline-secondary {% if data.period == 'all' %}active{% endif %}">
+            Tutto
+          </a>
+        </div>
+      </div>
+
+      <!-- KPI BASE -->
+      <div class="row text-center">
+        <div class="col-md-4">
+          <div class="card shadow-sm">
+            <div class="card-body">
+              <h6>Ticket totali</h6>
+              <h3>{{ data.totale_ticket }}</h3>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card shadow-sm">
+            <div class="card-body">
+              <h6>Conf. categoria</h6>
+              <h3>{{ data.conf_categoria_media }}</h3>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="card shadow-sm">
+            <div class="card-body">
+              <h6>Conf. priorità</h6>
+              <h3>{{ data.conf_priorita_media }}</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- KPI AVANZATI -->
+      <div class="row text-center mt-4">
+        <div class="col-md-3"><strong>% alta priorità</strong><br>{{ data.percentuale_alta_priorita }}%</div>
+        <div class="col-md-3"><strong>Ticket critici</strong><br>{{ data.ticket_critici }}</div>
+        <div class="col-md-3"><strong>Categoria dominante</strong><br>{{ data.categoria_dominante }}</div>
+        <div class="col-md-3"><strong>Nuovi (7g)</strong><br>{{ data.nuovi_ticket_7_giorni }}</div>
+      </div>
+
+    </div>
+  </div>
+
+  <hr class="my-4">
+
+  <!-- GRAFICI -->
+  <div class="row">
+    <div class="col-md-6 mb-4"><canvas id="catChart"></canvas></div>
+    <div class="col-md-6 mb-4"><canvas id="prioChart"></canvas></div>
+    <div class="col-md-6 mb-4"><canvas id="srcChart"></canvas></div>
+    <div class="col-md-6 mb-4"><canvas id="dailyChart"></canvas></div>
+  </div>
+
+</div>
+
+<!-- LOGO DECORATIVO -->
+<img src="{{ url_for('static', filename='img/LOGO_AZIENDA.png') }}"
+     class="dashboard-logo">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const byCategory = {{ data.by_category | tojson }};
+  const byPriority = {{ data.by_priority | tojson }};
+  const bySource   = {{ data.by_source | tojson }};
+  const daily      = {{ data.daily | tojson }};
+
+  const textLabels = arr => arr.map(x => x.label);
+  const dateLabels = arr => arr.map(x =>
+    new Date(x.label).toLocaleDateString("it-IT", {
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric"
+    })
+  );
+  const values = arr => arr.map(x => x.value);
+
+  const commonOptions = {
+    responsive: true,
+    plugins: {
+      legend: {
+        labels: {
+          font: { size: 14, weight: "bold" }
+        }
+      }
+    },
+    scales: {
+      x: { ticks: { font: { size: 13 } } },
+      y: { ticks: { font: { size: 13 } } }
+    }
+  };
+
+  new Chart(catChart, {
+    type: "bar",
+    data: {
+      labels: textLabels(byCategory),
+      datasets: [{ label: "Ticket per categoria", data: values(byCategory), backgroundColor: "#0d6efd" }]
+    },
+    options: commonOptions
+  });
+
+  new Chart(prioChart, {
+    type: "bar",
+    data: {
+      labels: textLabels(byPriority),
+      datasets: [{ label: "Ticket per priorità", data: values(byPriority), backgroundColor: "#198754" }]
+    },
+    options: commonOptions
+  });
+
+  new Chart(srcChart, {
+    type: "doughnut",
+    data: {
+      labels: textLabels(bySource),
+      datasets: [{ label: "Ticket per sorgente", data: values(bySource) }]
+    },
+    options: commonOptions
+  });
+
+  new Chart(dailyChart, {
+    type: "line",
+    data: {
+      labels: dateLabels(daily),
+      datasets: [{ label: "Ticket per giorno", data: values(daily), borderColor: "#dc3545", tension: 0.3 }]
+    },
+    options: commonOptions
+  });
+</script>
+
+<style>
+.dashboard-logo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 160px;
+  opacity: 0.15;
+  pointer-events: none;
+  z-index: 0;
+}
+</style>
+{% endblock %}

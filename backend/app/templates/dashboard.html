@@ -1,26 +1,50 @@
 {% extends "base.html" %}
-
 {% block title %}Dashboard{% endblock %}
 
 {% block content %}
-<h3 class="mb-4">Dashboard – {{ role|capitalize }}</h3>
 
-<div class="card shadow">
-    <div class="card-body">
+<div class="container-fluid">
+  <div class="row align-items-center" style="min-height:80vh;">
 
-        <form method="post" enctype="multipart/form-data">
-            <div class="mb-3">
+    <!-- SINISTRA LOGO -->
+    <div class="col-md-6 text-center">
+        <img src="{{ url_for('static', filename='img/logo.png') }}"
+             class="img-fluid"
+             style="max-height:500px; object-fit:contain;">
+    </div>
+
+    <!-- DESTRA CONTENUTO -->
+    <div class="col-md-6">
+
+        <h3 class="mb-4">Dashboard – {{ role|capitalize }}</h3>
+
+        {% if role == "admin" %}
+        <div class="card shadow p-4">
+
+            <form action="{{ url_for('ui.upload_csv') }}"
+                  method="post"
+                  enctype="multipart/form-data">
+
                 <label class="form-label">Carica file CSV</label>
-                <input type="file" class="form-control" name="file" required>
-            </div>
 
-            <button class="btn btn-success">Processa ticket</button>
-        </form>
+                <input type="file"
+                       class="form-control w-75 mb-3"
+                       name="file"
+                       required>
 
-        {% if message %}
-            <div class="alert alert-info mt-3">{{ message }}</div>
+                <button class="btn btn-success">
+                    Processa ticket
+                </button>
+
+            </form>
+
+        </div>
         {% endif %}
 
     </div>
+
+  </div>
 </div>
+
 {% endblock %}
+

@@ -1,0 +1,13 @@
+title,body,correct_category
+"Richiesta revisione finale offerta,""Prima di procedere vorremmo una revisione finale dell’offerta commerciale.""","",Commerciale
+"Offerta non allineata alle esigenze,""L’offerta ricevuta non è del tutto allineata alle nostre esigenze operative.""","",Commerciale
+"Problema con prezzi di rinnovo,""I prezzi proposti per il rinnovo non corrispondono a quanto discusso.""","",Commerciale
+"Richiesta adeguamento condizioni commerciali,""Vorremmo rivedere alcune condizioni commerciali prima della firma.""","",Commerciale
+"Errore durata contratto rinnovato,""La durata del contratto rinnovato non è corretta.""","",Commerciale
+"Offerta superata,""L’offerta ricevuta risulta superata rispetto alle nuove esigenze.""","",Commerciale
+"Problema con validità offerta,""Non ci è chiaro fino a quando l’offerta resti valida.""","",Commerciale
+"Richiesta chiarimenti su condizioni finali,""Vorrei chiarimenti sulle condizioni finali del contratto.""","",Commerciale
+"Errore totale contratto,""Il totale indicato nel contratto non è corretto.""","",Commerciale
+"Richiesta supporto per chiusura commerciale,""Avremmo bisogno di supporto per completare la chiusura commerciale.""","",Commerciale
+"Richiesta chiarimenti su fatturazione finale,""Vorrei chiarimenti sulla fatturazione finale del contratto.""","",Commerciale
+"Problema con attivazione post-contratto,""Dopo la firma il servizio non risulta ancora attivo.""","",Commerciale

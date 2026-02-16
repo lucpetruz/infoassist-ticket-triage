@@ -1,20 +1,59 @@
+import sys
+from pathlib import Path
+
+# rende visibile la root del progetto (infoassist-ticket-triage)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 import pandas as pd
 import re
 import joblib
 
+
+from pathlib import Path
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-STOPWORDS = set(stopwords.words("italian")) - {"non"}  # manteniamo "non"
+# PRIORITY RULES (CENTRALIZZATE)
+from priority_rules import compute_priority
+
+# =====================
+# PATHS (ROBUSTI)
+# =====================
+BASE_DIR = Path(__file__).resolve().parent      # .../ml
+DATA_DIR = BASE_DIR / "data"                    # .../ml/data
+MODELS_DIR = BASE_DIR / "models"                # .../ml/models
+
+INPUT_CSV = DATA_DIR / "tickets_new.csv"
+OUTPUT_CSV = DATA_DIR / "tickets_predicted.csv"
+
+# =====================
+# PREPROCESSING
+# =====================
+STOPWORDS = set(stopwords.words("italian")) - {"non"}
 
 def preprocess(text: str) -> str:
+    if text is None:
+        return ""
+
+    if not isinstance(text, str):
+        text = str(text)
+
     text = text.lower()
     text = re.sub(r"[^\w\s]", " ", text)
+
     tokens = word_tokenize(text, language="italian")
     tokens = [t for t in tokens if t.isalpha() and t not in STOPWORDS]
+
     return " ".join(tokens)
 
-def load_input_csv(path: str) -> pd.DataFrame:
+# =====================
+# INPUT LOADER
+# =====================
+def load_input_csv(path: Path) -> pd.DataFrame:
+    if not path.exists():
+        raise FileNotFoundError(f"File non trovato: {path}")
+
     df = pd.read_csv(path)
 
     # accetta sia subject che title
@@ -23,44 +62,65 @@ def load_input_csv(path: str) -> pd.DataFrame:
 
     required = {"title", "body"}
     if not required.issubset(set(df.columns)):
-        raise ValueError(f"CSV deve contenere colonne {required}. Colonne trovate: {list(df.columns)}")
+        raise ValueError(
+            f"CSV deve contenere colonne {required}. "
+            f"Colonne trovate: {list(df.columns)}"
+        )
 
     return df
 
+# =====================
+# MAIN
+# =====================
 def main():
-    input_path = "ml/data/tickets_new.csv"
-    output_path = "ml/data/tickets_predicted.csv"
+    # carica dati
+    df = load_input_csv(INPUT_CSV)
 
-    df = load_input_csv(input_path)
-    df["text"] = (df["title"].fillna("") + " " + df["body"].fillna("")).apply(preprocess)
+    # preprocessing testo
+    df["text"] = (
+        df["title"].fillna("") + " " + df["body"].fillna("")
+    ).apply(preprocess)
 
-    vectorizer = joblib.load("ml/models/vectorizer.joblib")
-    cat_model = joblib.load("ml/models/category_model.joblib")
-    prio_model = joblib.load("ml/models/priority_model.joblib")
+    # carica modelli ML
+    vectorizer = joblib.load(MODELS_DIR / "vectorizer.joblib")
+    category_model = joblib.load(MODELS_DIR / "category_model.joblib")
 
+    # trasformazione
     X = vectorizer.transform(df["text"])
 
-    # ===== CATEGORY =====
-    cat_pred = cat_model.predict(X)
-    cat_proba = cat_model.predict_proba(X).max(axis=1)
+    # ===== CATEGORY (ML) =====
+    cat_pred = category_model.predict(X)
+    cat_proba = category_model.predict_proba(X).max(axis=1)
 
-    # ===== PRIORITY =====
-    prio_pred = prio_model.predict(X)
-    prio_proba = prio_model.predict_proba(X).max(axis=1)
-
+    # ===== OUTPUT =====
     out = df.copy()
     out["pred_category"] = cat_pred
-    out["pred_priority"] = prio_pred
     out["category_confidence"] = cat_proba.round(3)
-    out["priority_confidence"] = prio_proba.round(3)
 
-    # teniamo anche il testo originale, ma possiamo rimuovere "text" se non serve
+    # ===== PRIORITY (RULE-BASED, INTRA-DIPARTIMENTALE) =====
+    out["pred_priority"] = out.apply(
+        lambda r: compute_priority(
+            r["pred_category"],
+            f"{r['title']} {r['body']}"
+        ),
+        axis=1
+    )
+
+    # pulizia
     out.drop(columns=["text"], inplace=True)
 
-    out.to_csv(output_path, index=False)
-    print(f"✅ Predizioni salvate in: {output_path}")
-    print("Distribuzione categorie predette:\n", out["pred_category"].value_counts())
-    print("Distribuzione priorità predette:\n", out["pred_priority"].value_counts())
+    # salva output
+    out.to_csv(OUTPUT_CSV, index=False)
 
+    print(f"✅ Predizioni salvate in: {OUTPUT_CSV}")
+    print("\nDistribuzione categorie predette:")
+    print(out["pred_category"].value_counts())
+
+    print("\nDistribuzione priorità predette:")
+    print(out["pred_priority"].value_counts())
+
+# =====================
+# ENTRYPOINT
+# =====================
 if __name__ == "__main__":
     main()

@@ -1,0 +1,43 @@
+title,body,correct_category
+"Richiesta incontro conclusivo,""Sarebbe possibile organizzare un incontro conclusivo per chiudere la trattativa?""",,Amministrazione
+"Errore durata contratto rinnovato,""La durata del contratto rinnovato non è corretta.""",,Amministrazione
+"Richiesta proroga trattativa,""Avremmo bisogno di qualche giorno in più per valutare la proposta.""",,Amministrazione
+"Richiesta supporto nella fase finale,""Avremmo bisogno di supporto nella fase finale della trattativa.""",,Amministrazione
+"Richiesta nuova proposta conclusiva,""Potete inviarci una nuova proposta conclusiva?""",,Amministrazione
+"Richiesta chiarimenti su condizioni finali,""Vorrei chiarimenti sulle condizioni finali del contratto.""",,Amministrazione
+"Errore totale contratto,""Il totale indicato nel contratto non è corretto.""",,Amministrazione
+"Problema con firma definitiva,""Stiamo riscontrando problemi nella fase di firma definitiva.""",,Amministrazione
+"Errore riferimento contrattuale,""Il riferimento contrattuale indicato non è corretto.""",,Amministrazione
+"Richiesta chiarimenti su fatturazione finale,""Vorrei chiarimenti sulla fatturazione finale del contratto.""",,Amministrazione
+"Problema con attivazione post-contratto,""Dopo la firma il servizio non risulta ancora attivo.""",,Amministrazione
+"Fattura non ricevuta,""Buongiorno, non abbiamo ancora ricevuto la fattura relativa al mese scorso. Potete verificarne linvio?""",,Amministrazione
+"Errore importo in fattura,""Abbiamo notato che limporto indicato in fattura non corrisponde a quanto concordato. Potete controllare?""",,Amministrazione
+"Richiesta copia fattura,""Avrei bisogno di una copia della fattura già emessa per poterla archiviare correttamente.""",,Amministrazione
+"Fattura con IVA errata,""La fattura ricevuta riporta unaliquota IVA non corretta. Potete emetterne una corretta?""",,Amministrazione
+"Chiarimenti su scadenza pagamento,""Vorrei avere conferma sulla data di scadenza del pagamento indicata in fattura.""",,Amministrazione
+"Nota di credito richiesta,""È necessario emettere una nota di credito a seguito di un errore di fatturazione.""",,Amministrazione
+"Pagamento già effettuato,""Vi segnalo che il pagamento relativo alla fattura risulta già effettuato, ma risulta ancora come insoluto.""",,Amministrazione
+"Ritardo nel pagamento,""Il pagamento subirà un lieve ritardo rispetto alla scadenza prevista.""",,Amministrazione
+"Richiesta coordinate bancarie,""Potete confermarci le vostre coordinate bancarie per procedere al pagamento?""",,Amministrazione
+"Fattura duplicata,""Abbiamo ricevuto due volte la stessa fattura. Potete verificare?""",,Amministrazione
+"Errore intestazione fattura,""La fattura è intestata a una società errata. È possibile correggerla?""",,Amministrazione
+"Richiesta dettaglio voci fattura,""Avremmo bisogno di un dettaglio più preciso delle voci presenti in fattura.""",,Amministrazione
+"Pagamento parziale effettuato,""È stato effettuato un pagamento parziale della fattura. Seguirà saldo.""",,Amministrazione
+"Fattura non registrata,""La fattura inviata non risulta ancora registrata nel nostro sistema.""",,Amministrazione
+"Chiarimenti su ritenuta dacconto,""Vorrei chiarimenti sullapplicazione della ritenuta dacconto indicata in fattura.""",,Amministrazione
+"Richiesta estratto conto,""Avremmo bisogno di un estratto conto aggiornato delle fatture aperte.""",,Amministrazione
+"Continuità operativa,""Avremmo bisogno di una consulenza sulla continuità operativa.""",,Amministrazione
+"Scadenza pagamento superata,""La fattura risulta scaduta, potete indicarci come procedere?""",,Amministrazione
+"Errore valuta in fattura,""La fattura è stata emessa con una valuta diversa da quella concordata.""",,Amministrazione
+"Richiesta revisione finale offerta,""Prima di procedere vorremmo una revisione finale dellofferta commerciale.""",,Commerciale
+"Offerta non allineata alle esigenze,""Lofferta ricevuta non è del tutto allineata alle nostre esigenze operative.""",,Commerciale
+"Problema con prezzi di rinnovo,""I prezzi proposti per il rinnovo non corrispondono a quanto discusso.""",,Commerciale
+"Richiesta adeguamento condizioni commerciali,""Vorremmo rivedere alcune condizioni commerciali prima della firma.""",,Commerciale
+"Errore durata contratto rinnovato,""La durata del contratto rinnovato non è corretta.""",,Commerciale
+"Offerta superata,""Lofferta ricevuta risulta superata rispetto alle nuove esigenze.""",,Commerciale
+"Problema con validità offerta,""Non ci è chiaro fino a quando lofferta resti valida.""",,Commerciale
+"Richiesta chiarimenti su condizioni finali,""Vorrei chiarimenti sulle condizioni finali del contratto.""",,Commerciale
+"Errore totale contratto,""Il totale indicato nel contratto non è corretto.""",,Commerciale
+"Richiesta supporto per chiusura commerciale,""Avremmo bisogno di supporto per completare la chiusura commerciale.""",,Commerciale
+"Richiesta chiarimenti su fatturazione finale,""Vorrei chiarimenti sulla fatturazione finale del contratto.""",,Commerciale
+"Problema con attivazione post-contratto,""Dopo la firma il servizio non risulta ancora attivo.""",,Commerciale

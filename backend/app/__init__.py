@@ -1,19 +1,30 @@
 from flask import Flask
 from dotenv import load_dotenv
-from .routes_predict import predict_bp 
+
+from app.extensions import db, migrate
+from app.config import Config
+from .routes_predict import predict_bp
 from .routes_ui import ui_bp
-import os
 
 def create_app():
-    load_dotenv()
-    
-    app = Flask(__name__)
-    app.config["SECRET_KEY"] = os.getenv("FLASK_SECRET_KEY")
-    app.config["DATABASE_URL"] = os.getenv("DATABASE_URL")
+    load_dotenv(override=False)
 
+    app = Flask(__name__)
+    app.config.from_object(Config)
+
+    # init estensioni
+    db.init_app(app)
+    migrate.init_app(app, db)
+
+    # health check
     @app.get("/health")
     def health():
         return {"status": "ok"}
-    app.register_blueprint(predict_bp) 
+
+    # blueprint
+    app.register_blueprint(predict_bp)
     app.register_blueprint(ui_bp)
+
     return app
+
+

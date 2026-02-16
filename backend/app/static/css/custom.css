@@ -30,3 +30,79 @@ body {
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
 }
+/* NAVBAR HOVER */
+.nav-hover {
+    transition: 0.3s;
+}
+
+.nav-hover:hover {
+    color: #ffd54f !important;
+    transform: scale(1.05);
+}
+
+/* FOCUS INPUT */
+.form-control:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 5px rgba(13,110,253,0.5);
+}
+
+/* BOTTONI */
+.btn:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+/* SOLO dashboard stats */
+.dashboard-stats-page .logo-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 220px;
+  opacity: 0.9;
+  z-index: 1;
+}
+.dashboard-stats-page .logo {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    max-width: 220px;
+    opacity: 0.15;
+    z-index: 1;
+}
+/* =========================
+   DASHBOARD STATS ONLY
+   ========================= */
+
+.dashboard-stats-page {
+  position: relative;
+}
+
+/* logo piccolo e non invasivo */
+.dashboard-logo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 140px;
+  opacity: 0.15;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* grafici sopra al logo */
+.dashboard-stats-page canvas {
+  background: #fff;
+  border-radius: 8px;
+  padding: 10px;
+  z-index: 2;
+  position: relative;
+}
+
+/* titoli grafici più leggibili */
+.dashboard-stats-page h3,
+.dashboard-stats-page h6 {
+  font-weight: 600;
+}
+
+/* KPI avanzati più leggibili */
+.dashboard-stats-page .row.text-center strong {
+  font-size: 0.95rem;
+}

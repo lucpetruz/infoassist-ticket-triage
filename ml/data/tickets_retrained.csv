@@ -1,0 +1,525 @@
+title,body,correct_category
+Fattura non ricevuta,"Buongiorno, non abbiamo ancora ricevuto la fattura relativa al mese scorso. Potete verificarne l’invio?",Amministrazione
+Errore importo in fattura,Abbiamo notato che l’importo indicato in fattura non corrisponde a quanto concordato. Potete controllare?,Amministrazione
+Richiesta copia fattura,Avrei bisogno di una copia della fattura già emessa per poterla archiviare correttamente.,Amministrazione
+Fattura con IVA errata,La fattura ricevuta riporta un’aliquota IVA non corretta. Potete emetterne una corretta?,Amministrazione
+Chiarimenti su scadenza pagamento,Vorrei avere conferma sulla data di scadenza del pagamento indicata in fattura.,Amministrazione
+Nota di credito richiesta,È necessario emettere una nota di credito a seguito di un errore di fatturazione.,Amministrazione
+Pagamento già effettuato,"Vi segnalo che il pagamento relativo alla fattura risulta già effettuato, ma risulta ancora come insoluto.",Amministrazione
+Ritardo nel pagamento,Il pagamento subirà un lieve ritardo rispetto alla scadenza prevista.,Amministrazione
+Richiesta coordinate bancarie,Potete confermarci le vostre coordinate bancarie per procedere al pagamento?,Amministrazione
+Fattura duplicata,Abbiamo ricevuto due volte la stessa fattura. Potete verificare?,Amministrazione
+Errore intestazione fattura,La fattura è intestata a una società errata. È possibile correggerla?,Amministrazione
+Richiesta dettaglio voci fattura,Avremmo bisogno di un dettaglio più preciso delle voci presenti in fattura.,Amministrazione
+Pagamento parziale effettuato,È stato effettuato un pagamento parziale della fattura. Seguirà saldo.,Amministrazione
+Fattura non registrata,La fattura inviata non risulta ancora registrata nel nostro sistema.,Amministrazione
+Chiarimenti su ritenuta d’acconto,Vorrei chiarimenti sull’applicazione della ritenuta d’acconto indicata in fattura.,Amministrazione
+Scadenza pagamento superata,"La fattura risulta scaduta, potete indicarci come procedere?",Amministrazione
+Richiesta estratto conto,Avremmo bisogno di un estratto conto aggiornato delle fatture aperte.,Tecnico
+Errore valuta in fattura,La fattura è stata emessa con una valuta diversa da quella concordata.,Amministrazione
+Fattura proforma richiesta,Potreste inviarci una fattura proforma prima dell’emissione definitiva?,Amministrazione
+Problema riconciliazione pagamento,Stiamo avendo difficoltà a riconciliare un pagamento con la relativa fattura.,Amministrazione
+Richiesta dilazione pagamento,È possibile concordare una dilazione sui termini di pagamento?,Amministrazione
+Fattura mancante,Risulta mancante una fattura relativa a un servizio già erogato.,Amministrazione
+Errore data fattura,La data indicata in fattura non è corretta.,Amministrazione
+Richiesta storno fattura,Chiediamo lo storno della fattura emessa per errore.,Amministrazione
+Pagamento non riscontrato,Il pagamento effettuato non risulta ancora riscontrato nei vostri sistemi.,Amministrazione
+Chiarimenti su bollo,Vorrei chiarimenti sull’applicazione dell’imposta di bollo in fattura.,Amministrazione
+Fattura elettronica scartata,La fattura elettronica risulta scartata dal sistema. Potete reinviarla?,Amministrazione
+Richiesta aggiornamento anagrafica,È necessario aggiornare i dati anagrafici per la corretta fatturazione.,Amministrazione
+Errore codice destinatario,Il codice destinatario indicato in fattura non è corretto.,Amministrazione
+Fattura con importo negativo,La fattura presenta un importo negativo. Potete verificare?,Amministrazione
+Pagamento in eccesso,Abbiamo effettuato un pagamento superiore all’importo dovuto. Come possiamo procedere?,Amministrazione
+Richiesta rimborso,Chiediamo il rimborso di un importo pagato in eccesso.,Tecnico
+Fattura per servizio non ricevuto,È stata emessa una fattura per un servizio che non risulta erogato.,Amministrazione
+Errore descrizione servizio,La descrizione del servizio in fattura non è corretta.,Amministrazione
+Richiesta conferma ricezione pagamento,Potete confermare la ricezione del pagamento effettuato?,Amministrazione
+Scadenze multiple,"Sono presenti più scadenze per la stessa fattura, potete chiarire?",Amministrazione
+Fattura annullata,La fattura risulta annullata. Potete fornire spiegazioni?,Amministrazione
+Richiesta copia nota di credito,Avrei bisogno di una copia della nota di credito emessa.,Amministrazione
+Errore imponibile,L’imponibile indicato in fattura non è corretto.,Amministrazione
+Pagamento respinto,Il pagamento effettuato è stato respinto dalla banca.,Amministrazione
+Fattura di anticipo,"È stata emessa una fattura di anticipo, potete confermare la corretta imputazione?",Amministrazione
+Chiarimenti su saldo finale,Vorrei chiarimenti sul calcolo del saldo finale della fattura.,Amministrazione
+Fattura con dati incompleti,La fattura ricevuta presenta dati incompleti.,Amministrazione
+Richiesta riepilogo fatture,Avrei bisogno di un riepilogo delle fatture emesse nell’ultimo trimestre.,Tecnico
+Errore arrotondamento,Abbiamo riscontrato un errore di arrotondamento negli importi.,Tecnico
+Pagamento programmato,Il pagamento è stato programmato per la prossima settimana.,Amministrazione
+Richiesta conferma contabilizzazione,Potete confermare che la fattura è stata correttamente contabilizzata?,Amministrazione
+Fattura stornata,La fattura risulta stornata nei vostri sistemi.,Amministrazione
+Fattura non conforme al contratto,La fattura ricevuta non rispecchia le condizioni previste dal contratto sottoscritto.,Amministrazione
+Richiesta chiarimenti su fatturazione estera,Avremmo bisogno di chiarimenti sulla fatturazione verso clienti esteri.,Amministrazione
+Pagamento non riconciliato,Il pagamento effettuato non risulta riconciliato con le fatture aperte.,Amministrazione
+Errore aliquota IVA,L’aliquota IVA applicata in fattura non è corretta.,Amministrazione
+Richiesta riemissione fattura elettronica,"La fattura elettronica non è andata a buon fine, potete reinviarla?",Amministrazione
+Fattura contabilizzata due volte,La fattura risulta contabilizzata due volte nei nostri sistemi.,Amministrazione
+Chiarimenti su termini di pagamento,Vorrei chiarimenti sui termini di pagamento applicati.,Amministrazione
+Pagamento con riferimento errato,Il pagamento è stato effettuato con un riferimento errato.,Amministrazione
+Errore ritenuta previdenziale,La ritenuta previdenziale indicata in fattura non è corretta.,Amministrazione
+Richiesta storno totale,È necessario procedere con lo storno totale della fattura.,Amministrazione
+Fattura con scadenza mancante,La fattura non riporta alcuna data di scadenza.,Amministrazione
+Pagamento sospeso,Il pagamento risulta sospeso per verifiche interne.,Amministrazione
+Richiesta estratto conto fornitori,Avremmo bisogno dell’estratto conto fornitori aggiornato.,Tecnico
+Errore nella descrizione prestazione,La descrizione della prestazione in fattura non è corretta.,Amministrazione
+Fattura emessa in anticipo,La fattura risulta emessa prima dell’erogazione del servizio.,Amministrazione
+Richiesta compensazione contabile,Chiediamo la compensazione contabile dell’importo.,Tecnico
+Pagamento con importo errato,Il pagamento è stato effettuato con un importo errato.,Amministrazione
+Errore imponibile,L’imponibile indicato non risulta corretto.,Tecnico
+Fattura non trovata,Non riusciamo a trovare la fattura nei nostri archivi.,Amministrazione
+Richiesta chiarimenti su fattura di acconto,Vorrei chiarimenti sulla fattura di acconto ricevuta.,Amministrazione
+Pagamento contabilizzato in modo errato,Il pagamento risulta contabilizzato in modo errato.,Amministrazione
+Errore data competenza,La data di competenza indicata non è corretta.,Tecnico
+Richiesta invio fattura aggiornata,Potete inviarci la versione aggiornata della fattura?,Amministrazione
+Fattura con importo zero,La fattura presenta un importo pari a zero.,Amministrazione
+Pagamento parziale non registrato,Il pagamento parziale non risulta registrato.,Amministrazione
+Errore calcolo IVA,L’IVA è stata calcolata in modo errato.,Amministrazione
+Richiesta chiarimenti su autofattura,Avrei bisogno di chiarimenti sull’autofattura emessa.,Amministrazione
+Fattura con riferimenti mancanti,In fattura mancano alcuni riferimenti obbligatori.,Amministrazione
+Pagamento associato a cliente errato,Il pagamento è stato associato a un cliente errato.,Amministrazione
+Errore arrotondamento IVA,È presente un errore di arrotondamento sull’IVA.,Amministrazione
+Richiesta invio riepilogo contabile,Avremmo bisogno di un riepilogo contabile aggiornato.,Tecnico
+Fattura con valuta non corretta,La valuta indicata in fattura non è corretta.,Amministrazione
+Pagamento respinto per fondi insufficienti,Il pagamento è stato respinto per fondi insufficienti.,Amministrazione
+Errore riferimento contratto,Il riferimento al contratto in fattura non è corretto.,Amministrazione
+Richiesta chiarimenti su fattura di saldo,Vorrei chiarimenti sulla fattura di saldo ricevuta.,Amministrazione
+Fattura con descrizione incompleta,La descrizione in fattura risulta incompleta.,Amministrazione
+Pagamento non contabilizzato,Il pagamento non risulta contabilizzato.,Amministrazione
+Errore applicazione ritenuta,La ritenuta applicata non è corretta.,Tecnico
+Richiesta conferma chiusura contabile,Potete confermare la chiusura contabile del periodo?,Tecnico
+Fattura con scadenza errata,La scadenza indicata in fattura non è corretta.,Amministrazione
+Pagamento in compensazione,Il pagamento è stato effettuato in compensazione.,Amministrazione
+Errore riferimento cliente,Il riferimento al cliente indicato non è corretto.,Tecnico
+Richiesta supporto per riconciliazione,Avremmo bisogno di supporto per la riconciliazione contabile.,Tecnico
+Fattura emessa per importo errato,La fattura è stata emessa per un importo errato.,Amministrazione
+Pagamento non autorizzato,Il pagamento risulta non autorizzato.,Amministrazione
+Errore descrizione costo,La descrizione del costo in fattura non è corretta.,Amministrazione
+Richiesta conferma saldo cliente,Potete confermare il saldo attuale del cliente?,Tecnico
+Arresto imprevisto della piattaforma di analisi dati,"La piattaforma di analisi dei dati si è arrestata improvvisamente durante l’elaborazione di un set di dati di grandi dimensioni, causando l’interruzione del flusso di lavoro e la perdita delle analisi non salvate.",Tecnico
+Richiesta di assistenza clienti,"Gentile Assistenza Clienti, vi contatto per ottenere informazioni sulle strategie digitali che possono migliorare l’esperienza dei clienti e ottimizzare i processi interni.",Tecnico
+Analisi dei dati per investimenti,Vi scrivo per richiedere informazioni sui vostri servizi di analisi dei dati applicati alle decisioni di investimento e alla gestione del rischio.,Tecnico
+Problema nei servizi ospedalieri,"Si è verificato un problema nei servizi ospedalieri legato al blocco dei dati multimediali, che ha causato ritardi nelle operazioni cliniche.",Tecnico
+Sicurezza,"Gentile Assistenza Clienti, vi scrivo per segnalare una potenziale vulnerabilità di sicurezza riscontrata nei vostri sistemi informativi.",Tecnico
+Errore di accesso al sistema,Durante il tentativo di accesso al sistema aziendale si è verificato un errore che ha impedito l’autenticazione dell’utente.,Tecnico
+Richiesta informazioni su soluzioni cloud,Sono interessato a ricevere maggiori dettagli sulle vostre soluzioni cloud per la gestione e l’archiviazione dei dati aziendali.,Tecnico
+Malfunzionamento dell’applicazione,"L’applicazione ha smesso di funzionare correttamente dopo l’ultimo aggiornamento software, causando frequenti arresti.",Tecnico
+Supporto tecnico per infrastruttura IT,Vi contatto per richiedere supporto tecnico relativo alla configurazione della nostra infrastruttura IT.,Tecnico
+Problema di integrazione dei dati,Abbiamo riscontrato difficoltà nell’integrare i dati provenienti da più sistemi all’interno della piattaforma centrale.,Tecnico
+Richiesta di consulenza analitica,Desidero ricevere una consulenza sui metodi di analisi avanzata dei dati per migliorare le performance aziendali.,Tecnico
+Interruzione del servizio,"Il servizio è stato interrotto senza preavviso, causando disservizi alle operazioni quotidiane.",Tecnico
+Segnalazione bug software,Vorrei segnalare un bug nel software che genera risultati incoerenti durante l’elaborazione dei dati.,Tecnico
+Richiesta demo prodotto,Sono interessato a programmare una demo del vostro prodotto per valutarne le funzionalità.,Tecnico
+Problema di sicurezza dei dati,È stato rilevato un potenziale problema di sicurezza che potrebbe compromettere la riservatezza dei dati sensibili.,Tecnico
+Lentezza del sistema,Il sistema risulta particolarmente lento durante l’esecuzione di operazioni complesse sui dati.,Tecnico
+Richiesta di aggiornamento software,Vi scrivo per sapere quando sarà disponibile il prossimo aggiornamento del software.,Tecnico
+Errore nella reportistica,I report generati dal sistema presentano incongruenze rispetto ai dati di origine.,Tecnico
+Supporto per migrazione dati,Abbiamo bisogno di supporto per la migrazione dei dati da un sistema legacy a una nuova piattaforma.,Tecnico
+Problema di compatibilità,Sono emersi problemi di compatibilità tra il vostro software e alcuni dei nostri sistemi esistenti.,Tecnico
+Richiesta informazioni su pricing,Potete fornirmi maggiori dettagli sui costi e sui piani tariffari disponibili?,Tecnico
+Accesso non autorizzato,È stato rilevato un tentativo di accesso non autorizzato all’interno del sistema.,Tecnico
+Errore di sincronizzazione,I dati non risultano correttamente sincronizzati tra i vari moduli dell’applicazione.,Tecnico
+Richiesta supporto API,Desidero ricevere supporto tecnico per l’utilizzo e l’integrazione delle vostre API.,Tecnico
+Problema di backup,Il processo di backup automatico non viene completato correttamente.,Tecnico
+Richiesta formazione,Siamo interessati a sessioni di formazione sull’utilizzo avanzato della piattaforma.,Tecnico
+Errore durante l’aggiornamento,Si è verificato un errore critico durante l’aggiornamento del sistema.,Tecnico
+Problema di visualizzazione dati,Alcuni dati non vengono visualizzati correttamente all’interno delle dashboard.,Tecnico
+Supporto per analisi predittiva,Vi contatto per ricevere supporto sull’implementazione di modelli di analisi predittiva.,Amministrazione
+Richiesta documentazione tecnica,Avrei bisogno della documentazione tecnica aggiornata del prodotto.,Tecnico
+Problema di autorizzazioni,Gli utenti non riescono ad accedere a determinate funzionalità a causa di problemi di autorizzazione.,Tecnico
+Segnalazione anomalia di sistema,È stata rilevata un’anomalia di sistema che richiede verifica immediata.,Tecnico
+Richiesta informazioni su integrazioni,Vorrei sapere quali integrazioni con sistemi di terze parti sono disponibili.,Tecnico
+Errore nei log di sistema,I log di sistema mostrano errori ricorrenti durante l’elaborazione.,Tecnico
+Problema di scalabilità,La piattaforma mostra limiti di scalabilità con volumi di dati elevati.,Tecnico
+Richiesta supporto urgente,Necessitiamo di supporto urgente per risolvere un problema critico.,Tecnico
+Errore di configurazione,È stato individuato un errore nella configurazione iniziale del sistema.,Tecnico
+Problema di latenza,Si riscontrano problemi di latenza nelle comunicazioni tra i servizi.,Tecnico
+Richiesta audit di sicurezza,Siamo interessati a un audit di sicurezza dei nostri sistemi.,Tecnico
+Errore nei permessi,Alcuni permessi non vengono applicati correttamente agli utenti.,Tecnico
+Problema di esportazione dati,L’esportazione dei dati in formato CSV non va a buon fine.,Tecnico
+Richiesta consulenza IT,Desideriamo una consulenza IT per ottimizzare l’architettura esistente.,Tecnico
+Errore di connessione,Il sistema perde frequentemente la connessione al database.,Tecnico
+Problema di aggiornamento dati,I dati non vengono aggiornati in tempo reale come previsto.,Tecnico
+Richiesta supporto avanzato,Abbiamo bisogno di supporto avanzato per una configurazione personalizzata.,Tecnico
+Errore di validazione,Il sistema segnala errori di validazione anche con dati corretti.,Tecnico
+Problema di performance,Le performance complessive del sistema risultano inferiori alle aspettative.,Tecnico
+Richiesta informazioni generali,Vi contatto per ricevere informazioni generali sui vostri servizi.,Tecnico
+Richiesta supporto per reportistica avanzata,Vi contatto per ricevere assistenza sulla creazione di report avanzati e personalizzati a partire dai dati disponibili in piattaforma.,Tecnico
+Errore nel caricamento dei dati,Durante il caricamento dei dati si verifica un errore che impedisce il completamento dell’operazione.,Tecnico
+Problema di accesso multiutente,Più utenti riscontrano difficoltà ad accedere contemporaneamente al sistema.,Tecnico
+Richiesta informazioni su sicurezza cloud,Desidero ricevere maggiori informazioni sulle misure di sicurezza adottate per i servizi cloud.,Tecnico
+Errore di calcolo nei risultati,I risultati dell’analisi mostrano errori di calcolo rispetto ai dati di input.,Tecnico
+Problema di integrazione API,L’integrazione tramite API non restituisce i dati attesi.,Tecnico
+Richiesta supporto per dashboard,Abbiamo bisogno di supporto per configurare correttamente le dashboard di monitoraggio.,Tecnico
+Interruzione programmata del servizio,Vorrei ricevere conferma sulle tempistiche dell’interruzione programmata del servizio.,Tecnico
+Errore di esportazione PDF,L’esportazione dei report in formato PDF non viene completata correttamente.,Tecnico
+Problema di autenticazione,Il sistema di autenticazione non riconosce correttamente le credenziali degli utenti.,Tecnico
+Richiesta ottimizzazione performance,Desideriamo suggerimenti per migliorare le performance complessive della piattaforma.,Tecnico
+Errore nella gestione utenti,Si riscontrano anomalie nella creazione e modifica degli utenti.,Tecnico
+Problema di duplicazione dati,Alcuni record risultano duplicati dopo l’importazione dei dati.,Tecnico
+Richiesta informazioni su compliance,Vorrei informazioni sulla conformità della piattaforma alle normative vigenti.,Tecnico
+Errore di timeout,Le operazioni di elaborazione superano frequentemente il tempo massimo consentito.,Tecnico
+Problema di aggiornamento automatico,L’aggiornamento automatico dei dati non avviene con la frequenza prevista.,Tecnico
+Richiesta supporto per configurazione iniziale,Abbiamo bisogno di assistenza nella fase di configurazione iniziale del sistema.,Tecnico
+Errore nella visualizzazione grafici,Alcuni grafici non vengono visualizzati correttamente nelle dashboard.,Tecnico
+Problema di compatibilità browser,La piattaforma presenta problemi di funzionamento con alcuni browser.,Tecnico
+Richiesta accesso a funzionalità avanzate,Vorrei sapere come abilitare le funzionalità avanzate per il nostro account.,Tecnico
+Errore nei processi batch,I processi batch notturni terminano con errori non previsti.,Tecnico
+Problema di gestione permessi,I permessi assegnati agli utenti non vengono applicati correttamente.,Tecnico
+Richiesta informazioni su SLA,Potete fornire dettagli sugli accordi di livello di servizio disponibili?,Tecnico
+Errore di connessione ai servizi esterni,La piattaforma non riesce a collegarsi correttamente a servizi esterni.,Tecnico
+Problema di sincronizzazione in tempo reale,I dati non risultano sincronizzati in tempo reale tra i sistemi.,Tecnico
+Richiesta supporto per analisi statistiche,Desideriamo supporto per l’implementazione di analisi statistiche avanzate.,Tecnico
+Errore nel salvataggio delle modifiche,Le modifiche apportate non vengono salvate correttamente.,Tecnico
+Problema di gestione notifiche,Le notifiche di sistema non vengono inviate come previsto.,Tecnico
+Richiesta informazioni su roadmap prodotto,Vorrei conoscere le prossime evoluzioni previste per il prodotto.,Tecnico
+Errore di parsing dei dati,Il sistema segnala errori durante il parsing dei dati in ingresso.,Tecnico
+Problema di carico del sistema,Il sistema va in sovraccarico durante i picchi di utilizzo.,Tecnico
+Richiesta supporto per esportazione dati,Abbiamo bisogno di assistenza per esportare grandi volumi di dati.,Tecnico
+Errore nella pianificazione processi,La pianificazione automatica dei processi non funziona correttamente.,Tecnico
+Problema di latenza API,Le chiamate API presentano latenze elevate.,Tecnico
+Richiesta informazioni su backup e recovery,Vorrei dettagli sulle procedure di backup e ripristino dei dati.,Tecnico
+Errore di autorizzazione,Il sistema restituisce errori di autorizzazione anche per utenti abilitati.,Tecnico
+Problema di configurazione rete,Sono presenti problemi legati alla configurazione di rete.,Tecnico
+Richiesta supporto per sicurezza applicativa,Desideriamo supporto per migliorare la sicurezza applicativa.,Amministrazione
+Errore nei dati aggregati,I dati aggregati non risultano coerenti con i dati di dettaglio.,Tecnico
+Problema di gestione sessioni,Le sessioni utente scadono in modo anomalo.,Tecnico
+Richiesta consulenza su architettura dati,Avremmo bisogno di una consulenza sull’architettura dei dati.,Tecnico
+Errore di importazione CSV,L’importazione di file CSV genera errori non previsti.,Tecnico
+Problema di monitoraggio,Il sistema di monitoraggio non rileva correttamente alcune anomalie.,Tecnico
+Richiesta supporto per personalizzazioni,Desideriamo assistenza per personalizzare alcune funzionalità.,Tecnico
+Errore di aggiornamento configurazioni,Le configurazioni aggiornate non vengono applicate correttamente.,Tecnico
+Problema di gestione log,I log di sistema non vengono registrati in modo completo.,Tecnico
+Richiesta informazioni su licenze,Potete fornire dettagli sulle tipologie di licenze disponibili?,Tecnico
+Errore di avvio del servizio,Il servizio non si avvia correttamente dopo il riavvio.,Tecnico
+Problema di consistenza dei dati,Sono state rilevate incongruenze nella consistenza dei dati.,Tecnico
+Richiesta supporto per gestione incidenti,Vi contatto per ricevere supporto nella gestione strutturata degli incidenti di sistema.,Tecnico
+Errore nella pianificazione backup,La pianificazione dei backup automatici presenta errori ricorrenti.,Tecnico
+Problema di accesso ai report,Alcuni utenti non riescono ad accedere ai report disponibili.,Tecnico
+Richiesta informazioni su crittografia dati,Vorrei maggiori informazioni sulle tecniche di crittografia utilizzate per la protezione dei dati.,Tecnico
+Errore nella gestione transazioni,Si verificano errori nella gestione delle transazioni di sistema.,Tecnico
+Problema di aggiornamento modelli analitici,I modelli analitici non vengono aggiornati correttamente.,Tecnico
+Richiesta supporto per orchestrazione servizi,Abbiamo bisogno di assistenza per l’orchestrazione dei servizi applicativi.,Tecnico
+Errore di validazione configurazioni,Le configurazioni inserite non superano i controlli di validazione.,Tecnico
+Problema di isolamento ambienti,Gli ambienti di test e produzione non risultano correttamente isolati.,Tecnico
+Richiesta informazioni su audit interni,Vorrei informazioni sulle procedure di audit interno disponibili.,Tecnico
+Errore nella gestione dei workflow,I workflow configurati non vengono eseguiti correttamente.,Tecnico
+Problema di archiviazione documentale,Si riscontrano problemi nell’archiviazione dei documenti.,Tecnico
+Richiesta supporto per data quality,Desideriamo supporto per migliorare la qualità dei dati.,Tecnico
+Errore di replica servizi,La replica dei servizi non funziona come previsto.,Tecnico
+Problema di compatibilità hardware,La piattaforma presenta problemi con alcune configurazioni hardware.,Tecnico
+Richiesta informazioni su disaster recovery,Vorrei ricevere dettagli sulle soluzioni di disaster recovery.,Tecnico
+Errore di gestione configurazioni dinamiche,Le configurazioni dinamiche non vengono applicate correttamente.,Tecnico
+Problema di bilanciamento del carico,Il bilanciamento del carico non distribuisce correttamente le richieste.,Tecnico
+Richiesta supporto per controllo accessi,Abbiamo bisogno di assistenza per il controllo degli accessi.,Tecnico
+Errore nei processi di validazione dati,I processi di validazione dei dati producono risultati errati.,Tecnico
+Problema di aggiornamento metadati,I metadati non vengono aggiornati correttamente.,Tecnico
+Richiesta informazioni su conformità normativa,Vorrei informazioni sulla conformità normativa della piattaforma.,Amministrazione
+Errore di sincronizzazione configurazioni,Le configurazioni non risultano sincronizzate tra gli ambienti.,Tecnico
+Problema di gestione dipendenze,La gestione delle dipendenze software presenta criticità.,Tecnico
+Richiesta supporto per ottimizzazione costi,Desideriamo supporto per ottimizzare i costi infrastrutturali.,Tecnico
+Errore nella gestione code messaggi,Le code di messaggi non vengono elaborate correttamente.,Tecnico
+Problema di disponibilità servizio,Il servizio non è sempre disponibile durante l’orario operativo.,Tecnico
+Richiesta consulenza su scalabilità,Avremmo bisogno di una consulenza sulle strategie di scalabilità.,Tecnico
+Errore di aggiornamento policy,Le policy di sicurezza non vengono aggiornate correttamente.,Tecnico
+Problema di tracciamento eventi,Il tracciamento degli eventi non risulta completo.,Tecnico
+Richiesta supporto per sicurezza perimetrale,Desideriamo migliorare la sicurezza perimetrale dei sistemi.,Tecnico
+Errore di configurazione storage,La configurazione dello storage presenta errori.,Tecnico
+Problema di gestione snapshot,La gestione delle snapshot non funziona correttamente.,Tecnico
+Richiesta informazioni su standard di sicurezza,Vorrei informazioni sugli standard di sicurezza adottati.,Tecnico
+Errore nella gestione delle notifiche critiche,Le notifiche critiche non vengono inviate correttamente.,Tecnico
+Problema di consistenza configurazioni,Sono presenti incongruenze nelle configurazioni.,Tecnico
+Richiesta supporto per migrazione cloud,Abbiamo bisogno di supporto per la migrazione verso il cloud.,Tecnico
+Errore di allocazione spazio disco,Si verificano errori nell’allocazione dello spazio disco.,Tecnico
+Problema di monitoraggio prestazioni,Il monitoraggio delle prestazioni non fornisce dati accurati.,Tecnico
+Richiesta informazioni su supporto h24,Vorrei informazioni sulle opzioni di supporto attivo 24/7.,Tecnico
+Errore di gestione credenziali,Il sistema non gestisce correttamente le credenziali.,Tecnico
+Problema di sicurezza infrastrutturale,Sono state individuate criticità nella sicurezza infrastrutturale.,Tecnico
+Richiesta consulenza su continuità operativa,Desideriamo una consulenza sulla continuità operativa.,Amministrazione
+Errore di sincronizzazione log,I log non vengono sincronizzati correttamente.,Tecnico
+Problema di gestione configurazioni centralizzate,La gestione centralizzata delle configurazioni presenta problemi.,Tecnico
+Richiesta informazioni su piani di servizio,Vorrei informazioni sui diversi piani di servizio disponibili.,Tecnico
+Errore di arresto anomalo del servizio,Il servizio si arresta in modo anomalo senza preavviso.,Tecnico
+Richiesta supporto per gestione capacità,Vi contatto per ricevere supporto nella gestione della capacità infrastrutturale.,Tecnico
+Errore nella configurazione dei servizi,Alcuni servizi risultano configurati in modo errato.,Tecnico
+Problema di accesso ai dati storici,Non è possibile accedere correttamente ai dati storici archiviati.,Tecnico
+Richiesta informazioni su continuità del servizio,Vorrei ricevere dettagli sulle misure adottate per garantire la continuità del servizio.,Tecnico
+Errore nella gestione dei certificati SSL,I certificati SSL non vengono gestiti correttamente dal sistema.,Tecnico
+Problema di aggiornamento sistemi legacy,I sistemi legacy non vengono aggiornati correttamente.,Tecnico
+Richiesta supporto per segmentazione rete,Abbiamo bisogno di assistenza per la segmentazione della rete.,Tecnico
+Errore di sincronizzazione database,La sincronizzazione del database presenta errori ricorrenti.,Tecnico
+Problema di disponibilità risorse,Le risorse di sistema non risultano sempre disponibili.,Tecnico
+Richiesta informazioni su policy di retention,Vorrei informazioni sulle policy di conservazione dei dati.,Tecnico
+Errore nella gestione delle dipendenze applicative,Le dipendenze applicative non vengono risolte correttamente.,Tecnico
+Problema di configurazione DNS,Sono presenti errori nella configurazione DNS.,Tecnico
+Richiesta supporto per sicurezza dei container,Desideriamo supporto per migliorare la sicurezza dei container.,Tecnico
+Errore di aggiornamento sistemi distribuiti,L’aggiornamento dei sistemi distribuiti non va a buon fine.,Tecnico
+Problema di orchestrazione container,L’orchestrazione dei container non funziona correttamente.,Tecnico
+Richiesta informazioni su standard di compliance,Vorrei informazioni sugli standard di compliance supportati.,Tecnico
+Errore nella gestione delle chiavi crittografiche,Le chiavi crittografiche non vengono gestite correttamente.,Tecnico
+Problema di accesso ai servizi interni,Alcuni servizi interni non sono raggiungibili.,Tecnico
+Richiesta supporto per logging centralizzato,Abbiamo bisogno di assistenza per implementare un logging centralizzato.,Tecnico
+Errore di configurazione load balancer,Il load balancer non è configurato correttamente.,Tecnico
+Problema di gestione patch di sicurezza,Le patch di sicurezza non vengono applicate correttamente.,Tecnico
+Richiesta informazioni su certificazioni ISO,Vorrei informazioni sulle certificazioni ISO possedute.,Tecnico
+Errore di sincronizzazione ambienti,Gli ambienti non risultano sincronizzati correttamente.,Tecnico
+Problema di gestione backup incrementali,I backup incrementali non vengono eseguiti correttamente.,Tecnico
+Richiesta supporto per ottimizzazione database,Desideriamo supporto per ottimizzare le prestazioni del database.,Tecnico
+Errore nella gestione delle configurazioni di rete,Le configurazioni di rete presentano errori.,Tecnico
+Problema di disponibilità applicativa,L’applicazione non è sempre disponibile.,Amministrazione
+Richiesta consulenza su resilienza sistemi,Avremmo bisogno di una consulenza sulla resilienza dei sistemi.,Tecnico
+Errore di gestione dei token di accesso,I token di accesso non vengono gestiti correttamente.,Tecnico
+Problema di monitoraggio sicurezza,Il monitoraggio della sicurezza non rileva tutte le anomalie.,Tecnico
+Richiesta supporto per gestione vulnerabilità,Abbiamo bisogno di supporto per la gestione delle vulnerabilità.,Tecnico
+Errore di configurazione proxy,La configurazione del proxy presenta errori.,Tecnico
+Problema di integrazione sistemi esterni,L’integrazione con sistemi esterni presenta criticità.,Tecnico
+Richiesta informazioni su supporto dedicato,Vorrei informazioni sulle opzioni di supporto dedicato.,Tecnico
+Errore nella gestione delle code asincrone,Le code asincrone non vengono gestite correttamente.,Tecnico
+Problema di aggiornamento policy di accesso,Le policy di accesso non vengono aggiornate correttamente.,Tecnico
+Richiesta supporto per gestione SLA,Desideriamo assistenza per la gestione degli SLA.,Tecnico
+Errore di sincronizzazione dati in cloud,I dati in cloud non risultano sincronizzati correttamente.,Tecnico
+Problema di controllo versioni,Il controllo delle versioni non funziona come previsto.,Tecnico
+Richiesta consulenza su architetture cloud,Avremmo bisogno di una consulenza sulle architetture cloud.,Tecnico
+Errore nella gestione delle risorse condivise,Le risorse condivise non vengono gestite correttamente.,Tecnico
+Problema di disponibilità dei servizi critici,Alcuni servizi critici non risultano disponibili.,Tecnico
+Richiesta informazioni su livelli di servizio,Vorrei informazioni sui livelli di servizio garantiti.,Tecnico
+Errore di configurazione sicurezza applicativa,La sicurezza applicativa non è configurata correttamente.,Amministrazione
+Problema di gestione aggiornamenti automatici,Gli aggiornamenti automatici non funzionano come previsto.,Tecnico
+Richiesta supporto per audit di sicurezza,Abbiamo bisogno di supporto per effettuare un audit di sicurezza.,Tecnico
+Errore di avvio servizi secondari,I servizi secondari non si avviano correttamente.,Tecnico
+Problema di affidabilità del sistema,Il sistema non garantisce un livello adeguato di affidabilità.,Tecnico
+La piattaforma si è bloccata all’improvviso,La piattaforma di analisi dei dati si è bloccata all’improvviso mentre stavo lavorando su un progetto importante e ho perso tutte le modifiche non salvate.,Tecnico
+Richiesta informazioni al supporto clienti,"Buongiorno, vi scrivo per avere maggiori informazioni su come migliorare le strategie digitali e rendere più efficienti i nostri processi.",Tecnico
+Analisi dati per decisioni di investimento,Vi contatto perché sono interessato a capire come i vostri servizi di analisi dei dati possano supportare le decisioni di investimento.,Tecnico
+Problemi nei servizi ospedalieri,"Si è verificato un problema nei servizi dell’ospedale legato al blocco dei dati multimediali, causando ritardi nelle attività quotidiane.",Tecnico
+Segnalazione problema di sicurezza,"Buongiorno, vi segnalo una possibile criticità di sicurezza che ho notato nei vostri sistemi.",Tecnico
+Non riesco ad accedere al sistema,Sto riscontrando problemi di accesso al sistema aziendale e non riesco ad autenticarmi correttamente.,Tecnico
+Informazioni sulle soluzioni cloud,Vorrei ricevere qualche dettaglio in più sulle vostre soluzioni cloud per la gestione dei dati.,Tecnico
+L’app continua a bloccarsi,Dopo l’ultimo aggiornamento l’applicazione si blocca spesso e diventa difficile lavorare.,Tecnico
+Richiesta di supporto tecnico IT,Avrei bisogno di supporto tecnico per sistemare alcuni aspetti della nostra infrastruttura IT.,Tecnico
+Difficoltà nell’integrare i dati,Stiamo avendo problemi nell’integrare dati provenienti da sistemi diversi all’interno della piattaforma.,Tecnico
+Consulenza per analisi avanzate,Saremmo interessati a una consulenza su come utilizzare al meglio le analisi avanzate dei dati.,Tecnico
+Servizio non disponibile,Il servizio risulta non disponibile senza alcun preavviso e questo sta creando disagi operativi.,Tecnico
+Bug nel software,Ho notato un bug nel software che produce risultati incoerenti durante l’elaborazione dei dati.,Tecnico
+Richiesta di una demo del prodotto,Sarei interessato a vedere una demo del vostro prodotto per capirne meglio le funzionalità.,Tecnico
+Possibile problema di sicurezza dei dati,Credo ci sia un problema di sicurezza che potrebbe mettere a rischio alcuni dati sensibili.,Tecnico
+Il sistema è molto lento,"Negli ultimi giorni il sistema è diventato molto lento, soprattutto con operazioni complesse.",Tecnico
+Quando arriva il prossimo aggiornamento?,Vorrei sapere quando sarà disponibile il prossimo aggiornamento del software.,Amministrazione
+Report con dati errati,I report generati dal sistema non sembrano coerenti con i dati originali.,Tecnico
+Aiuto per la migrazione dei dati,Avremmo bisogno di supporto per spostare i dati da un vecchio sistema a uno nuovo.,Tecnico
+Problemi di compatibilità,Stiamo riscontrando problemi di compatibilità tra il vostro software e i nostri sistemi.,Tecnico
+Chiarimenti sui costi,Potreste darmi qualche informazione in più sui costi e sui piani disponibili?,Tecnico
+Tentativo di accesso sospetto,Abbiamo rilevato un tentativo di accesso sospetto al sistema.,Tecnico
+Dati non sincronizzati,I dati non risultano sincronizzati correttamente tra i vari moduli.,Tecnico
+Supporto per utilizzo API,Avrei bisogno di aiuto per integrare correttamente le vostre API.,Tecnico
+Backup non completato,Il backup automatico non viene completato e non capiamo il motivo.,Tecnico
+Richiesta di formazione,Saremmo interessati a fare formazione per utilizzare meglio la piattaforma.,Tecnico
+Errore durante l’aggiornamento,Durante l’aggiornamento del sistema si è verificato un errore critico.,Tecnico
+Dati visualizzati in modo errato,Alcuni dati non vengono mostrati correttamente nelle dashboard.,Tecnico
+Aiuto per analisi predittive,Vorrei supporto per implementare modelli di analisi predittiva.,Amministrazione
+Richiesta documentazione,Avrei bisogno della documentazione tecnica più aggiornata.,Tecnico
+Problemi con i permessi utente,Alcuni utenti non riescono ad accedere a determinate funzionalità.,Tecnico
+Anomalia nel sistema,Abbiamo rilevato un comportamento anomalo del sistema che va verificato.,Tecnico
+Integrazioni disponibili,Vorrei sapere con quali sistemi esterni la piattaforma può integrarsi.,Tecnico
+Errori nei log,Nei log di sistema compaiono spesso errori durante l’elaborazione.,Tecnico
+Limiti di scalabilità,Con grandi volumi di dati la piattaforma sembra andare in difficoltà.,Tecnico
+Supporto urgente necessario,Abbiamo un problema critico e avremmo bisogno di supporto urgente.,Tecnico
+Errore di configurazione iniziale,Credo ci sia un errore nella configurazione iniziale del sistema.,Tecnico
+Problemi di latenza,Stiamo riscontrando forti ritardi nella comunicazione tra i servizi.,Tecnico
+Audit di sicurezza,Saremmo interessati a fare un audit di sicurezza sui nostri sistemi.,Tecnico
+Permessi non applicati correttamente,Alcuni permessi non vengono applicati come dovrebbero.,Tecnico
+Errore nell’esportazione dei dati,Non riusciamo a esportare correttamente i dati in formato CSV.,Tecnico
+Consulenza IT,Vorremmo una consulenza IT per migliorare l’architettura attuale.,Tecnico
+Problemi di connessione al database,Il sistema perde spesso la connessione con il database.,Tecnico
+Dati non aggiornati,I dati non si aggiornano in tempo reale come ci aspettavamo.,Tecnico
+Supporto avanzato richiesto,Abbiamo bisogno di un supporto più avanzato per una configurazione personalizzata.,Tecnico
+Errore di validazione,Il sistema segnala errori di validazione anche quando i dati sono corretti.,Tecnico
+Prestazioni del sistema insufficienti,Le prestazioni generali del sistema sono inferiori alle nostre aspettative.,Tecnico
+Aggiornamenti di sicurezza disponibili,Vi scrivo per sapere se sono disponibili nuovi aggiornamenti di sicurezza per la piattaforma.,Tecnico
+Problemi nella gestione delle code,Stiamo riscontrando problemi nella gestione delle code di elaborazione e alcuni processi restano bloccati.,Tecnico
+Difficoltà di accesso da remoto,Alcuni colleghi non riescono ad accedere alla piattaforma quando lavorano da remoto.,Tecnico
+Integrazione con sistemi ERP,Vorrei avere maggiori informazioni su come integrare la piattaforma con il nostro sistema ERP.,Tecnico
+Ricerche lente sui dati,"Le ricerche sui dati sono molto lente, probabilmente a causa di problemi di indicizzazione.",Tecnico
+Problemi su dispositivi mobili,La piattaforma non funziona correttamente quando viene usata da smartphone o tablet.,Tecnico
+Automazione dei processi,Vorremmo automatizzare alcuni processi operativi e avremmo bisogno di supporto.,Tecnico
+Ruoli utente non assegnati,I ruoli degli utenti non vengono assegnati correttamente all’interno del sistema.,Tecnico
+Dashboard non aggiornate,Le dashboard non si aggiornano in tempo reale come dovrebbero.,Tecnico
+Funzionalità di intelligenza artificiale,Mi piacerebbe capire meglio quali funzionalità di intelligenza artificiale offre il sistema.,Tecnico
+Errori nei dati inseriti,Il sistema segnala errori anche quando i dati inseriti sembrano corretti.,Tecnico
+Consumo eccessivo di risorse,L’applicazione utilizza troppe risorse e rallenta il lavoro.,Tecnico
+Ambienti di test separati,Avremmo bisogno di configurare ambienti di test separati da quelli di produzione.,Tecnico
+Replica del database non funzionante,La replica del database non sembra funzionare correttamente.,Tecnico
+Gestione delle versioni,Abbiamo difficoltà a gestire le diverse versioni del software.,Tecnico
+Prossimi aggiornamenti del prodotto,Vorrei sapere quali aggiornamenti sono previsti per il prodotto.,Tecnico
+Problemi di archiviazione dati,Stiamo riscontrando errori durante i processi di archiviazione dei dati.,Tecnico
+Compatibilità con sistemi operativi,La piattaforma non funziona bene su alcuni sistemi operativi.,Tecnico
+Sicurezza dei dati archiviati,Vorremmo migliorare la sicurezza dei dati che archiviamo nel sistema.,Tecnico
+Gestione delle eccezioni,Il sistema non gestisce correttamente alcune situazioni di errore.,Tecnico
+Lentezza del database,Il database risponde molto lentamente alle query.,Tecnico
+Consulenza sulla data governance,Avremmo bisogno di una consulenza sulle politiche di gestione dei dati.,Tecnico
+Aggiornamento firmware fallito,L’aggiornamento del firmware non va a buon fine.,Tecnico
+Problemi di logging,Il sistema di logging non registra tutte le informazioni necessarie.,Tecnico
+Interoperabilità con altri sistemi,Vorrei capire come rendere il sistema interoperabile con altre piattaforme.,Tecnico
+Cluster configurato male,Il cluster sembra non essere configurato correttamente.,Tecnico
+Failover non funzionante,Il sistema di failover non entra in funzione quando dovrebbe.,Tecnico
+Alta disponibilità del sistema,Avremmo bisogno di aiuto per configurare una soluzione di alta disponibilità.,Tecnico
+Sincronizzazione utenti,La sincronizzazione degli utenti tra i sistemi non funziona correttamente.,Tecnico
+Criticità di sicurezza,Sono state individuate alcune criticità di sicurezza nell’applicazione.,Tecnico
+Certificazioni di sicurezza,Vorrei informazioni sulle certificazioni di sicurezza possedute.,Tecnico
+Interfaccia non caricata,L’interfaccia utente non si carica correttamente.,Tecnico
+Problemi di cache,La cache causa la visualizzazione di dati non aggiornati.,Tecnico
+Analisi big data,Avremmo bisogno di supporto per progetti di analisi big data.,Tecnico
+Errori nella normalizzazione dei dati,I processi di normalizzazione dei dati producono errori.,Tecnico
+Configurazione firewall,Ci sono problemi nella configurazione del firewall.,Tecnico
+Funzionalità di machine learning,Vorrei maggiori dettagli sulle funzionalità di machine learning disponibili.,Tecnico
+Accesso ai log negato,Non riusciamo ad accedere correttamente ai log di sistema.,Tecnico
+Gestione delle patch,Le patch di sistema non vengono applicate correttamente.,Tecnico
+Integrazione continua,Avremmo bisogno di aiuto per implementare pipeline di integrazione continua.,Tecnico
+Errori di allocazione risorse,Si verificano errori nell’allocazione delle risorse.,Tecnico
+Servizio instabile,Il servizio non è stabile e presenta frequenti interruzioni.,Tecnico
+Consulenza sulla sicurezza IT,Vorremmo una consulenza approfondita sulla sicurezza IT.,Tecnico
+Problemi con i certificati digitali,Il sistema non gestisce correttamente i certificati digitali.,Tecnico
+Tracciabilità dei dati,Non riusciamo a garantire una corretta tracciabilità dei dati.,Tecnico
+Supporto premium,Vorrei informazioni sulle opzioni di supporto premium.,Tecnico
+Applicazione non si avvia,Dopo l’installazione l’applicazione non si avvia correttamente.,Tecnico
+Aiuto per gestire gli incidenti,Vi contatto perché avremmo bisogno di supporto per gestire in modo più efficace gli incidenti di sistema.,Tecnico
+Backup programmati non funzionano,I backup automatici non vengono eseguiti correttamente secondo la pianificazione.,Tecnico
+Impossibile accedere ai report,Alcuni colleghi non riescono ad aprire i report disponibili sulla piattaforma.,Tecnico
+Crittografia dei dati,Vorrei qualche informazione in più su come vengono crittografati e protetti i dati.,Tecnico
+Errori nelle transazioni,Stiamo riscontrando errori nella gestione delle transazioni del sistema.,Tecnico
+Modelli analitici non aggiornati,I modelli di analisi non si aggiornano correttamente con i nuovi dati.,Tecnico
+Orchestrazione dei servizi,Avremmo bisogno di supporto per gestire meglio l’orchestrazione dei servizi.,Tecnico
+Configurazioni non valide,Alcune configurazioni non vengono accettate dal sistema.,Tecnico
+Ambienti non isolati correttamente,Gli ambienti di test e produzione non sembrano essere isolati come dovrebbero.,Tecnico
+Audit interni,Vorrei informazioni sulle procedure di audit interno disponibili.,Tecnico
+Workflow che non partono,I workflow configurati non vengono eseguiti correttamente.,Tecnico
+Problemi nell’archiviazione documenti,Stiamo avendo difficoltà nell’archiviazione dei documenti.,Tecnico
+Migliorare la qualità dei dati,Vorremmo supporto per migliorare la qualità dei dati che utilizziamo.,Tecnico
+Replica dei servizi non funzionante,La replica dei servizi non funziona come previsto.,Tecnico
+Problemi con l’hardware,La piattaforma presenta problemi con alcune configurazioni hardware.,Tecnico
+Soluzioni di disaster recovery,Vorrei maggiori dettagli sulle soluzioni di disaster recovery disponibili.,Tecnico
+Configurazioni dinamiche non applicate,Le configurazioni dinamiche non vengono applicate correttamente.,Tecnico
+Bilanciamento del carico inefficace,Il bilanciamento del carico non distribuisce bene le richieste.,Tecnico
+Controllo degli accessi,Avremmo bisogno di supporto per migliorare il controllo degli accessi.,Tecnico
+Errori nella validazione dei dati,I processi di validazione dei dati restituiscono risultati errati.,Tecnico
+Metadati non aggiornati,I metadati non vengono aggiornati correttamente.,Tecnico
+Conformità alle normative,Vorrei informazioni sulla conformità della piattaforma alle normative.,Tecnico
+Configurazioni non sincronizzate,Le configurazioni non sono sincronizzate tra i vari ambienti.,Tecnico
+Problemi con le dipendenze software,Stiamo riscontrando problemi nella gestione delle dipendenze software.,Tecnico
+Ottimizzazione dei costi,Vorremmo supporto per ottimizzare i costi dell’infrastruttura.,Tecnico
+Code di messaggi bloccate,Le code di messaggi non vengono elaborate correttamente.,Tecnico
+Servizio non sempre disponibile,Il servizio non è sempre disponibile durante l’orario di lavoro.,Tecnico
+Scalabilità del sistema,Avremmo bisogno di una consulenza per migliorare la scalabilità del sistema.,Tecnico
+Policy di sicurezza non aggiornate,Le policy di sicurezza non vengono aggiornate correttamente.,Tecnico
+Eventi non tracciati,Il sistema non traccia correttamente tutti gli eventi.,Tecnico
+Sicurezza perimetrale,Vorremmo migliorare la sicurezza perimetrale dei nostri sistemi.,Tecnico
+Problemi di storage,Stiamo riscontrando errori nella configurazione dello storage.,Tecnico
+Snapshot non funzionanti,La gestione delle snapshot non funziona correttamente.,Tecnico
+Standard di sicurezza adottati,Vorrei informazioni sugli standard di sicurezza che adottate.,Tecnico
+Notifiche critiche mancanti,Le notifiche critiche non vengono inviate correttamente.,Tecnico
+Incongruenze nelle configurazioni,Abbiamo notato alcune incongruenze nelle configurazioni.,Tecnico
+Migrazione verso il cloud,Avremmo bisogno di supporto per la migrazione dei sistemi verso il cloud.,Tecnico
+Spazio disco insufficiente,Si verificano errori legati all’allocazione dello spazio disco.,Tecnico
+Monitoraggio delle prestazioni,Il monitoraggio delle prestazioni non sembra fornire dati affidabili.,Tecnico
+Supporto attivo 24/7,Vorrei informazioni sulle opzioni di supporto attivo 24 ore su 24.,Tecnico
+Gestione delle credenziali,Il sistema non gestisce correttamente le credenziali di accesso.,Tecnico
+Sicurezza dell’infrastruttura,Sono emerse alcune criticità nella sicurezza dell’infrastruttura.,Tecnico
+Continuità operativa,Avremmo bisogno di una consulenza sulla continuità operativa.,Amministrazione
+Log non sincronizzati,I log non vengono sincronizzati correttamente tra i sistemi.,Tecnico
+Configurazioni centralizzate,La gestione centralizzata delle configurazioni presenta problemi.,Tecnico
+Piani di servizio disponibili,Vorrei informazioni sui diversi piani di servizio disponibili.,Tecnico
+Arresto anomalo del servizio,Il servizio si arresta improvvisamente senza preavviso.,Tecnico
+Richiesta aggiornamento preventivo,Avremmo bisogno di un aggiornamento del preventivo inviato in precedenza.,Commerciale
+Offerta scaduta,"L’offerta ricevuta risulta scaduta, è possibile rinnovarla?",Commerciale
+Chiarimenti su tempi di risposta,Vorrei sapere quali sono i tempi di risposta previsti dopo l’invio di un preventivo.,Commerciale
+Richiesta confronto offerte,Vorremmo confrontare diverse opzioni di offerta disponibili.,Commerciale
+Problema con codice sconto,Il codice sconto ricevuto non sembra funzionare correttamente.,Tecnico
+Richiesta condizioni per grandi volumi,Potete applicare condizioni particolari per grandi volumi di acquisto?,Commerciale
+Errore quantità in ordine,La quantità indicata nell’ordine non è corretta.,Tecnico
+Modifica indirizzo di consegna,Avremmo bisogno di modificare l’indirizzo di consegna dell’ordine.,Commerciale
+Richiesta conferma prezzi,Potete confermare che i prezzi indicati siano definitivi?,Tecnico
+Chiarimenti su validità offerta,Fino a quando resta valida l’offerta commerciale?,Commerciale
+Problema con ordine online,Abbiamo riscontrato un problema durante l’invio di un ordine online.,Tecnico
+Richiesta contatto post-vendita,Avrei bisogno di parlare con un referente commerciale post-vendita.,Commerciale
+Errore nel riepilogo ordine,Il riepilogo dell’ordine presenta informazioni errate.,Tecnico
+Richiesta upgrade contratto,Vorremmo effettuare un upgrade del contratto attuale.,Commerciale
+Informazioni su nuovi prodotti,Siamo interessati a conoscere i nuovi prodotti disponibili.,Tecnico
+Problema con sconto applicato,Lo sconto applicato non corrisponde a quanto concordato.,Tecnico
+Richiesta modifica condizioni,Vorremmo modificare alcune condizioni commerciali.,Tecnico
+Ordine bloccato,L’ordine risulta bloccato e non sappiamo come procedere.,Commerciale
+Chiarimenti su penali di recesso,Vorrei maggiori dettagli sulle penali in caso di recesso anticipato.,Tecnico
+Richiesta consulenza commerciale,Avremmo bisogno di una consulenza commerciale dedicata.,Commerciale
+Errore prezzo unitario,Il prezzo unitario indicato non è corretto.,Tecnico
+Richiesta proroga offerta,È possibile prorogare la validità dell’offerta?,Commerciale
+Problema con rinnovo automatico,Il rinnovo automatico del servizio non è avvenuto come previsto.,Tecnico
+Richiesta adeguamento prezzi,Vorremmo discutere un adeguamento dei prezzi.,Tecnico
+Chiarimenti su servizi opzionali,Vorrei informazioni sui servizi opzionali disponibili.,Tecnico
+Errore descrizione prodotto,La descrizione del prodotto in offerta non è corretta.,Tecnico
+Richiesta nuova proposta,Potete inviarci una nuova proposta commerciale?,Commerciale
+Ordine parzialmente evaso,L’ordine risulta solo parzialmente evaso.,Commerciale
+Problema con conferma ordine,Non abbiamo ricevuto la conferma dell’ordine.,Tecnico
+Richiesta variazione quantità,Vorremmo variare le quantità ordinate.,Tecnico
+Chiarimenti su costi aggiuntivi,Sono previsti costi aggiuntivi rispetto a quanto indicato?,Tecnico
+Errore totale ordine,Il totale dell’ordine non è corretto.,Tecnico
+Richiesta assistenza commerciale urgente,Avremmo bisogno di assistenza commerciale urgente.,Commerciale
+Problema con contratto attivo,Stiamo riscontrando un problema con un contratto attivo.,Tecnico
+Richiesta estensione servizi,Vorremmo estendere i servizi inclusi nel contratto.,Commerciale
+Chiarimenti su modalità di fatturazione,Vorrei chiarimenti sulle modalità di fatturazione commerciale.,Amministrazione
+Errore configurazione ordine,L’ordine risulta configurato in modo errato.,Tecnico
+Richiesta nuovo listino,Potete inviarci il nuovo listino prezzi?,Tecnico
+Problema con offerte multiple,Abbiamo ricevuto più offerte e non sappiamo quale sia valida.,Tecnico
+Richiesta revisione condizioni,Vorremmo rivedere alcune condizioni dell’accordo.,Tecnico
+Errore applicazione promozione,La promozione non è stata applicata correttamente.,Tecnico
+Richiesta informazioni su bundle,Vorrei informazioni su eventuali bundle disponibili.,Tecnico
+Problema con upgrade servizio,L’upgrade richiesto non è stato applicato.,Tecnico
+Richiesta verifica stato trattativa,Potete aggiornarmi sullo stato della trattativa commerciale?,Amministrazione
+Chiarimenti su clausole contrattuali,Avrei bisogno di chiarimenti su alcune clausole del contratto.,Commerciale
+Errore canone mensile,Il canone mensile indicato non è corretto.,Tecnico
+Richiesta supporto pre-vendita,Avrei bisogno di supporto pre-vendita per valutare l’offerta.,Commerciale
+Problema con condizioni concordate,Le condizioni applicate non corrispondono a quelle concordate.,Tecnico
+Candidatura spontanea,"Buongiorno, vi invio il mio curriculum per una possibile opportunità lavorativa.",Amministrazione
+Invio CV per posizione aperta,Ho visto una posizione aperta sul vostro sito e vi mando il mio CV in allegato.,Tecnico
+Richiesta colloquio conoscitivo,Sarei interessato a un colloquio conoscitivo per valutare possibili collaborazioni.,Tecnico
+Contatto diretto con CEO,È possibile parlare direttamente con il CEO per una proposta importante?,Tecnico
+Richiesta stage,Sono uno studente universitario e vorrei sapere se offrite opportunità di stage.,Tecnico
+Domanda su ambiente di lavoro,Vorrei avere informazioni sull’ambiente di lavoro e sulla cultura aziendale.,Tecnico
+Richiesta sponsorizzazione evento,Stiamo organizzando un evento e vorremmo sapere se siete interessati a sponsorizzarlo.,Tecnico
+Proposta di partnership non commerciale,Vi scrivo per proporre una collaborazione a livello istituzionale.,Commerciale
+Invio candidatura per ufficio HR,Invio il mio curriculum per il reparto risorse umane.,Tecnico
+Richiesta informazioni su carriera,Vorrei sapere quali sono le opportunità di carriera nella vostra azienda.,Tecnico
+Segnalazione generica,Volevo solo segnalare che seguo con interesse le vostre attività.,Tecnico
+Richiesta contatto stampa,Sono un giornalista e vorrei mettermi in contatto con il vostro ufficio stampa.,Tecnico
+Invito a conferenza,Siete invitati come ospiti a una conferenza di settore.,Tecnico
+Proposta di collaborazione accademica,Vi scrivo per proporre una collaborazione accademica con la nostra università.,Tecnico
+Richiesta testimonial,Sareste disponibili a partecipare come testimonial a un nostro progetto?,Tecnico
+Domanda su politica aziendale,Vorrei informazioni sulla vostra politica aziendale interna.,Tecnico
+Segnalazione candidatura già inviata,Vi scrivo per confermare l’invio della mia candidatura.,Tecnico
+Richiesta incontro istituzionale,Vorrei richiedere un incontro istituzionale con un vostro rappresentante.,Tecnico
+Proposta editoriale,Vi contatto per proporvi una collaborazione editoriale.,Tecnico
+Invio progetto personale,Vi mando un mio progetto personale per una vostra valutazione.,Tecnico
+Richiesta mentoring,Sarei interessato a un percorso di mentoring professionale.,Tecnico
+Domanda su smart working,Vorrei sapere se adottate politiche di smart working.,Tecnico
+Richiesta lettera di referenze,È possibile ottenere una lettera di referenze?,Tecnico
+Proposta pubblicitaria,Vi scrivo per proporvi una campagna pubblicitaria.,Tecnico
+Domanda su selezioni in corso,Vorrei sapere se sono in corso selezioni aperte.,Tecnico
+Richiesta supporto non specifico,Ho un problema ma non so a chi rivolgermi.,Tecnico
+Invio candidatura per posizione non specificata,Invio il mio CV per future opportunità.,Tecnico
+Richiesta partecipazione a evento aziendale,È possibile partecipare a un vostro evento aziendale?,Tecnico
+Domanda su sede aziendale,Vorrei sapere dove si trova la vostra sede principale.,Tecnico
+Richiesta visita aziendale,Sarebbe possibile organizzare una visita presso la vostra azienda?,Tecnico
+Proposta di volontariato,Vi contatto per proporre attività di volontariato aziendale.,Tecnico
+Domanda su valori aziendali,Vorrei maggiori informazioni sui vostri valori aziendali.,Tecnico
+Richiesta intervista,Sarebbe possibile organizzare un’intervista con un vostro dirigente?,Tecnico
+Segnalazione generica senza dettagli,Vi scrivo per una segnalazione generica.,Tecnico
+Proposta di evento culturale,Vorremmo invitarvi a partecipare a un evento culturale.,Tecnico
+Richiesta contatto generico,Chiedo di essere ricontattato.,Tecnico
+Invio candidatura fuori profilo,Invio il mio CV anche se non ho trovato posizioni adatte.,Tecnico
+Domanda su organigramma,Vorrei informazioni sull’organigramma aziendale.,Tecnico
+Proposta di collaborazione artistica,Vi scrivo per proporre una collaborazione artistica.,Tecnico
+Richiesta patrocinio,Chiediamo il patrocinio per una nostra iniziativa.,Amministrazione
+Domanda su fondazione aziendale,Avete una fondazione o attività di responsabilità sociale?,Tecnico
+Invio presentazione personale,Vi mando una presentazione personale per conoscenza.,Tecnico
+Richiesta supporto personale,Ho una richiesta personale non legata ai vostri servizi.,Tecnico
+Proposta di intervista podcast,Vorremmo intervistare un vostro rappresentante per un podcast.,Tecnico
+Richiesta informazioni generiche,Vorrei semplici informazioni generali sulla vostra azienda.,Tecnico
+Invio candidatura tardiva,Invio la mia candidatura anche se la selezione è chiusa.,Amministrazione
+Proposta di networking,Vi scrivo per una proposta di networking professionale.,Tecnico
+Richiesta contatto HR,Vorrei essere messo in contatto con il reparto HR.,Tecnico
