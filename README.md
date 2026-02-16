@@ -119,10 +119,13 @@ Output: CSV con categoria e priorità previste
 L’interfaccia web consente di:
 - effettuare login simulato per ruolo (Admin, Tecnico, Commerciale, Contabile)
 - caricare un file CSV di ticket
+- inserire un singolo ticket
 - ottenere automaticamente:
                           - categoria
                           - priorità
 - scaricare il file CSV risultante
+- visualizzazione dei ticket a 7/30/90 giorni con metriche e classificazione visibile su pagine web
+- visualizzazione dei ticket in base al dipartimento di appartenenza
 
 Il layout utilizza Bootstrap, con branding aziendale e logo integrato come sfondo.
 
