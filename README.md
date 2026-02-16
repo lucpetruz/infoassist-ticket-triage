@@ -42,32 +42,69 @@ avendo le caratteristiche ottimali di gestione e replicabilità.
 
 infoassist-ticket-triage/
 │
-├── backend/                 # Web application Flask
+├── .venv/                       # Virtual environment Python
+│
+├── backend/                     # Backend Flask
+│   │
+│   ├── run.py                   # Entry point dell'app Flask
+│   │
 │   ├── app/
-│   │   ├── static/           # CSS, immagini, logo
-│   │   ├── templates/        # HTML Bootstrap
-│   │   ├── routes_ui.py      # Routing frontend
-│   │   ├── routes_predict.py # API di predizione
-│   │   ├── ml_service.py     # Ponte Flask ↔ ML
-│   │   ├── db.py             # Configurazione DB
-│   │   ├── __init__.py       # Factory Flask
-│   │   └── main.py           # Avvio app
-│   └── requirements.txt
+│   │   ├── __init__.py          # App factory Flask
+│   │   │
+│   │   ├── routes_ui.py         # Route frontend (upload, dashboard, form)
+│   │   ├── routes_predict.py    # API di predizione (ticket singolo / batch)
+│   │   │
+│   │   ├── ml_service.py        # Servizio ML + priority rule-based
+│   │   │
+│   │   ├── services/
+│   │   │   ├── ticket_service.py  # Logica di persistenza DB ticket
+│   │   │   └── __init__.py
+│   │   │
+│   │   ├── models/              # Modelli ORM / DB (se presenti)
+│   │   │
+│   │   ├── templates/           # Template HTML (Bootstrap)
+│   │   │   ├── base.html
+│   │   │   ├── upload.html
+│   │   │   ├── dashboard.html
+│   │   │   └── ...
+│   │   │
+│   │   ├── static/              # Asset statici
+│   │   │   ├── css/
+│   │   │   ├── js/
+│   │   │   └── images/
+│   │   │
+│   │   └── extensions.py        # DB, migrate, ecc.
+│   │
+│   └── migrations/              # Migrazioni database (se usate)
 │
-├── ml/                       # Componente Machine Learning
-│   ├── data/                 # Dataset (raw, labeled, predicted)
-│   ├── models/               # Modelli addestrati (.joblib)
-│   ├── label_dataset.py      # Generazione dataset etichettato
-│   ├── train.py              # Training modelli
-│   ├── evaluate.py           # Metriche (accuracy, F1)
-│   ├── confusion_matrix.py   # Matrici di confusione
-│   ├── feature_importance.py # Parole più influenti
-│   └── predict_batch.py      # Predizione su CSV
+├── ml/                          # Modulo Machine Learning
+│   │
+│   ├── data/                    # Dataset
+│   │   ├── tickets_labeled.csv
+│   │   ├── tickets_retrained.csv
+│   │   ├── tickets_new.csv
+│   │   └── tickets_predicted.csv
+│   │
+│   ├── models/                  # Artefatti ML
+│   │   ├── vectorizer.joblib
+│   │   └── category_model.joblib
+│   │
+│   ├── train.py                 # Training modello categoria
+│   ├── merge_retraining.py      # Merge dati + retraining
+│   ├── predict_batch.py         # Predizione batch standalone
+│   │
+│   └── priority_rules.py        # Regole di priorità intra-dipartimentali
 │
-├── data/                     # Dataset di input grezzi (e dataset di test pronti all'utilizzo)
-├── .env                      # Variabili ambiente 
-├── .venv/                    # Ambiente virtuale Python
-└── README.md
+├── docker/                      # File docker (non usati in runtime attuale)
+│
+├── docker-compose.yml           # Orchestrazione (opzionale)
+│
+├── data/                        # Output o export (separato da ml/data)
+│
+├── .env                         # Variabili ambiente
+├── .gitignore
+├── README.md
+└── result.csv                   # Output di test / sperimentazioni
 
 
 **Installazione e avvio**
